@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FreeRoam - Presidency University</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 20px; background-color: #f4f4f9; }
+        #container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1 { color: #333; text-align: center; }
+        #room-list { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+        #room-list li { background-color: #4CAF50; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold; }
+        #loading { text-align: center; font-size: 1.2em; }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>Available Classrooms Now</h1>
+        <p id="loading">Loading...</p>
+        <ul id="room-list">
+            </ul>
+    </div>
+
+    <script>
+        // Fetch data from our API when the page loads
+        window.onload = function() {
+            fetch('/api/free-rooms/now')
+                .then(response => response.json())
+                .then(data => {
+                    const roomList = document.getElementById('room-list');
+                    const loadingText = document.getElementById('loading');
+                    
+                    // Clear loading text
+                    loadingText.style.display = 'none';
+
+                    // Display the free rooms
+                    if (data.free_rooms && data.free_rooms.length > 0) {
+                        data.free_rooms.forEach(room => {
+                            let li = document.createElement('li');
+                            li.textContent = room;
+                            roomList.appendChild(li);
+                        });
+                    } else {
+                        roomList.textContent = 'No free rooms found right now.';
+                    }
+                })
+                .catch(error => {
+                    console.error('Error fetching free rooms:', error);
+                    document.getElementById('loading').textContent = 'Error loading data.';
+                });
+        };
+    </script>
+</body>
+</html>

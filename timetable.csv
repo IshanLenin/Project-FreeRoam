@@ -1,0 +1,3607 @@
+day,time,course_code,room_code
+Monday,2:30 - 3:25,CSE2258,NF01
+Monday,2:30 - 3:25,CSE2258,NF01
+Monday,2:30 - 3:25,CSE2258,NF01
+Monday,2:30 - 3:25,CSE2258,NF01
+Monday,2:30 - 3:25,CSE2258,NF01
+Monday,3:25 - 4:15,MAT2501,
+Monday,3:25 - 4:15,CSE2264,
+Monday,3:25 - 4:15,CSE2251,
+Monday,3:25 - 4:15,CSE2253,
+Tuesday,9:45 - 10:40,CSE2265,
+Tuesday,3:25 - 4:15,CSE2259,LGL05
+Tuesday,3:25 - 4:15,CSE2259,NF01
+Tuesday,3:25 - 4:15,CSE2259,NF01
+Tuesday,3:25 - 4:15,CSE2259,NF01
+Tuesday,3:25 - 4:15,CSE2264,LGL05
+Tuesday,3:25 - 4:15,CSE2264,NF01
+Tuesday,3:25 - 4:15,CSE2264,NF01
+Tuesday,3:25 - 4:15,CSE2264,NF01
+Tuesday,3:25 - 4:15,CSE2257,LGL05
+Tuesday,3:25 - 4:15,CSE2257,NF01
+Tuesday,3:25 - 4:15,CSE2257,NF01
+Tuesday,3:25 - 4:15,CSE2257,NF01
+Tuesday,3:25 - 4:15,CSE2251,LGL05
+Tuesday,3:25 - 4:15,CSE2251,NF01
+Tuesday,3:25 - 4:15,CSE2251,NF01
+Tuesday,3:25 - 4:15,CSE2251,NF01
+Wednesday,3:25 - 4:15,CSE2254,LFL03
+Wednesday,Unknown,CSE2253,NF01
+Wednesday,Unknown,CSE2253,NF01
+Wednesday,Unknown,CSE2253,NF01
+Wednesday,Unknown,CSE2253,NF01
+Wednesday,Unknown,CSE2253,NF01
+Wednesday,9:45 - 10:40,CSE1500,
+Wednesday,2:30 - 3:25,CSE2257,
+Wednesday,3:25 - 4:15,MAT2501,LFL03
+Wednesday,3:25 - 4:15,CSE2258,LFL03
+Thursday,9:45 - 10:40,CSE2252,DSL03
+Thursday,2:30 - 3:25,CSE2258,NF01
+Thursday,2:30 - 3:25,CSE2258,NF01
+Thursday,2:30 - 3:25,CSE2258,NF01
+Thursday,2:30 - 3:25,CSE2258,NF01
+Thursday,2:30 - 3:25,CSE2258,NF01
+Thursday,3:25 - 4:15,CSE1500,
+Thursday,3:25 - 4:15,CSE2264,
+Thursday,3:25 - 4:15,CSE2257,
+Thursday,3:25 - 4:15,MAT2501,
+Friday,3:25 - 4:15,APT4002,NF01
+Friday,Unknown,CSE2253,NF01
+Friday,Unknown,CSE2253,NF01
+Friday,Unknown,CSE2253,NF01
+Friday,2:30 - 3:25,CSE2251,
+Friday,3:25 - 4:15,MAT2501,NF01
+Monday,3:25 - 4:15,CSE2259,DTL03
+Monday,3:25 - 4:15,CSE2259,NF02
+Monday,3:25 - 4:15,APT4002,DTL03
+Monday,3:25 - 4:15,APT4002,NF02
+Monday,Unknown,CSE2258,NF02
+Monday,Unknown,CSE2258,NF02
+Monday,Unknown,CSE2258,NF02
+Monday,9:45 - 10:40,CSE2253,
+Monday,3:25 - 4:15,MAT2501,DTL03
+Monday,3:25 - 4:15,MAT2501,NF02
+Tuesday,3:25 - 4:15,CSE2254,LFL02
+Tuesday,Unknown,MAT2501,NF02
+Tuesday,Unknown,MAT2501,NF02
+Tuesday,Unknown,MAT2501,NF02
+Tuesday,9:45 - 10:40,CSE2251,
+Tuesday,3:25 - 4:15,CSE2253,LFL02
+Wednesday,3:25 - 4:15,CSE2252,DSL03
+Wednesday,Unknown,CSE2257,NF02
+Wednesday,Unknown,CSE2257,NF02
+Wednesday,Unknown,CSE2257,NF02
+Wednesday,Unknown,CSE2257,NF02
+Wednesday,9:45 - 10:40,CSE2264,
+Wednesday,2:30 - 3:25,CSE2251,
+Wednesday,3:25 - 4:15,CSE2258,DSL03
+Thursday,Unknown,CSE2258,NF02
+Thursday,Unknown,CSE2258,NF02
+Thursday,Unknown,CSE2258,NF02
+Thursday,Unknown,CSE2258,NF02
+Thursday,Unknown,CSE2258,NF02
+Thursday,Unknown,CSE2258,NF02
+Thursday,9:45 - 10:40,CSE2253,
+Thursday,2:30 - 3:25,CSE2257,
+Thursday,3:25 - 4:15,MAT2501,
+Thursday,3:25 - 4:15,CSE2264,
+Thursday,3:25 - 4:15,CSE1500,
+Friday,3:25 - 4:15,CSE2265,
+Friday,Unknown,CSE2257,NF02
+Friday,Unknown,CSE2257,NF02
+Friday,Unknown,CSE2257,NF02
+Friday,Unknown,CSE2257,NF02
+Friday,Unknown,CSE2257,NF02
+Friday,9:45 - 10:40,CSE1500,
+Friday,2:30 - 3:25,CSE2264,
+Friday,3:25 - 4:15,CSE2251,
+Friday,3:25 - 4:15,MAT2501,
+Monday,3:25 - 4:15,CSE2259,LGL05
+Monday,3:25 - 4:15,CSE2259,DSL04
+Monday,3:25 - 4:15,CSE2252,LGL05
+Monday,3:25 - 4:15,CSE2252,DSL04
+Monday,Unknown,CSE2264,NF03
+Monday,Unknown,CSE2264,NF03
+Monday,9:45 - 10:40,MAT2501,
+Tuesday,3:25 - 4:15,APT4002,NF03
+Tuesday,Unknown,CSE2251,NF03
+Tuesday,Unknown,CSE2251,NF03
+Tuesday,Unknown,CSE2251,NF03
+Tuesday,Unknown,CSE2251,NF03
+Tuesday,Unknown,CSE2251,NF03
+Tuesday,9:45 - 10:40,CSE2258,
+Tuesday,2:30 - 3:25,CSE2257,
+Tuesday,3:25 - 4:15,CSE1500,NF03
+Tuesday,3:25 - 4:15,MAT2501,NF03
+Wednesday,3:25 - 4:15,CSE2254,LFL02
+Wednesday,Unknown,CSE2251,NF03
+Wednesday,Unknown,CSE2251,NF03
+Wednesday,Unknown,CSE2251,NF03
+Wednesday,Unknown,CSE2251,NF03
+Wednesday,Unknown,CSE2251,NF03
+Wednesday,9:45 - 10:40,CSE2257,
+Wednesday,3:25 - 4:15,CSE2253,LFL02
+Wednesday,3:25 - 4:15,CSE2264,LFL02
+Wednesday,3:25 - 4:15,MAT2501,LFL02
+Thursday,3:25 - 4:15,CSE2265,
+Thursday,2:30 - 3:25,CSE2264,NF03
+Thursday,2:30 - 3:25,CSE2264,NF03
+Thursday,2:30 - 3:25,CSE2264,NF03
+Thursday,3:25 - 4:15,CSE2253,
+Thursday,3:25 - 4:15,CSE2258,
+Friday,Unknown,MAT2501,NF03
+Friday,Unknown,MAT2501,NF03
+Friday,Unknown,MAT2501,NF03
+Friday,Unknown,MAT2501,NF03
+Friday,Unknown,MAT2501,NF03
+Friday,Unknown,MAT2501,NF03
+Friday,9:45 - 10:40,CSE2258,
+Friday,3:25 - 4:15,CSE2251,
+Friday,3:25 - 4:15,CSE2257,
+Friday,3:25 - 4:15,CSE2253,
+Friday,3:25 - 4:15,CSE1500,
+Monday,9:45 - 10:40,APT4002,NF01
+Monday,2:30 - 3:25,CSE2264,NF02
+Monday,3:25 - 4:15,CSE2251,NF03
+Monday,3:25 - 4:15,CSE2251,NF03
+Monday,3:25 - 4:15,CSE2251,NF03
+Monday,3:25 - 4:15,CSE2251,NF03
+Monday,3:25 - 4:15,CSE1500,NF03
+Monday,3:25 - 4:15,CSE1500,NF03
+Monday,3:25 - 4:15,CSE1500,NF03
+Monday,3:25 - 4:15,CSE1500,NF03
+Monday,3:25 - 4:15,MAT2501,NF03
+Monday,3:25 - 4:15,MAT2501,NF03
+Monday,3:25 - 4:15,MAT2501,NF03
+Monday,3:25 - 4:15,MAT2501,NF03
+Monday,3:25 - 4:15,CSE2253,NF03
+Monday,3:25 - 4:15,CSE2253,NF03
+Monday,3:25 - 4:15,CSE2253,NF03
+Monday,3:25 - 4:15,CSE2253,NF03
+Tuesday,Unknown,MAT2501,NF01
+Tuesday,Unknown,MAT2501,NF01
+Tuesday,9:45 - 10:40,CSE2253,
+Tuesday,2:30 - 3:25,CSE2251,NF02
+Tuesday,2:30 - 3:25,CSE2251,NF02
+Tuesday,2:30 - 3:25,CSE2251,NF02
+Tuesday,2:30 - 3:25,CSE2251,NF02
+Tuesday,3:25 - 4:15,CSE2258,
+Tuesday,3:25 - 4:15,CSE2257,
+Tuesday,3:25 - 4:15,CSE2264,
+Wednesday,9:45 - 10:40,CSE2259,
+Wednesday,3:25 - 4:15,CSE2254,LFL01
+Wednesday,3:25 - 4:15,CSE2254,DFL05
+Wednesday,3:25 - 4:15,CSE2254,NF02
+Wednesday,3:25 - 4:15,CSE2252,LFL01
+Wednesday,3:25 - 4:15,CSE2252,DFL05
+Wednesday,3:25 - 4:15,CSE2252,NF02
+Wednesday,3:25 - 4:15,CSE2258,LFL01
+Wednesday,3:25 - 4:15,CSE2258,DFL05
+Wednesday,3:25 - 4:15,CSE2258,NF02
+Thursday,3:25 - 4:15,CSE2265,NF02
+Thursday,Unknown,CSE2264,NF03
+Thursday,Unknown,CSE2264,NF03
+Thursday,Unknown,CSE2264,NF03
+Thursday,Unknown,CSE2264,NF03
+Thursday,9:45 - 10:40,CSE2251,
+Thursday,3:25 - 4:15,MAT2501,NF02
+Thursday,3:25 - 4:15,CSE2257,NF02
+Thursday,3:25 - 4:15,CSE1500,NF02
+Friday,9:45 - 10:40,CSE2253,NF01
+Friday,9:45 - 10:40,CSE2253,NF01
+Friday,3:25 - 4:15,MAT2501,DTL02
+Friday,3:25 - 4:15,MAT2501,NF02
+Friday,3:25 - 4:15,MAT2501,NF02
+Friday,3:25 - 4:15,CSE2258,DTL02
+Friday,3:25 - 4:15,CSE2258,NF02
+Friday,3:25 - 4:15,CSE2258,NF02
+Friday,3:25 - 4:15,CSE2257,DTL02
+Friday,3:25 - 4:15,CSE2257,NF02
+Friday,3:25 - 4:15,CSE2257,NF02
+Monday,9:45 - 10:40,CSE2265,
+Monday,2:30 - 3:25,CSE2253,NS01
+Monday,2:30 - 3:25,CSE2253,NS01
+Monday,2:30 - 3:25,CSE2253,NS01
+Monday,2:30 - 3:25,CSE2253,NS01
+Monday,2:30 - 3:25,CSE2253,NS01
+Monday,3:25 - 4:15,CSE2251,
+Monday,3:25 - 4:15,CSE1500,
+Monday,3:25 - 4:15,CSE2264,
+Monday,3:25 - 4:15,MAT2501,
+Tuesday,Unknown,CSE2258,NS01
+Tuesday,Unknown,CSE2258,NS01
+Tuesday,Unknown,CSE2258,NS01
+Tuesday,Unknown,CSE2258,NS01
+Tuesday,Unknown,CSE2258,NS01
+Tuesday,Unknown,CSE2258,NS01
+Tuesday,9:45 - 10:40,MAT2501,
+Tuesday,2:30 - 3:25,CSE2264,
+Tuesday,3:25 - 4:15,CSE2251,
+Tuesday,3:25 - 4:15,CSE2257,
+Tuesday,3:25 - 4:15,CSE2253,
+Wednesday,9:45 - 10:40,CSE2254,LFL03
+Wednesday,2:30 - 3:25,CSE2257,NS01
+Wednesday,2:30 - 3:25,CSE2257,NS01
+Wednesday,2:30 - 3:25,CSE2257,NS01
+Wednesday,2:30 - 3:25,CSE2257,NS01
+Wednesday,2:30 - 3:25,CSE2257,NS01
+Wednesday,3:25 - 4:15,MAT2501,
+Wednesday,3:25 - 4:15,CSE2251,
+Wednesday,3:25 - 4:15,CSE2258,
+Wednesday,3:25 - 4:15,CSE2253,
+Thursday,3:25 - 4:15,CSE2259,LFL04
+Thursday,3:25 - 4:15,CSE2259,NS01
+Thursday,3:25 - 4:15,APT4002,LFL04
+Thursday,3:25 - 4:15,APT4002,NS01
+Thursday,Unknown,CSE1500,NS01
+Thursday,Unknown,CSE1500,NS01
+Thursday,Unknown,CSE1500,NS01
+Thursday,9:45 - 10:40,MAT2501,
+Thursday,3:25 - 4:15,CSE2257,LFL04
+Thursday,3:25 - 4:15,CSE2257,NS01
+Friday,3:25 - 4:15,CSE2252,DSL04
+Friday,2:30 - 3:25,CSE2264,NS01
+Friday,2:30 - 3:25,CSE2264,NS01
+Friday,3:25 - 4:15,CSE2258,DSL04
+Monday,3:25 - 4:15,CSE2265,
+Monday,Unknown,CSE1500,NS02
+Monday,Unknown,CSE1500,NS02
+Monday,Unknown,CSE1500,NS02
+Monday,Unknown,CSE1500,NS02
+Monday,Unknown,CSE1500,NS02
+Monday,9:45 - 10:40,CSE2257,
+Monday,3:25 - 4:15,MAT2501,
+Monday,3:25 - 4:15,CSE2251,
+Monday,3:25 - 4:15,CSE2253,
+Tuesday,9:45 - 10:40,CSE2252,DFL04
+Tuesday,3:25 - 4:15,APT4002,NS02
+Tuesday,3:25 - 4:15,APT4002,LFL04
+Tuesday,3:25 - 4:15,APT4002,NS02
+Tuesday,3:25 - 4:15,CSE2259,NS02
+Tuesday,3:25 - 4:15,CSE2259,LFL04
+Tuesday,3:25 - 4:15,CSE2259,NS02
+Tuesday,3:25 - 4:15,CSE2264,NS02
+Tuesday,3:25 - 4:15,CSE2264,LFL04
+Tuesday,3:25 - 4:15,CSE2264,NS02
+Wednesday,3:25 - 4:15,CSE2254,LSL05
+Wednesday,3:25 - 4:15,CSE2254,LFL01
+Wednesday,Unknown,MAT2501,NS02
+Wednesday,Unknown,MAT2501,NS02
+Wednesday,9:45 - 10:40,CSE2258,
+Thursday,Unknown,CSE2251,NS02
+Thursday,Unknown,CSE2251,NS02
+Thursday,Unknown,CSE2251,NS02
+Thursday,Unknown,CSE2251,NS02
+Thursday,Unknown,CSE2251,NS02
+Thursday,Unknown,CSE2251,NS02
+Thursday,9:45 - 10:40,CSE2264,
+Thursday,2:30 - 3:25,CSE2253,
+Thursday,3:25 - 4:15,MAT2501,
+Thursday,3:25 - 4:15,CSE2258,
+Thursday,3:25 - 4:15,CSE2257,
+Friday,Unknown,CSE2264,NS02
+Friday,Unknown,CSE2264,NS02
+Friday,Unknown,CSE2264,NS02
+Friday,Unknown,CSE2264,NS02
+Friday,Unknown,CSE2264,NS02
+Friday,Unknown,CSE2264,NS02
+Friday,Unknown,CSE2264,NS02
+Friday,9:45 - 10:40,CSE2258,
+Friday,2:30 - 3:25,CSE2251,
+Friday,3:25 - 4:15,CSE1500,
+Friday,3:25 - 4:15,CSE2253,
+Friday,3:25 - 4:15,CSE2257,
+Friday,3:25 - 4:15,MAT2501,
+Monday,9:45 - 10:40,CSE2259,LFL05
+Monday,2:30 - 3:25,CSE2264,Pv04
+Monday,2:30 - 3:25,CSE2264,Pv04
+Monday,2:30 - 3:25,CSE2264,Pv04
+Monday,2:30 - 3:25,CSE2264,Pv04
+Monday,3:25 - 4:15,MAT2501,
+Monday,3:25 - 4:15,CSE2257,
+Monday,3:25 - 4:15,CSE2251,
+Tuesday,3:25 - 4:15,CSE2254,LFL03
+Tuesday,3:25 - 4:15,CSE2254,Pv04
+Tuesday,Unknown,MAT2501,Qiv04
+Tuesday,Unknown,MAT2501,Qiv04
+Tuesday,Unknown,MAT2501,Qiv04
+Tuesday,Unknown,MAT2501,Qiv04
+Tuesday,9:45 - 10:40,CSE2264,
+Tuesday,3:25 - 4:15,CSE2253,LFL03
+Tuesday,3:25 - 4:15,CSE2253,Pv04
+Tuesday,3:25 - 4:15,CSE2257,LFL03
+Tuesday,3:25 - 4:15,CSE2257,Pv04
+Tuesday,3:25 - 4:15,CSE2258,LFL03
+Tuesday,3:25 - 4:15,CSE2258,Pv04
+Wednesday,3:25 - 4:15,APT4002,Pv04
+Wednesday,Unknown,CSE2258,Qiv04
+Wednesday,Unknown,CSE2258,Qiv04
+Wednesday,Unknown,CSE2258,Qiv04
+Wednesday,Unknown,CSE2258,Qiv04
+Wednesday,9:45 - 10:40,CSE2253,
+Wednesday,2:30 - 3:25,CSE1500,
+Wednesday,3:25 - 4:15,CSE2264,Pv04
+Thursday,3:25 - 4:15,CSE2252,DFL04
+Thursday,3:25 - 4:15,CSE2252,Pv04
+Thursday,3:25 - 4:15,CSE2252,Pv04
+Thursday,3:25 - 4:15,CSE2252,Qiv04
+Thursday,3:25 - 4:15,CSE2257,DFL04
+Thursday,3:25 - 4:15,CSE2257,Pv04
+Thursday,3:25 - 4:15,CSE2257,Pv04
+Thursday,3:25 - 4:15,CSE2257,Qiv04
+Thursday,3:25 - 4:15,CSE2251,DFL04
+Thursday,3:25 - 4:15,CSE2251,Pv04
+Thursday,3:25 - 4:15,CSE2251,Pv04
+Thursday,3:25 - 4:15,CSE2251,Qiv04
+Thursday,3:25 - 4:15,MAT2501,DFL04
+Thursday,3:25 - 4:15,MAT2501,Pv04
+Thursday,3:25 - 4:15,MAT2501,Pv04
+Thursday,3:25 - 4:15,MAT2501,Qiv04
+Friday,3:25 - 4:15,CSE2265,Pv04
+Friday,Unknown,CSE1500,Qiv04
+Friday,Unknown,CSE1500,Qiv04
+Friday,Unknown,CSE1500,Qiv04
+Friday,Unknown,CSE1500,Qiv04
+Friday,9:45 - 10:40,CSE2253,
+Friday,3:25 - 4:15,CSE2251,Pv04
+Friday,3:25 - 4:15,MAT2501,Pv04
+Friday,3:25 - 4:15,CSE2258,Pv04
+Monday,Unknown,MAT2501,NS03
+Monday,Unknown,MAT2501,NS03
+Monday,Unknown,MAT2501,NS03
+Monday,Unknown,MAT2501,NS03
+Monday,Unknown,MAT2501,NS03
+Monday,Unknown,MAT2501,NS03
+Monday,9:45 - 10:40,CSE1500,
+Monday,3:25 - 4:15,CSE2251,
+Monday,3:25 - 4:15,CSE2257,
+Monday,3:25 - 4:15,CSE2271,
+Tuesday,3:25 - 4:15,CSE2252,DSL03
+Tuesday,Unknown,CSE2251,NS03
+Tuesday,Unknown,CSE2251,NS03
+Tuesday,Unknown,CSE2251,NS03
+Tuesday,Unknown,CSE2251,NS03
+Tuesday,9:45 - 10:40,MAT2501,
+Tuesday,3:25 - 4:15,CSE2253,DSL03
+Tuesday,3:25 - 4:15,CSE2271,DSL03
+Wednesday,Unknown,CSE2257,NS03
+Wednesday,Unknown,CSE2257,NS03
+Wednesday,Unknown,CSE2257,NS03
+Wednesday,Unknown,CSE2257,NS03
+Wednesday,Unknown,CSE2257,NS03
+Wednesday,9:45 - 10:40,CSE1500,
+Wednesday,2:30 - 3:25,CSE2253,
+Wednesday,3:25 - 4:15,MAT2501,
+Wednesday,3:25 - 4:15,CSE2251,
+Thursday,9:45 - 10:40,CSE2254,LFL03
+Thursday,3:25 - 4:15,APT4002,CBC2000
+Thursday,3:25 - 4:15,APT4002,NS03
+Thursday,3:25 - 4:15,APT4002,NS03
+Thursday,3:25 - 4:15,APT4002,NS03
+Thursday,3:25 - 4:15,CSE2257,CBC2000
+Thursday,3:25 - 4:15,CSE2257,NS03
+Thursday,3:25 - 4:15,CSE2257,NS03
+Thursday,3:25 - 4:15,CSE2257,NS03
+Friday,9:45 - 10:40,MAT2501,
+Friday,3:25 - 4:15,CSE2271,
+Friday,3:25 - 4:15,CSE2253,
+Monday,3:25 - 4:15,CSE2254,LFL01
+Monday,Unknown,CSE2251,NS01
+Monday,Unknown,CSE2251,NS01
+Monday,9:45 - 10:40,CSE1500,
+Monday,3:25 - 4:15,MAT2501,LFL01
+Tuesday,Unknown,MAT2501,NS02
+Tuesday,Unknown,MAT2501,NS02
+Tuesday,Unknown,MAT2501,NS02
+Tuesday,Unknown,MAT2501,NS02
+Tuesday,9:45 - 10:40,CSE2271,
+Tuesday,3:25 - 4:15,CSE2257,FIN1002
+Tuesday,3:25 - 4:15,CSE2257,NS01
+Tuesday,3:25 - 4:15,CSE2253,FIN1002
+Tuesday,3:25 - 4:15,CSE2253,NS01
+Wednesday,3:25 - 4:15,APT4002,NS02
+Wednesday,3:25 - 4:15,APT4002,NS02
+Wednesday,9:45 - 10:40,MAT2501,
+Wednesday,3:25 - 4:15,CSE2257,NS02
+Wednesday,3:25 - 4:15,CSE2257,NS02
+Thursday,3:25 - 4:15,CSE2252,DSL05
+Thursday,3:25 - 4:15,CSE2252,NS02
+Thursday,Unknown,CSE1500,NS03
+Thursday,Unknown,CSE1500,NS03
+Thursday,9:45 - 10:40,CSE2251,
+Thursday,3:25 - 4:15,CSE2253,DSL05
+Thursday,3:25 - 4:15,CSE2253,NS02
+Thursday,3:25 - 4:15,CSE2271,DSL05
+Thursday,3:25 - 4:15,CSE2271,NS02
+Friday,Unknown,CSE2253,NS01
+Friday,Unknown,CSE2253,NS01
+Friday,Unknown,CSE2253,NS01
+Friday,Unknown,CSE2253,NS01
+Friday,9:45 - 10:40,MAT2501,
+Friday,2:30 - 3:25,CSE2271,NS03
+Friday,2:30 - 3:25,CSE2271,NS03
+Friday,2:30 - 3:25,CSE2271,NS03
+Friday,3:25 - 4:15,CSE2251,FIN1002
+Friday,3:25 - 4:15,CSE2251,CBD2000
+Friday,3:25 - 4:15,CSE2257,FIN1002
+Friday,3:25 - 4:15,CSE2257,CBD2000
+Monday,Unknown,CSE2253,NS04
+Monday,Unknown,CSE2253,NS04
+Monday,Unknown,CSE2253,NS04
+Monday,Unknown,CSE2253,NS04
+Monday,Unknown,CSE2253,NS04
+Monday,Unknown,CSE2253,NS04
+Monday,Unknown,CSE2253,NS04
+Monday,9:45 - 10:40,CSE2271,
+Monday,2:30 - 3:25,CSE2258,
+Monday,3:25 - 4:15,CSE2251,
+Monday,3:25 - 4:15,CSE1500,
+Monday,3:25 - 4:15,CSE2257,
+Monday,3:25 - 4:15,MAT2501,
+Tuesday,3:25 - 4:15,APT4002,NS04
+Tuesday,Unknown,MAT2501,NS04
+Tuesday,Unknown,MAT2501,NS04
+Tuesday,Unknown,MAT2501,NS04
+Tuesday,Unknown,MAT2501,NS04
+Tuesday,Unknown,MAT2501,NS04
+Tuesday,9:45 - 10:40,CSE2251,
+Tuesday,2:30 - 3:25,CSE2253,
+Tuesday,3:25 - 4:15,CSE2258,NS04
+Tuesday,3:25 - 4:15,CSE2257,NS04
+Wednesday,3:25 - 4:15,CSE2252,DFL05
+Wednesday,Unknown,CSE2271,NS04
+Wednesday,Unknown,CSE2271,NS04
+Wednesday,3:25 - 4:15,CSE2258,DFL05
+Thursday,3:25 - 4:15,CSE2259,LGL05
+Thursday,Unknown,CSE1500,NS04
+Thursday,Unknown,CSE1500,NS04
+Thursday,Unknown,CSE1500,NS04
+Thursday,Unknown,CSE1500,NS04
+Thursday,9:45 - 10:40,CSE2253,
+Thursday,2:30 - 3:25,CSE2271,
+Thursday,3:25 - 4:15,MAT2501,LGL05
+Friday,9:45 - 10:40,CSE2254,LFL03
+Friday,2:30 - 3:25,CSE2257,NS04
+Friday,2:30 - 3:25,CSE2257,NS04
+Friday,2:30 - 3:25,CSE2257,NS04
+Friday,3:25 - 4:15,MAT2501,
+Friday,3:25 - 4:15,CSE2251,
+Monday,3:25 - 4:15,CSE2259,
+Monday,Unknown,CSE2251,NS05
+Monday,Unknown,CSE2251,NS05
+Monday,Unknown,CSE2251,NS05
+Monday,Unknown,CSE2251,NS05
+Monday,Unknown,CSE2251,NS05
+Monday,9:45 - 10:40,CSE2257,
+Monday,2:30 - 3:25,CSE2253,
+Monday,3:25 - 4:15,MAT2501,
+Monday,3:25 - 4:15,CSE2271,
+Tuesday,Unknown,CSE2253,NS05
+Tuesday,Unknown,CSE2253,NS05
+Tuesday,Unknown,CSE2253,NS05
+Tuesday,Unknown,CSE2253,NS05
+Tuesday,Unknown,CSE2253,NS05
+Tuesday,Unknown,CSE2253,NS05
+Tuesday,2:30 - 3:25,MAT2501,
+Tuesday,3:25 - 4:15,CSE2251,
+Tuesday,3:25 - 4:15,CSE1500,
+Tuesday,3:25 - 4:15,CSE2258,
+Tuesday,3:25 - 4:15,CSE2271,
+Wednesday,3:25 - 4:15,CSE2254,LFL03
+Wednesday,Unknown,CSE2257,NS05
+Wednesday,Unknown,CSE2257,NS05
+Wednesday,Unknown,CSE2257,NS05
+Wednesday,9:45 - 10:40,CSE2258,
+Wednesday,3:25 - 4:15,CSE1500,LFL03
+Thursday,3:25 - 4:15,CSE2252,DFL05
+Thursday,3:25 - 4:15,CSE2252,NS05
+Thursday,3:25 - 4:15,APT4002,DFL05
+Thursday,3:25 - 4:15,APT4002,NS05
+Thursday,Unknown,MAT2501,NS05
+Thursday,Unknown,MAT2501,NS05
+Thursday,Unknown,MAT2501,NS05
+Thursday,9:45 - 10:40,CSE2258,
+Thursday,3:25 - 4:15,CSE2253,DFL05
+Thursday,3:25 - 4:15,CSE2253,NS05
+Friday,Unknown,CSE2257,NS05
+Friday,Unknown,CSE2257,NS05
+Friday,Unknown,CSE2257,NS05
+Friday,Unknown,CSE2257,NS05
+Friday,9:45 - 10:40,CSE2251,
+Friday,3:25 - 4:15,CSE2271,
+Friday,3:25 - 4:15,MAT2501,
+Monday,Unknown,CSE2257,NS06
+Monday,Unknown,CSE2257,NS06
+Monday,Unknown,CSE2257,NS06
+Monday,Unknown,CSE2257,NS06
+Monday,Unknown,CSE2257,NS06
+Monday,9:45 - 10:40,CSE2271,
+Monday,2:30 - 3:25,MAT2501,
+Monday,3:25 - 4:15,CSE2253,DTL03
+Monday,3:25 - 4:15,CSE2258,DTL03
+Tuesday,3:25 - 4:15,CSE2259,LGL01
+Tuesday,Unknown,MAT2501,NS06
+Tuesday,Unknown,MAT2501,NS06
+Tuesday,Unknown,MAT2501,NS06
+Tuesday,Unknown,MAT2501,NS06
+Tuesday,Unknown,MAT2501,NS06
+Tuesday,9:45 - 10:40,CSE2271,
+Tuesday,2:30 - 3:25,CSE1500,
+Tuesday,3:25 - 4:15,CSE2257,LGL01
+Tuesday,3:25 - 4:15,CSE2251,LGL01
+Wednesday,3:25 - 4:15,CSE2252,DSL03
+Wednesday,Unknown,CSE2258,NS06
+Wednesday,Unknown,CSE2258,NS06
+Wednesday,Unknown,CSE2258,NS06
+Wednesday,9:45 - 10:40,CSE2253,
+Wednesday,3:25 - 4:15,MAT2501,DSL03
+Thursday,Unknown,CSE2253,NS06
+Thursday,Unknown,CSE2253,NS06
+Thursday,Unknown,CSE2253,NS06
+Thursday,Unknown,CSE2253,NS06
+Thursday,Unknown,CSE2253,NS06
+Thursday,3:25 - 4:15,CSE2257,
+Thursday,3:25 - 4:15,MAT2501,
+Thursday,3:25 - 4:15,CSE2251,
+Thursday,3:25 - 4:15,CSE2258,
+Friday,3:25 - 4:15,APT4002,NS06
+Friday,3:25 - 4:15,APT4002,LFL02
+Friday,3:25 - 4:15,CSE2254,NS06
+Friday,3:25 - 4:15,CSE2254,LFL02
+Friday,Unknown,CSE2271,NS06
+Friday,Unknown,CSE2271,NS06
+Friday,Unknown,CSE2271,NS06
+Friday,9:45 - 10:40,CSE2251,
+Friday,3:25 - 4:15,CSE1500,NS06
+Friday,3:25 - 4:15,CSE1500,LFL02
+Monday,3:25 - 4:15,CSE2254,LTL01
+Monday,Unknown,CSE2253,QS05
+Monday,Unknown,CSE2253,QS05
+Monday,Unknown,CSE2253,QS05
+Monday,Unknown,CSE2253,QS05
+Monday,3:25 - 4:15,CSE2257,LTL01
+Monday,3:25 - 4:15,CSE2271,LTL01
+Tuesday,3:25 - 4:15,APT4002,CDV2000
+Tuesday,3:25 - 4:15,APT4002,QS05
+Tuesday,Unknown,CSE2257,QS05
+Tuesday,Unknown,CSE2257,QS05
+Tuesday,Unknown,CSE2257,QS05
+Tuesday,Unknown,CSE2257,QS05
+Tuesday,9:45 - 10:40,MAT2501,
+Tuesday,3:25 - 4:15,CSE2251,CDV2000
+Tuesday,3:25 - 4:15,CSE2251,QS05
+Wednesday,9:45 - 10:40,CSE2252,LTL03
+Wednesday,2:30 - 3:25,MAT2501,QS05
+Wednesday,2:30 - 3:25,MAT2501,QS05
+Wednesday,2:30 - 3:25,MAT2501,QS05
+Wednesday,3:25 - 4:15,CSE1500,
+Wednesday,3:25 - 4:15,CSE2257,
+Thursday,Unknown,CSE1500,QS05
+Thursday,Unknown,CSE1500,QS05
+Thursday,Unknown,CSE1500,QS05
+Thursday,Unknown,CSE1500,QS05
+Thursday,Unknown,CSE1500,QS05
+Thursday,Unknown,CSE1500,QS05
+Thursday,9:45 - 10:40,CSE2271,
+Thursday,2:30 - 3:25,MAT2501,
+Thursday,3:25 - 4:15,CSE2251,CDV2000
+Thursday,3:25 - 4:15,CSE2253,CDV2000
+Friday,2:30 - 3:25,MAT2501,QS05
+Friday,2:30 - 3:25,MAT2501,QS05
+Friday,2:30 - 3:25,MAT2501,QS05
+Friday,2:30 - 3:25,MAT2501,QS05
+Friday,3:25 - 4:15,CSE2251,
+Friday,3:25 - 4:15,CSE2271,
+Friday,3:25 - 4:15,CSE2253,
+Monday,2:30 - 3:25,CSE2251,QS06
+Monday,2:30 - 3:25,CSE2251,QS06
+Monday,2:30 - 3:25,CSE2251,QS06
+Monday,2:30 - 3:25,CSE2251,QS06
+Monday,3:25 - 4:15,CSE2271,CDV2000
+Monday,3:25 - 4:15,CSE2253,CDV2000
+Tuesday,9:45 - 10:40,CSE2254,LTL01
+Tuesday,2:30 - 3:25,CSE2257,QS06
+Tuesday,2:30 - 3:25,CSE2257,QS06
+Tuesday,2:30 - 3:25,CSE2257,QS06
+Tuesday,2:30 - 3:25,CSE2257,QS06
+Tuesday,3:25 - 4:15,CSE1500,CDV2000
+Tuesday,3:25 - 4:15,MAT2501,CDV2000
+Wednesday,Unknown,CSE2257,QS06
+Wednesday,Unknown,CSE2257,QS06
+Wednesday,Unknown,CSE2257,QS06
+Wednesday,Unknown,CSE2257,QS06
+Wednesday,Unknown,CSE2257,QS06
+Wednesday,9:45 - 10:40,CSE2253,
+Wednesday,2:30 - 3:25,MAT2501,
+Wednesday,3:25 - 4:15,CSE2251,
+Wednesday,3:25 - 4:15,CSE2271,
+Thursday,9:45 - 10:40,CSE2252,LTL03
+Thursday,3:25 - 4:15,APT4002,QS06
+Thursday,3:25 - 4:15,APT4002,QS06
+Thursday,3:25 - 4:15,APT4002,QS06
+Thursday,3:25 - 4:15,MAT2501,QS06
+Thursday,3:25 - 4:15,MAT2501,QS06
+Thursday,3:25 - 4:15,MAT2501,QS06
+Thursday,3:25 - 4:15,CSE1500,QS06
+Thursday,3:25 - 4:15,CSE1500,QS06
+Thursday,3:25 - 4:15,CSE1500,QS06
+Friday,Unknown,MAT2501,QS06
+Friday,Unknown,MAT2501,QS06
+Friday,Unknown,MAT2501,QS06
+Friday,Unknown,MAT2501,QS06
+Friday,Unknown,MAT2501,QS06
+Friday,Unknown,MAT2501,QS06
+Friday,9:45 - 10:40,CSE2253,
+Friday,2:30 - 3:25,CSE2271,
+Friday,3:25 - 4:15,CSE2257,CDV2000
+Friday,3:25 - 4:15,CSE2251,CDV2000
+Monday,Unknown,CSE2251,NT02
+Monday,Unknown,CSE2251,NT02
+Monday,Unknown,CSE2251,NT02
+Monday,Unknown,CSE2251,NT02
+Monday,Unknown,CSE2251,NT02
+Monday,Unknown,CSE2251,NT02
+Monday,9:45 - 10:40,CSE2253,
+Monday,3:25 - 4:15,CSE2257,
+Monday,3:25 - 4:15,CSE2258,
+Monday,3:25 - 4:15,MAT2501,
+Tuesday,Unknown,CSE2257,NT02
+Tuesday,Unknown,CSE2257,NT02
+Tuesday,Unknown,CSE2257,NT02
+Tuesday,Unknown,CSE2257,NT02
+Tuesday,2:30 - 3:25,CSE2258,
+Tuesday,3:25 - 4:15,MAT2501,LGL04
+Tuesday,3:25 - 4:15,CSE2253,LGL04
+Wednesday,9:45 - 10:40,CSE2252,DFL05
+Wednesday,2:30 - 3:25,CSE2258,NT02
+Wednesday,2:30 - 3:25,CSE2258,NT02
+Wednesday,2:30 - 3:25,CSE2258,NT02
+Wednesday,3:25 - 4:15,CSE2251,CIT2400
+Thursday,3:25 - 4:15,CSE2254,LFL03
+Thursday,3:25 - 4:15,CSE2254,LGL03
+Thursday,3:25 - 4:15,CSE2259,LFL03
+Thursday,3:25 - 4:15,CSE2259,LGL03
+Thursday,Unknown,MAT2501,NT02
+Thursday,Unknown,MAT2501,NT02
+Thursday,Unknown,MAT2501,NT02
+Thursday,9:45 - 10:40,CSE2251,
+Thursday,3:25 - 4:15,CSE1500,LFL03
+Thursday,3:25 - 4:15,CSE1500,LGL03
+Friday,3:25 - 4:15,APT4002,NT02
+Friday,Unknown,CSE2253,NT02
+Friday,Unknown,CSE2253,NT02
+Friday,Unknown,CSE2253,NT02
+Friday,Unknown,CSE2253,NT02
+Friday,Unknown,CSE2253,NT02
+Friday,2:30 - 3:25,MAT2501,
+Friday,3:25 - 4:15,CSE2257,NT02
+Friday,3:25 - 4:15,CSE1500,NT02
+Monday,3:25 - 4:15,CSE2254,LFL02
+Monday,Unknown,CSE2253,NT03
+Monday,Unknown,CSE2253,NT03
+Monday,Unknown,CSE2253,NT03
+Monday,Unknown,CSE2253,NT03
+Monday,Unknown,CSE2253,NT03
+Monday,9:45 - 10:40,MAT2501,
+Monday,2:30 - 3:25,CSE2251,
+Monday,3:25 - 4:15,CSE2258,LFL02
+Monday,3:25 - 4:15,CSE1500,LFL02
+Tuesday,3:25 - 4:15,CSE2252,DFL04
+Tuesday,3:25 - 4:15,CSE2251,DFL04
+Tuesday,3:25 - 4:15,CSE2253,DFL04
+Tuesday,3:25 - 4:15,CSE2257,DFL04
+Wednesday,3:25 - 4:15,APT4002,NT03
+Wednesday,Unknown,CSE2258,NT03
+Wednesday,Unknown,CSE2258,NT03
+Wednesday,9:45 - 10:40,MAT2501,
+Thursday,9:45 - 10:40,CSE2258,
+Thursday,2:30 - 3:25,CSE2257,
+Thursday,3:25 - 4:15,MAT2501,
+Thursday,3:25 - 4:15,CSE2253,
+Thursday,3:25 - 4:15,CSE2251,
+Thursday,3:25 - 4:15,CSE1500,
+Friday,9:45 - 10:40,CSE2259,
+Friday,3:25 - 4:15,MAT2501,
+Friday,3:25 - 4:15,CSE2257,
+Monday,3:25 - 4:15,CSE2252,DSL03
+Monday,3:25 - 4:15,CSE2252,NT03
+Monday,3:25 - 4:15,CSE2252,NT02
+Monday,3:25 - 4:15,APT4002,DSL03
+Monday,3:25 - 4:15,APT4002,NT03
+Monday,3:25 - 4:15,APT4002,NT02
+Monday,Unknown,MAT2501,NT01
+Monday,Unknown,MAT2501,NT01
+Monday,9:45 - 10:40,CSE1500,
+Monday,3:25 - 4:15,CSE2258,DSL03
+Monday,3:25 - 4:15,CSE2258,NT03
+Monday,3:25 - 4:15,CSE2258,NT02
+Tuesday,Unknown,CSE2258,NT03
+Tuesday,Unknown,CSE2258,NT03
+Tuesday,Unknown,CSE2258,NT03
+Tuesday,9:45 - 10:40,CSE2257,NT02
+Tuesday,9:45 - 10:40,CSE2257,NT02
+Tuesday,9:45 - 10:40,CSE2257,NT02
+Tuesday,2:30 - 3:25,MAT2501,
+Tuesday,3:25 - 4:15,CSE1500,CIT2400
+Tuesday,3:25 - 4:15,CSE2251,CIT2400
+Wednesday,3:25 - 4:15,CSE2259,LGL05
+Wednesday,3:25 - 4:15,CSE2259,NT03
+Wednesday,9:45 - 10:40,MAT2501,
+Wednesday,3:25 - 4:15,CSE2253,LGL05
+Wednesday,3:25 - 4:15,CSE2253,NT03
+Thursday,2:30 - 3:25,CSE2251,NT02
+Thursday,2:30 - 3:25,CSE2251,NT02
+Thursday,2:30 - 3:25,CSE2251,NT02
+Thursday,2:30 - 3:25,CSE2251,NT02
+Thursday,3:25 - 4:15,CSE2253,CIT2400
+Thursday,3:25 - 4:15,CSE2257,CIT2400
+Friday,3:25 - 4:15,CSE2254,LFL02
+Friday,3:25 - 4:15,CSE2254,NT01
+Friday,Unknown,CSE2258,NT03
+Friday,Unknown,CSE2258,NT03
+Friday,Unknown,CSE2258,NT03
+Friday,Unknown,CSE2258,NT03
+Friday,9:45 - 10:40,CSE2257,
+Friday,3:25 - 4:15,CSE2253,LFL02
+Friday,3:25 - 4:15,CSE2253,NT01
+Friday,3:25 - 4:15,CSE2251,LFL02
+Friday,3:25 - 4:15,CSE2251,NT01
+Friday,3:25 - 4:15,MAT2501,LFL02
+Friday,3:25 - 4:15,MAT2501,NT01
+Monday,3:25 - 4:15,APT4002,NT04
+Monday,Unknown,CSE2251,NT04
+Monday,Unknown,CSE2251,NT04
+Monday,Unknown,CSE2251,NT04
+Monday,9:45 - 10:40,MAT2501,
+Monday,3:25 - 4:15,CSE2258,NT04
+Tuesday,Unknown,CSE2257,NT04
+Tuesday,Unknown,CSE2257,NT04
+Tuesday,Unknown,CSE2257,NT04
+Tuesday,Unknown,CSE2257,NT04
+Tuesday,Unknown,CSE2257,NT04
+Tuesday,Unknown,CSE2257,NT04
+Tuesday,9:45 - 10:40,CSE2253,
+Tuesday,2:30 - 3:25,CSE2258,
+Tuesday,3:25 - 4:15,CSE1500,
+Tuesday,3:25 - 4:15,CSE2251,
+Tuesday,3:25 - 4:15,MAT2501,
+Wednesday,3:25 - 4:15,CSE2259,LTL04
+Wednesday,3:25 - 4:15,CSE2259,NT04
+Wednesday,3:25 - 4:15,CSE2257,LTL04
+Wednesday,3:25 - 4:15,CSE2257,NT04
+Thursday,3:25 - 4:15,CSE2254,LTL01
+Thursday,Unknown,CSE1500,NT04
+Thursday,Unknown,CSE1500,NT04
+Thursday,Unknown,CSE1500,NT04
+Thursday,Unknown,CSE1500,NT04
+Thursday,9:45 - 10:40,CSE2253,
+Thursday,3:25 - 4:15,MAT2501,LTL01
+Thursday,3:25 - 4:15,CSE2251,LTL01
+Friday,9:45 - 10:40,CSE2252,LTL03
+Friday,2:30 - 3:25,CSE2258,NT04
+Friday,2:30 - 3:25,CSE2258,NT04
+Friday,2:30 - 3:25,CSE2258,NT04
+Friday,2:30 - 3:25,CSE2258,NT04
+Friday,3:25 - 4:15,MAT2501,
+Friday,3:25 - 4:15,CSE2257,
+Friday,3:25 - 4:15,CSE2253,
+Monday,9:45 - 10:40,CSE2259,LTL04
+Monday,3:25 - 4:15,APT4002,NT05
+Monday,3:25 - 4:15,APT4002,NT05
+Monday,3:25 - 4:15,APT4002,NT05
+Monday,3:25 - 4:15,CSE2251,NT05
+Monday,3:25 - 4:15,CSE2251,NT05
+Monday,3:25 - 4:15,CSE2251,NT05
+Monday,3:25 - 4:15,MAT2501,NT05
+Monday,3:25 - 4:15,MAT2501,NT05
+Monday,3:25 - 4:15,MAT2501,NT05
+Tuesday,9:45 - 10:40,CSE2252,LTL03
+Tuesday,2:30 - 3:25,CSE2251,NT05
+Tuesday,2:30 - 3:25,CSE2251,NT05
+Tuesday,2:30 - 3:25,CSE2251,NT05
+Tuesday,3:25 - 4:15,MAT2501,
+Tuesday,3:25 - 4:15,CSE2257,
+Wednesday,3:25 - 4:15,CSE2254,LTL01
+Wednesday,Unknown,CSE2253,NT05
+Wednesday,Unknown,CSE2253,NT05
+Wednesday,Unknown,CSE2253,NT05
+Wednesday,9:45 - 10:40,CSE1500,
+Wednesday,3:25 - 4:15,CSE2258,LTL01
+Thursday,Unknown,CSE2251,NT05
+Thursday,Unknown,CSE2251,NT05
+Thursday,Unknown,CSE2251,NT05
+Thursday,Unknown,CSE2251,NT05
+Thursday,Unknown,CSE2251,NT05
+Thursday,Unknown,CSE2251,NT05
+Thursday,9:45 - 10:40,CSE1500,
+Thursday,2:30 - 3:25,CSE2258,
+Thursday,3:25 - 4:15,CSE2257,
+Thursday,3:25 - 4:15,MAT2501,
+Thursday,3:25 - 4:15,CSE2253,
+Friday,Unknown,CSE2257,NT05
+Friday,Unknown,CSE2257,NT05
+Friday,Unknown,CSE2257,NT05
+Friday,Unknown,CSE2257,NT05
+Friday,9:45 - 10:40,CSE2253,
+Friday,3:25 - 4:15,MAT2501,LTL01
+Friday,3:25 - 4:15,CSE2258,LTL01
+Monday,3:25 - 4:15,CSE2252,LTL03
+Monday,Unknown,CSE2253,NT06
+Monday,Unknown,CSE2253,NT06
+Monday,Unknown,CSE2253,NT06
+Monday,Unknown,CSE2253,NT06
+Monday,9:45 - 10:40,MAT2501,
+Monday,3:25 - 4:15,CSE2258,LTL03
+Monday,3:25 - 4:15,CSE1500,LTL03
+Tuesday,Unknown,CSE2251,NT06
+Tuesday,Unknown,CSE2251,NT06
+Tuesday,Unknown,CSE2251,NT06
+Tuesday,Unknown,CSE2251,NT06
+Tuesday,9:45 - 10:40,CSE2258,
+Tuesday,3:25 - 4:15,CSE2257,LTL01
+Tuesday,3:25 - 4:15,CSE2253,LTL01
+Wednesday,Unknown,MAT2501,NT06
+Wednesday,Unknown,MAT2501,NT06
+Wednesday,Unknown,MAT2501,NT06
+Wednesday,Unknown,MAT2501,NT06
+Wednesday,9:45 - 10:40,CSE2258,
+Wednesday,2:30 - 3:25,CSE2251,
+Wednesday,3:25 - 4:15,CSE2257,
+Thursday,9:45 - 10:40,CSE2254,LTL01
+Thursday,3:25 - 4:15,CSE2259,LTL04
+Thursday,3:25 - 4:15,CSE2259,NT06
+Thursday,3:25 - 4:15,CSE2259,NT06
+Thursday,3:25 - 4:15,MAT2501,LTL04
+Thursday,3:25 - 4:15,MAT2501,NT06
+Thursday,3:25 - 4:15,MAT2501,NT06
+Thursday,3:25 - 4:15,CSE2257,LTL04
+Thursday,3:25 - 4:15,CSE2257,NT06
+Thursday,3:25 - 4:15,CSE2257,NT06
+Friday,3:25 - 4:15,APT4002,NT06
+Friday,Unknown,MAT2501,NT06
+Friday,Unknown,MAT2501,NT06
+Friday,Unknown,MAT2501,NT06
+Friday,Unknown,MAT2501,NT06
+Friday,9:45 - 10:40,CSE2253,
+Friday,3:25 - 4:15,CSE1500,NT06
+Friday,3:25 - 4:15,CSE2251,NT06
+Monday,3:25 - 4:15,CSE2252,DSL05
+Monday,3:25 - 4:15,CSE2252,NT04
+Monday,Unknown,CSE2251,NT05
+Monday,Unknown,CSE2251,NT05
+Monday,9:45 - 10:40,CSE2258,
+Monday,3:25 - 4:15,CSE2253,DSL05
+Monday,3:25 - 4:15,CSE2253,NT04
+Monday,3:25 - 4:15,MAT2501,DSL05
+Monday,3:25 - 4:15,MAT2501,NT04
+Tuesday,3:25 - 4:15,CSE2254,LFL03
+Tuesday,Unknown,CSE2251,NT05
+Tuesday,Unknown,CSE2251,NT05
+Tuesday,Unknown,CSE2251,NT05
+Tuesday,9:45 - 10:40,CSE2257,
+Tuesday,3:25 - 4:15,CSE1500,LFL03
+Tuesday,3:25 - 4:15,CSE2258,LFL03
+Wednesday,3:25 - 4:15,APT4002,NT05
+Wednesday,3:25 - 4:15,APT4002,NT06
+Wednesday,9:45 - 10:40,CSE2253,
+Wednesday,3:25 - 4:15,MAT2501,NT05
+Wednesday,3:25 - 4:15,MAT2501,NT06
+Thursday,3:25 - 4:15,CSE2259,
+Thursday,Unknown,CSE2253,NT06
+Thursday,Unknown,CSE2253,NT06
+Thursday,Unknown,CSE2253,NT06
+Thursday,9:45 - 10:40,CSE2257,
+Thursday,2:30 - 3:25,CSE1500,NT04
+Thursday,3:25 - 4:15,MAT2501,
+Friday,Unknown,CSE2251,NT04
+Friday,Unknown,CSE2251,NT04
+Friday,9:45 - 10:40,CSE2258,
+Friday,2:30 - 3:25,CSE2257,NT05
+Friday,2:30 - 3:25,CSE2257,NT05
+Friday,3:25 - 4:15,MAT2501,
+Monday,Unknown,MAT2501,Niv01
+Monday,Unknown,MAT2501,Niv01
+Monday,Unknown,MAT2501,Niv01
+Monday,Unknown,MAT2501,Niv01
+Monday,Unknown,MAT2501,Niv01
+Monday,9:45 - 10:40,CSE2253,
+Monday,3:25 - 4:15,CSE2251,DTL01
+Monday,3:25 - 4:15,CSE2257,DTL01
+Monday,3:25 - 4:15,CSE2258,DTL01
+Tuesday,3:25 - 4:15,CSE2259,LFL05
+Tuesday,3:25 - 4:15,CSE2259,Niv01
+Tuesday,3:25 - 4:15,APT4002,LFL05
+Tuesday,3:25 - 4:15,APT4002,Niv01
+Tuesday,3:25 - 4:15,MAT2501,LFL05
+Tuesday,3:25 - 4:15,MAT2501,Niv01
+Wednesday,Unknown,CSE1500,Niv01
+Wednesday,Unknown,CSE1500,Niv01
+Wednesday,Unknown,CSE1500,Niv01
+Wednesday,Unknown,CSE1500,Niv01
+Wednesday,2:30 - 3:25,CSE2258,
+Wednesday,3:25 - 4:15,CSE2257,FIN1002
+Thursday,3:25 - 4:15,CSE2254,FIN1002
+Thursday,3:25 - 4:15,CSE2254,LFL02
+Thursday,Unknown,CSE2251,Niv01
+Thursday,Unknown,CSE2251,Niv01
+Thursday,Unknown,CSE2251,Niv01
+Thursday,Unknown,CSE2251,Niv01
+Thursday,Unknown,CSE2251,Niv01
+Thursday,9:45 - 10:40,CSE2258,
+Thursday,3:25 - 4:15,CSE2253,FIN1002
+Thursday,3:25 - 4:15,CSE2253,LFL02
+Thursday,3:25 - 4:15,MAT2501,FIN1002
+Thursday,3:25 - 4:15,MAT2501,LFL02
+Friday,3:25 - 4:15,CSE2252,DSL04
+Friday,Unknown,CSE2257,Niv01
+Friday,Unknown,CSE2257,Niv01
+Friday,Unknown,CSE2257,Niv01
+Friday,Unknown,CSE2257,Niv01
+Friday,Unknown,CSE2257,Niv01
+Friday,9:45 - 10:40,CSE1500,
+Friday,3:25 - 4:15,CSE2253,DSL04
+Friday,3:25 - 4:15,CSE2251,DSL04
+Friday,3:25 - 4:15,MAT2501,DSL04
+Monday,3:25 - 4:15,CSE2252,DSL03
+Monday,Unknown,CSE2257,Niv02
+Monday,Unknown,CSE2257,Niv02
+Monday,Unknown,CSE2257,Niv02
+Monday,Unknown,CSE2257,Niv02
+Monday,Unknown,CSE2257,Niv02
+Monday,2:30 - 3:25,MAT2501,
+Monday,3:25 - 4:15,CSE2258,DSL03
+Monday,3:25 - 4:15,CSE1500,DSL03
+Tuesday,3:25 - 4:15,APT4002,Niv02
+Tuesday,3:25 - 4:15,APT4002,LFL01
+Tuesday,3:25 - 4:15,CSE2254,Niv02
+Tuesday,3:25 - 4:15,CSE2254,LFL01
+Tuesday,Unknown,CSE2253,Niv02
+Tuesday,Unknown,CSE2253,Niv02
+Tuesday,9:45 - 10:40,CSE2251,
+Wednesday,Unknown,MAT2501,Niv02
+Wednesday,Unknown,MAT2501,Niv02
+Wednesday,Unknown,MAT2501,Niv02
+Wednesday,9:45 - 10:40,CSE2257,
+Wednesday,3:25 - 4:15,CSE2258,
+Thursday,Unknown,CSE1500,Niv02
+Thursday,Unknown,CSE1500,Niv02
+Thursday,Unknown,CSE1500,Niv02
+Thursday,Unknown,CSE1500,Niv02
+Thursday,Unknown,CSE1500,Niv02
+Thursday,Unknown,CSE1500,Niv02
+Thursday,9:45 - 10:40,MAT2501,
+Thursday,2:30 - 3:25,CSE2257,
+Thursday,3:25 - 4:15,CSE2251,FIN1002
+Thursday,3:25 - 4:15,CSE2253,FIN1002
+Friday,3:25 - 4:15,CSE2259,FIN1002
+Friday,3:25 - 4:15,CSE2259,LGL05
+Friday,Unknown,CSE2253,Niv02
+Friday,Unknown,CSE2253,Niv02
+Friday,Unknown,CSE2253,Niv02
+Friday,Unknown,CSE2253,Niv02
+Friday,Unknown,CSE2253,Niv02
+Friday,9:45 - 10:40,MAT2501,
+Friday,2:30 - 3:25,CSE2251,
+Friday,3:25 - 4:15,CSE2258,FIN1002
+Friday,3:25 - 4:15,CSE2258,LGL05
+Monday,3:25 - 4:15,CSE2254,LFL02
+Monday,Unknown,CSE2258,Niv03
+Monday,Unknown,CSE2258,Niv03
+Monday,Unknown,CSE2258,Niv03
+Monday,Unknown,CSE2258,Niv03
+Monday,3:25 - 4:15,CSE2253,LFL02
+Monday,3:25 - 4:15,MAT2501,LFL02
+Monday,3:25 - 4:15,CSE2257,LFL02
+Tuesday,3:25 - 4:15,CSE2259,FIN1002
+Tuesday,Unknown,CSE1500,Niv03
+Tuesday,Unknown,CSE1500,Niv03
+Tuesday,Unknown,CSE1500,Niv03
+Tuesday,Unknown,CSE1500,Niv03
+Tuesday,2:30 - 3:25,CSE2257,
+Tuesday,3:25 - 4:15,MAT2501,FIN1002
+Wednesday,Unknown,CSE2251,Niv03
+Wednesday,Unknown,CSE2251,Niv03
+Wednesday,Unknown,CSE2251,Niv03
+Wednesday,Unknown,CSE2251,Niv03
+Wednesday,Unknown,CSE2251,Niv03
+Wednesday,9:45 - 10:40,CSE1500,
+Wednesday,2:30 - 3:25,CSE2258,
+Wednesday,3:25 - 4:15,CSE2257,FIN1002
+Thursday,9:45 - 10:40,CSE2252,DSL04
+Thursday,3:25 - 4:15,APT4002,Niv03
+Thursday,2:30 - 3:25,CSE2253,Niv03
+Thursday,2:30 - 3:25,CSE2253,Niv03
+Thursday,2:30 - 3:25,CSE2253,Niv03
+Thursday,3:25 - 4:15,MAT2501,Niv03
+Thursday,3:25 - 4:15,CSE2251,Niv03
+Friday,3:25 - 4:15,CSE2258,
+Friday,3:25 - 4:15,CSE2253,
+Friday,3:25 - 4:15,CSE2251,
+Friday,3:25 - 4:15,MAT2501,
+Monday,3:25 - 4:15,CSE2254,FIN1002
+Monday,3:25 - 4:15,CSE2254,LFL03
+Monday,3:25 - 4:15,CSE2254,Niv02
+Monday,3:25 - 4:15,CSE2254,Niv02
+Monday,9:45 - 10:40,CSE2253,Niv03
+Monday,9:45 - 10:40,CSE2253,Niv03
+Monday,2:30 - 3:25,CSE2251,
+Monday,3:25 - 4:15,MAT2501,FIN1002
+Monday,3:25 - 4:15,MAT2501,LFL03
+Monday,3:25 - 4:15,MAT2501,Niv02
+Monday,3:25 - 4:15,MAT2501,Niv02
+Tuesday,Unknown,CSE2251,Niv01
+Tuesday,Unknown,CSE2251,Niv01
+Tuesday,Unknown,CSE2251,Niv01
+Tuesday,9:45 - 10:40,MAT2501,Niv03
+Tuesday,2:30 - 3:25,CSE2257,
+Tuesday,3:25 - 4:15,CSE2258,FIN1002
+Tuesday,3:25 - 4:15,CSE2258,Niv02
+Tuesday,3:25 - 4:15,CSE2258,Niv02
+Tuesday,3:25 - 4:15,CSE2258,Niv02
+Tuesday,3:25 - 4:15,CSE1500,FIN1002
+Tuesday,3:25 - 4:15,CSE1500,Niv02
+Tuesday,3:25 - 4:15,CSE1500,Niv02
+Tuesday,3:25 - 4:15,CSE1500,Niv02
+Tuesday,3:25 - 4:15,CSE2253,FIN1002
+Tuesday,3:25 - 4:15,CSE2253,Niv02
+Tuesday,3:25 - 4:15,CSE2253,Niv02
+Tuesday,3:25 - 4:15,CSE2253,Niv02
+Wednesday,9:45 - 10:40,CSE2258,Niv01
+Wednesday,2:30 - 3:25,MAT2501,Niv02
+Thursday,9:45 - 10:40,APT4002,Niv03
+Thursday,3:25 - 4:15,CSE2259,LFL05
+Thursday,3:25 - 4:15,CSE2259,Niv03
+Thursday,3:25 - 4:15,CSE2259,Niv02
+Thursday,2:30 - 3:25,CSE1500,Niv01
+Thursday,3:25 - 4:15,CSE2251,LFL05
+Thursday,3:25 - 4:15,CSE2251,Niv03
+Thursday,3:25 - 4:15,CSE2251,Niv02
+Thursday,3:25 - 4:15,CSE2257,LFL05
+Thursday,3:25 - 4:15,CSE2257,Niv03
+Thursday,3:25 - 4:15,CSE2257,Niv02
+Friday,3:25 - 4:15,CSE2252,FIN1002
+Friday,3:25 - 4:15,CSE2252,DSL03
+Friday,3:25 - 4:15,CSE2252,Niv02
+Friday,3:25 - 4:15,CSE2252,Niv02
+Friday,Unknown,MAT2501,Niv03
+Friday,Unknown,MAT2501,Niv03
+Friday,9:45 - 10:40,CSE2253,
+Friday,2:30 - 3:25,CSE2257,Niv01
+Friday,3:25 - 4:15,CSE2258,FIN1002
+Friday,3:25 - 4:15,CSE2258,DSL03
+Friday,3:25 - 4:15,CSE2258,Niv02
+Friday,3:25 - 4:15,CSE2258,Niv02
+Monday,3:25 - 4:15,APT4002,Niv04
+Monday,9:45 - 10:40,CSE2251,
+Monday,2:30 - 3:25,MAT2501,
+Monday,3:25 - 4:15,CSE2258,Niv04
+Monday,3:25 - 4:15,CSE1500,Niv04
+Tuesday,Unknown,CSE2257,Niv04
+Tuesday,Unknown,CSE2257,Niv04
+Tuesday,Unknown,CSE2257,Niv04
+Tuesday,Unknown,CSE2257,Niv04
+Tuesday,Unknown,CSE2257,Niv04
+Tuesday,Unknown,CSE2257,Niv04
+Tuesday,Unknown,CSE2257,Niv04
+Tuesday,9:45 - 10:40,CSE2258,
+Tuesday,2:30 - 3:25,CSE1500,
+Tuesday,3:25 - 4:15,MAT2501,FIN1002
+Tuesday,3:25 - 4:15,CSE2251,FIN1002
+Tuesday,3:25 - 4:15,CSE2253,FIN1002
+Wednesday,3:25 - 4:15,CSE2252,DSL05
+Wednesday,9:45 - 10:40,CSE2253,Niv04
+Thursday,9:45 - 10:40,CSE2259,
+Thursday,2:30 - 3:25,CSE2251,Niv04
+Thursday,2:30 - 3:25,CSE2251,Niv04
+Thursday,2:30 - 3:25,CSE2251,Niv04
+Thursday,3:25 - 4:15,CSE2257,
+Thursday,3:25 - 4:15,MAT2501,
+Friday,3:25 - 4:15,CSE2254,FIN1002
+Friday,3:25 - 4:15,CSE2254,LFL01
+Friday,Unknown,CSE2257,Niv04
+Friday,Unknown,CSE2257,Niv04
+Friday,Unknown,CSE2257,Niv04
+Friday,Unknown,CSE2257,Niv04
+Friday,Unknown,CSE2257,Niv04
+Friday,9:45 - 10:40,CSE2253,
+Friday,2:30 - 3:25,CSE2258,
+Friday,3:25 - 4:15,MAT2501,FIN1002
+Friday,3:25 - 4:15,MAT2501,LFL01
+Monday,3:25 - 4:15,CSE2254,LFL01
+Monday,Unknown,CSE2258,Niv05
+Monday,Unknown,CSE2258,Niv05
+Monday,Unknown,CSE2258,Niv05
+Monday,Unknown,CSE2258,Niv05
+Monday,Unknown,CSE2258,Niv05
+Monday,9:45 - 10:40,CSE2253,
+Monday,3:25 - 4:15,CSE2251,LFL01
+Monday,3:25 - 4:15,MAT2501,LFL01
+Tuesday,9:45 - 10:40,CSE2252,DSL03
+Tuesday,2:30 - 3:25,CSE2253,Niv05
+Tuesday,2:30 - 3:25,CSE2253,Niv05
+Tuesday,2:30 - 3:25,CSE2253,Niv05
+Tuesday,3:25 - 4:15,MAT2501,
+Tuesday,3:25 - 4:15,CSE2251,
+Wednesday,Unknown,CSE2258,Niv05
+Wednesday,Unknown,CSE2258,Niv05
+Wednesday,Unknown,CSE2258,Niv05
+Wednesday,Unknown,CSE2258,Niv05
+Wednesday,Unknown,CSE2258,Niv05
+Wednesday,2:30 - 3:25,CSE2251,
+Wednesday,3:25 - 4:15,CSE2257,
+Wednesday,3:25 - 4:15,MAT2501,
+Thursday,Unknown,CSE1500,Niv05
+Thursday,Unknown,CSE1500,Niv05
+Thursday,Unknown,CSE1500,Niv05
+Thursday,Unknown,CSE1500,Niv05
+Thursday,Unknown,CSE1500,Niv05
+Thursday,3:25 - 4:15,CSE2253,FIN1002
+Thursday,3:25 - 4:15,MAT2501,FIN1002
+Thursday,3:25 - 4:15,CSE2257,FIN1002
+Friday,3:25 - 4:15,CSE2259,LFL04
+Friday,3:25 - 4:15,CSE2259,Niv05
+Friday,3:25 - 4:15,APT4002,LFL04
+Friday,3:25 - 4:15,APT4002,Niv05
+Friday,Unknown,CSE2257,Niv05
+Friday,Unknown,CSE2257,Niv05
+Friday,Unknown,CSE2257,Niv05
+Friday,9:45 - 10:40,CSE2258,
+Friday,2:30 - 3:25,CSE1500,
+Monday,3:25 - 4:15,CSE2251,FIN1002
+Monday,3:25 - 4:15,CSE2251,Niv06
+Monday,3:25 - 4:15,CSE2251,Niv06
+Monday,3:25 - 4:15,CSE2251,Niv06
+Monday,3:25 - 4:15,CSE2251,Niv06
+Monday,3:25 - 4:15,MAT2501,FIN1002
+Monday,3:25 - 4:15,MAT2501,Niv06
+Monday,3:25 - 4:15,MAT2501,Niv06
+Monday,3:25 - 4:15,MAT2501,Niv06
+Monday,3:25 - 4:15,MAT2501,Niv06
+Monday,3:25 - 4:15,CSE2253,FIN1002
+Monday,3:25 - 4:15,CSE2253,Niv06
+Monday,3:25 - 4:15,CSE2253,Niv06
+Monday,3:25 - 4:15,CSE2253,Niv06
+Monday,3:25 - 4:15,CSE2253,Niv06
+Tuesday,3:25 - 4:15,CSE2252,DSL03
+Tuesday,3:25 - 4:15,CSE2259,DSL03
+Tuesday,Unknown,CSE1500,Niv06
+Tuesday,Unknown,CSE1500,Niv06
+Tuesday,Unknown,CSE1500,Niv06
+Tuesday,9:45 - 10:40,CSE2258,
+Tuesday,2:30 - 3:25,MAT2501,
+Wednesday,Unknown,CSE2258,Niv06
+Wednesday,Unknown,CSE2258,Niv06
+Wednesday,Unknown,CSE2258,Niv06
+Wednesday,Unknown,CSE2258,Niv06
+Wednesday,2:30 - 3:25,CSE2257,
+Wednesday,3:25 - 4:15,MAT2501,FIN1002
+Thursday,Unknown,CSE2257,Niv06
+Thursday,Unknown,CSE2257,Niv06
+Thursday,Unknown,CSE2257,Niv06
+Thursday,Unknown,CSE2257,Niv06
+Thursday,Unknown,CSE2257,Niv06
+Thursday,Unknown,CSE2257,Niv06
+Thursday,Unknown,CSE2257,Niv06
+Thursday,9:45 - 10:40,CSE2251,
+Thursday,3:25 - 4:15,CSE2258,
+Thursday,3:25 - 4:15,CSE2253,
+Thursday,3:25 - 4:15,CSE1500,
+Thursday,3:25 - 4:15,MAT2501,
+Friday,9:45 - 10:40,CSE2254,LFL01
+Friday,3:25 - 4:15,APT4002,Niv06
+Friday,2:30 - 3:25,CSE2257,Niv06
+Friday,2:30 - 3:25,CSE2257,Niv06
+Friday,2:30 - 3:25,CSE2257,Niv06
+Friday,3:25 - 4:15,CSE2251,Niv06
+Friday,3:25 - 4:15,CSE2253,Niv06
+Monday,9:45 - 10:40,CSE2252,DFL05
+Monday,3:25 - 4:15,CSE2259,Niv05
+Monday,3:25 - 4:15,CSE2259,Niv05
+Monday,2:30 - 3:25,CSE2251,Niv06
+Monday,3:25 - 4:15,CSE1500,Niv05
+Monday,3:25 - 4:15,CSE1500,Niv05
+Monday,3:25 - 4:15,MAT2501,Niv05
+Monday,3:25 - 4:15,MAT2501,Niv05
+Tuesday,3:25 - 4:15,CSE2254,FIN1002
+Tuesday,3:25 - 4:15,CSE2254,LFL01
+Tuesday,3:25 - 4:15,CSE2254,Niv06
+Tuesday,3:25 - 4:15,CSE2254,Niv06
+Tuesday,Unknown,CSE2251,Niv05
+Tuesday,Unknown,CSE2251,Niv05
+Tuesday,9:45 - 10:40,CSE2253,
+Tuesday,3:25 - 4:15,MAT2501,FIN1002
+Tuesday,3:25 - 4:15,MAT2501,LFL01
+Tuesday,3:25 - 4:15,MAT2501,Niv06
+Tuesday,3:25 - 4:15,MAT2501,Niv06
+Wednesday,9:45 - 10:40,CSE2257,Niv06
+Wednesday,2:30 - 3:25,CSE2253,
+Wednesday,3:25 - 4:15,CSE2258,
+Wednesday,3:25 - 4:15,MAT2501,
+Thursday,9:45 - 10:40,APT4002,Niv04
+Thursday,2:30 - 3:25,CSE2251,Niv05
+Thursday,3:25 - 4:15,CSE2258,Niv04
+Thursday,3:25 - 4:15,CSE2258,Niv04
+Thursday,3:25 - 4:15,CSE2257,Niv04
+Thursday,3:25 - 4:15,CSE2257,Niv04
+Friday,Unknown,MAT2501,Niv06
+Friday,Unknown,MAT2501,Niv06
+Friday,9:45 - 10:40,CSE2257,
+Friday,3:25 - 4:15,CSE1500,FIN1002
+Friday,3:25 - 4:15,CSE1500,Niv05
+Friday,3:25 - 4:15,CSE1500,Niv05
+Friday,3:25 - 4:15,CSE1500,Niv04
+Friday,3:25 - 4:15,CSE1500,Niv04
+Friday,3:25 - 4:15,CSE2258,FIN1002
+Friday,3:25 - 4:15,CSE2258,Niv05
+Friday,3:25 - 4:15,CSE2258,Niv05
+Friday,3:25 - 4:15,CSE2258,Niv04
+Friday,3:25 - 4:15,CSE2258,Niv04
+Friday,3:25 - 4:15,CSE2253,FIN1002
+Friday,3:25 - 4:15,CSE2253,Niv05
+Friday,3:25 - 4:15,CSE2253,Niv05
+Friday,3:25 - 4:15,CSE2253,Niv04
+Friday,3:25 - 4:15,CSE2253,Niv04
+Monday,3:25 - 4:15,CSE2252,DFL05
+Monday,Unknown,MAT2501,PF01
+Monday,Unknown,MAT2501,PF01
+Monday,Unknown,MAT2501,PF01
+Monday,Unknown,MAT2501,PF01
+Monday,Unknown,MAT2501,PF01
+Monday,9:45 - 10:40,CSE2257,
+Monday,3:25 - 4:15,CSE2253,DFL05
+Monday,3:25 - 4:15,CSE1500,DFL05
+Tuesday,9:45 - 10:40,CSE2254,LFL03
+Tuesday,3:25 - 4:15,APT4002,PF01
+Tuesday,2:30 - 3:25,CSE2258,PF01
+Tuesday,2:30 - 3:25,CSE2258,PF01
+Tuesday,2:30 - 3:25,CSE2258,PF01
+Tuesday,3:25 - 4:15,MAT2501,PF01
+Tuesday,3:25 - 4:15,CSE2251,PF01
+Wednesday,Unknown,CSE2251,PF01
+Wednesday,Unknown,CSE2251,PF01
+Wednesday,Unknown,CSE2251,PF01
+Wednesday,Unknown,CSE2251,PF01
+Wednesday,Unknown,CSE2251,PF01
+Wednesday,9:45 - 10:40,CSE2253,
+Wednesday,2:30 - 3:25,CSE2258,
+Wednesday,3:25 - 4:15,CSE2257,FIN1002
+Thursday,9:45 - 10:40,CSE2259,
+Thursday,2:30 - 3:25,CSE2257,PF01
+Thursday,2:30 - 3:25,CSE2257,PF01
+Thursday,2:30 - 3:25,CSE2257,PF01
+Thursday,2:30 - 3:25,CSE2257,PF01
+Thursday,2:30 - 3:25,CSE2257,PF01
+Thursday,3:25 - 4:15,CSE2251,FIN1002
+Thursday,3:25 - 4:15,CSE1500,FIN1002
+Thursday,3:25 - 4:15,MAT2501,FIN1002
+Friday,9:45 - 10:40,CSE2258,PF01
+Friday,9:45 - 10:40,CSE2258,PF01
+Friday,9:45 - 10:40,CSE2258,PF01
+Friday,3:25 - 4:15,CSE2253,
+Friday,3:25 - 4:15,MAT2501,
+Monday,3:25 - 4:15,CSE2259,FIN1002
+Monday,3:25 - 4:15,CSE2259,LGL02
+Monday,Unknown,CSE2251,PF02
+Monday,Unknown,CSE2251,PF02
+Monday,Unknown,CSE2251,PF02
+Monday,Unknown,CSE2251,PF02
+Monday,9:45 - 10:40,MAT2501,
+Monday,3:25 - 4:15,CSE2257,FIN1002
+Monday,3:25 - 4:15,CSE2257,LGL02
+Tuesday,9:45 - 10:40,APT4002,PF02
+Tuesday,3:25 - 4:15,CSE2254,LFL02
+Tuesday,2:30 - 3:25,CSE1500,PF02
+Tuesday,2:30 - 3:25,CSE1500,PF02
+Tuesday,2:30 - 3:25,CSE1500,PF02
+Tuesday,3:25 - 4:15,CSE2253,LFL02
+Tuesday,3:25 - 4:15,MAT2501,LFL02
+Wednesday,2:30 - 3:25,CSE2257,PF02
+Wednesday,2:30 - 3:25,CSE2257,PF02
+Wednesday,2:30 - 3:25,CSE2257,PF02
+Wednesday,3:25 - 4:15,CSE2258,
+Wednesday,3:25 - 4:15,CSE2253,
+Thursday,3:25 - 4:15,CSE2252,FIN1002
+Thursday,3:25 - 4:15,CSE2252,DFL05
+Thursday,Unknown,MAT2501,PF02
+Thursday,Unknown,MAT2501,PF02
+Thursday,Unknown,MAT2501,PF02
+Thursday,Unknown,MAT2501,PF02
+Thursday,9:45 - 10:40,CSE2251,
+Thursday,3:25 - 4:15,CSE2258,FIN1002
+Thursday,3:25 - 4:15,CSE2258,DFL05
+Friday,Unknown,CSE2258,PF02
+Friday,Unknown,CSE2258,PF02
+Friday,Unknown,CSE2258,PF02
+Friday,Unknown,CSE2258,PF02
+Friday,Unknown,CSE2258,PF02
+Friday,Unknown,CSE2258,PF02
+Friday,Unknown,CSE2258,PF02
+Friday,9:45 - 10:40,CSE2257,
+Friday,2:30 - 3:25,CSE2253,
+Friday,3:25 - 4:15,CSE2251,FIN1002
+Friday,3:25 - 4:15,MAT2501,FIN1002
+Friday,3:25 - 4:15,CSE1500,FIN1002
+Monday,3:25 - 4:15,APT4002,FIN1002
+Monday,3:25 - 4:15,APT4002,PF03
+Monday,Unknown,MAT2501,PF03
+Monday,Unknown,MAT2501,PF03
+Monday,Unknown,MAT2501,PF03
+Monday,Unknown,MAT2501,PF03
+Monday,Unknown,MAT2501,PF03
+Monday,9:45 - 10:40,CSE2258,
+Monday,2:30 - 3:25,CSE2257,
+Monday,3:25 - 4:15,CSE2253,FIN1002
+Monday,3:25 - 4:15,CSE2253,PF03
+Tuesday,3:25 - 4:15,CSE2259,LFL05
+Tuesday,Unknown,CSE1500,PF03
+Tuesday,Unknown,CSE1500,PF03
+Tuesday,Unknown,CSE1500,PF03
+Tuesday,Unknown,CSE1500,PF03
+Tuesday,9:45 - 10:40,CSE2258,
+Tuesday,3:25 - 4:15,CSE2251,LFL05
+Tuesday,3:25 - 4:15,MAT2501,LFL05
+Wednesday,Unknown,CSE2258,PF03
+Wednesday,Unknown,CSE2258,PF03
+Wednesday,Unknown,CSE2258,PF03
+Wednesday,Unknown,CSE2258,PF03
+Wednesday,9:45 - 10:40,MAT2501,
+Wednesday,3:25 - 4:15,CSE2257,FIN1002
+Thursday,9:45 - 10:40,CSE2254,LFL02
+Thursday,3:25 - 4:15,CSE2252,DSL04
+Thursday,2:30 - 3:25,CSE2251,PF03
+Thursday,2:30 - 3:25,CSE2251,PF03
+Thursday,2:30 - 3:25,CSE2251,PF03
+Thursday,3:25 - 4:15,CSE1500,DSL04
+Thursday,3:25 - 4:15,CSE2253,DSL04
+Friday,Unknown,MAT2501,PF03
+Friday,Unknown,MAT2501,PF03
+Friday,Unknown,MAT2501,PF03
+Friday,Unknown,MAT2501,PF03
+Friday,Unknown,MAT2501,PF03
+Friday,9:45 - 10:40,CSE2251,
+Friday,2:30 - 3:25,CSE2257,
+Friday,3:25 - 4:15,CSE2253,FIN1002
+Friday,3:25 - 4:15,CSE2253,LGL04
+Monday,9:45 - 10:40,CSE2254,LFL01
+Monday,2:30 - 3:25,CSE2257,PF02
+Monday,2:30 - 3:25,CSE2257,PF02
+Monday,2:30 - 3:25,CSE2257,PF02
+Monday,3:25 - 4:15,CSE2251,FIN1002
+Monday,3:25 - 4:15,CSE2251,PF01
+Monday,3:25 - 4:15,CSE2251,PF01
+Monday,3:25 - 4:15,MAT2501,FIN1002
+Monday,3:25 - 4:15,MAT2501,PF01
+Monday,3:25 - 4:15,MAT2501,PF01
+Monday,3:25 - 4:15,CSE2258,FIN1002
+Monday,3:25 - 4:15,CSE2258,PF01
+Monday,3:25 - 4:15,CSE2258,PF01
+Tuesday,3:25 - 4:15,CSE2259,LFL05
+Tuesday,Unknown,CSE1500,PF01
+Tuesday,Unknown,CSE1500,PF01
+Tuesday,9:45 - 10:40,CSE2257,
+Tuesday,3:25 - 4:15,CSE2253,LFL05
+Tuesday,3:25 - 4:15,MAT2501,LFL05
+Wednesday,Unknown,MAT2501,PF02
+Wednesday,Unknown,MAT2501,PF02
+Wednesday,9:45 - 10:40,CSE2253,
+Wednesday,2:30 - 3:25,CSE2257,PF03
+Thursday,3:25 - 4:15,CSE2252,DFL04
+Thursday,3:25 - 4:15,CSE2252,PF03
+Thursday,3:25 - 4:15,APT4002,DFL04
+Thursday,3:25 - 4:15,APT4002,PF03
+Thursday,Unknown,CSE2251,PF01
+Thursday,Unknown,CSE2251,PF01
+Thursday,9:45 - 10:40,CSE2258,
+Friday,2:30 - 3:25,CSE2253,
+Friday,3:25 - 4:15,CSE2251,PF03
+Friday,3:25 - 4:15,CSE2251,PF03
+Friday,3:25 - 4:15,CSE2258,PF03
+Friday,3:25 - 4:15,CSE2258,PF03
+Friday,3:25 - 4:15,CSE1500,PF03
+Friday,3:25 - 4:15,CSE1500,PF03
+Friday,3:25 - 4:15,MAT2501,PF03
+Friday,3:25 - 4:15,MAT2501,PF03
+Monday,Unknown,CSE2251,PS01
+Monday,Unknown,CSE2251,PS01
+Monday,Unknown,CSE2251,PS01
+Monday,Unknown,CSE2251,PS01
+Monday,Unknown,CSE2251,PS01
+Monday,Unknown,CSE2251,PS01
+Monday,3:25 - 4:15,CSE2257,
+Monday,3:25 - 4:15,CSE2253,
+Monday,3:25 - 4:15,MAT2501,
+Monday,3:25 - 4:15,CSE2258,
+Tuesday,3:25 - 4:15,CSE2259,LGL03
+Tuesday,Unknown,CSE2257,PS01
+Tuesday,Unknown,CSE2257,PS01
+Tuesday,Unknown,CSE2257,PS01
+Tuesday,9:45 - 10:40,MAT2501,
+Tuesday,2:30 - 3:25,CSE2258,
+Wednesday,Unknown,CSE2257,PS01
+Wednesday,Unknown,CSE2257,PS01
+Wednesday,Unknown,CSE2257,PS01
+Wednesday,Unknown,CSE2257,PS01
+Wednesday,9:45 - 10:40,CSE2251,
+Wednesday,3:25 - 4:15,MAT2501,FIN1002
+Thursday,3:25 - 4:15,CSE2254,FIN1002
+Thursday,3:25 - 4:15,CSE2254,LFL01
+Thursday,Unknown,CSE2258,PS01
+Thursday,Unknown,CSE2258,PS01
+Thursday,Unknown,CSE2258,PS01
+Thursday,Unknown,CSE2258,PS01
+Thursday,Unknown,CSE2258,PS01
+Thursday,9:45 - 10:40,CSE1500,
+Thursday,2:30 - 3:25,CSE2251,
+Thursday,3:25 - 4:15,CSE2253,FIN1002
+Thursday,3:25 - 4:15,CSE2253,LFL01
+Friday,3:25 - 4:15,APT4002,PS01
+Friday,3:25 - 4:15,APT4002,DFL05
+Friday,3:25 - 4:15,CSE2252,PS01
+Friday,3:25 - 4:15,CSE2252,DFL05
+Friday,Unknown,CSE2253,PS01
+Friday,Unknown,CSE2253,PS01
+Friday,Unknown,CSE2253,PS01
+Friday,9:45 - 10:40,MAT2501,
+Friday,2:30 - 3:25,CSE1500,
+Monday,3:25 - 4:15,CSE2252,FIN1002
+Monday,3:25 - 4:15,CSE2252,DSL04
+Monday,Unknown,CSE2257,PS02
+Monday,Unknown,CSE2257,PS02
+Monday,Unknown,CSE2257,PS02
+Monday,Unknown,CSE2257,PS02
+Monday,Unknown,CSE2257,PS02
+Monday,9:45 - 10:40,CSE2253,
+Monday,2:30 - 3:25,MAT2501,
+Monday,3:25 - 4:15,CSE2251,FIN1002
+Monday,3:25 - 4:15,CSE2251,DSL04
+Tuesday,3:25 - 4:15,APT4002,LFL02
+Tuesday,3:25 - 4:15,APT4002,PS02
+Tuesday,Unknown,CSE2258,PS02
+Tuesday,Unknown,CSE2258,PS02
+Tuesday,2:30 - 3:25,CSE2257,
+Wednesday,9:45 - 10:40,CSE2254,LFL02
+Wednesday,2:30 - 3:25,MAT2501,PS02
+Wednesday,2:30 - 3:25,MAT2501,PS02
+Wednesday,2:30 - 3:25,MAT2501,PS02
+Wednesday,3:25 - 4:15,CSE2251,
+Wednesday,3:25 - 4:15,CSE2253,
+Thursday,3:25 - 4:15,CSE2259,FIN1002
+Thursday,3:25 - 4:15,CSE2259,LGL02
+Thursday,Unknown,CSE2251,PS02
+Thursday,Unknown,CSE2251,PS02
+Thursday,Unknown,CSE2251,PS02
+Thursday,Unknown,CSE2251,PS02
+Thursday,Unknown,CSE2251,PS02
+Thursday,9:45 - 10:40,MAT2501,
+Thursday,2:30 - 3:25,CSE2258,
+Thursday,3:25 - 4:15,CSE1500,FIN1002
+Thursday,3:25 - 4:15,CSE1500,LGL02
+Friday,Unknown,CSE1500,PS02
+Friday,Unknown,CSE1500,PS02
+Friday,Unknown,CSE1500,PS02
+Friday,Unknown,CSE1500,PS02
+Friday,Unknown,CSE1500,PS02
+Friday,Unknown,CSE1500,PS02
+Friday,2:30 - 3:25,CSE2253,
+Friday,3:25 - 4:15,MAT2501,FIN1002
+Friday,3:25 - 4:15,CSE2257,FIN1002
+Friday,3:25 - 4:15,CSE2258,FIN1002
+Monday,2:30 - 3:25,CSE2257,PS03
+Monday,2:30 - 3:25,CSE2257,PS03
+Monday,2:30 - 3:25,CSE2257,PS03
+Monday,2:30 - 3:25,CSE2257,PS03
+Monday,2:30 - 3:25,CSE2257,PS03
+Monday,3:25 - 4:15,CSE2251,
+Monday,3:25 - 4:15,CSE2258,
+Monday,3:25 - 4:15,MAT2501,
+Monday,3:25 - 4:15,CSE2253,
+Tuesday,3:25 - 4:15,CSE2252,DSL04
+Tuesday,Unknown,CSE2257,PS03
+Tuesday,Unknown,CSE2257,PS03
+Tuesday,Unknown,CSE2257,PS03
+Tuesday,Unknown,CSE2257,PS03
+Tuesday,3:25 - 4:15,CSE2251,DSL04
+Tuesday,3:25 - 4:15,CSE2253,DSL04
+Wednesday,3:25 - 4:15,APT4002,PS03
+Wednesday,Unknown,CSE2258,PS03
+Wednesday,Unknown,CSE2258,PS03
+Wednesday,Unknown,CSE2258,PS03
+Wednesday,9:45 - 10:40,MAT2501,
+Wednesday,2:30 - 3:25,CSE1500,
+Thursday,9:45 - 10:40,CSE2254,LFL01
+Thursday,2:30 - 3:25,MAT2501,PS03
+Thursday,2:30 - 3:25,MAT2501,PS03
+Thursday,2:30 - 3:25,MAT2501,PS03
+Thursday,2:30 - 3:25,MAT2501,PS03
+Thursday,2:30 - 3:25,MAT2501,PS03
+Thursday,3:25 - 4:15,CSE2253,FIN1002
+Thursday,3:25 - 4:15,CSE2251,FIN1002
+Thursday,3:25 - 4:15,CSE2257,FIN1002
+Friday,9:45 - 10:40,CSE2259,LGL03
+Friday,3:25 - 4:15,CSE1500,FIN1002
+Friday,3:25 - 4:15,CSE1500,PS03
+Friday,3:25 - 4:15,CSE1500,PS03
+Friday,3:25 - 4:15,CSE1500,PS03
+Friday,3:25 - 4:15,CSE1500,PS03
+Friday,3:25 - 4:15,CSE2258,FIN1002
+Friday,3:25 - 4:15,CSE2258,PS03
+Friday,3:25 - 4:15,CSE2258,PS03
+Friday,3:25 - 4:15,CSE2258,PS03
+Friday,3:25 - 4:15,CSE2258,PS03
+Friday,3:25 - 4:15,MAT2501,FIN1002
+Friday,3:25 - 4:15,MAT2501,PS03
+Friday,3:25 - 4:15,MAT2501,PS03
+Friday,3:25 - 4:15,MAT2501,PS03
+Friday,3:25 - 4:15,MAT2501,PS03
+Monday,3:25 - 4:15,CSE2252,DFL05
+Monday,3:25 - 4:15,CSE2252,PS02
+Monday,3:25 - 4:15,CSE2252,PS02
+Monday,Unknown,CSE2257,PS03
+Monday,Unknown,CSE2257,PS03
+Monday,9:45 - 10:40,CSE2258,
+Monday,3:25 - 4:15,CSE2251,DFL05
+Monday,3:25 - 4:15,CSE2251,PS02
+Monday,3:25 - 4:15,CSE2251,PS02
+Monday,3:25 - 4:15,MAT2501,DFL05
+Monday,3:25 - 4:15,MAT2501,PS02
+Monday,3:25 - 4:15,MAT2501,PS02
+Tuesday,3:25 - 4:15,APT4002,PS01
+Tuesday,3:25 - 4:15,APT4002,PS02
+Tuesday,3:25 - 4:15,APT4002,PS01
+Tuesday,3:25 - 4:15,CSE2258,PS01
+Tuesday,3:25 - 4:15,CSE2258,PS02
+Tuesday,3:25 - 4:15,CSE2258,PS01
+Tuesday,3:25 - 4:15,MAT2501,PS01
+Tuesday,3:25 - 4:15,MAT2501,PS02
+Tuesday,3:25 - 4:15,MAT2501,PS01
+Wednesday,3:25 - 4:15,CSE2259,
+Wednesday,Unknown,CSE2251,PS02
+Wednesday,Unknown,CSE2251,PS02
+Wednesday,2:30 - 3:25,CSE2253,PS01
+Thursday,Unknown,MAT2501,PS03
+Thursday,Unknown,MAT2501,PS03
+Thursday,3:25 - 4:15,CSE2257,PS01
+Thursday,3:25 - 4:15,CSE2257,PS01
+Thursday,3:25 - 4:15,CSE2257,PS02
+Thursday,3:25 - 4:15,CSE2257,PS02
+Thursday,3:25 - 4:15,CSE1500,PS01
+Thursday,3:25 - 4:15,CSE1500,PS01
+Thursday,3:25 - 4:15,CSE1500,PS02
+Thursday,3:25 - 4:15,CSE1500,PS02
+Thursday,3:25 - 4:15,CSE2253,PS01
+Thursday,3:25 - 4:15,CSE2253,PS01
+Thursday,3:25 - 4:15,CSE2253,PS02
+Thursday,3:25 - 4:15,CSE2253,PS02
+Thursday,3:25 - 4:15,CSE2258,PS01
+Thursday,3:25 - 4:15,CSE2258,PS01
+Thursday,3:25 - 4:15,CSE2258,PS02
+Thursday,3:25 - 4:15,CSE2258,PS02
+Friday,3:25 - 4:15,CSE2254,LFL03
+Friday,3:25 - 4:15,CSE2254,PS01
+Friday,3:25 - 4:15,CSE2254,PS01
+Friday,Unknown,CSE1500,PS03
+Friday,Unknown,CSE1500,PS03
+Friday,9:45 - 10:40,CSE2251,PS02
+Friday,2:30 - 3:25,CSE2253,
+Friday,3:25 - 4:15,CSE2257,LFL03
+Friday,3:25 - 4:15,CSE2257,PS01
+Friday,3:25 - 4:15,CSE2257,PS01
+Friday,3:25 - 4:15,MAT2501,LFL03
+Friday,3:25 - 4:15,MAT2501,PS01
+Friday,3:25 - 4:15,MAT2501,PS01
+Monday,Unknown,CSE2257,PT01
+Monday,Unknown,CSE2257,PT01
+Monday,Unknown,CSE2257,PT01
+Monday,Unknown,CSE2257,PT01
+Monday,Unknown,CSE2257,PT01
+Monday,Unknown,CSE2257,PT01
+Monday,3:25 - 4:15,CSE2258,
+Monday,3:25 - 4:15,CSE1500,
+Monday,3:25 - 4:15,MAT2501,
+Monday,3:25 - 4:15,CSE2253,
+Tuesday,3:25 - 4:15,CSE2254,LFL03
+Tuesday,Unknown,CSE2253,PT01
+Tuesday,Unknown,CSE2253,PT01
+Tuesday,Unknown,CSE2253,PT01
+Tuesday,Unknown,CSE2253,PT01
+Tuesday,3:25 - 4:15,CSE2258,LFL03
+Tuesday,3:25 - 4:15,MAT2501,LFL03
+Wednesday,3:25 - 4:15,CSE2252,DFL05
+Wednesday,2:30 - 3:25,CSE2251,PT01
+Thursday,3:25 - 4:15,APT4002,PT01
+Thursday,Unknown,CSE2257,PT01
+Thursday,Unknown,CSE2257,PT01
+Thursday,Unknown,CSE2257,PT01
+Thursday,Unknown,CSE2257,PT01
+Thursday,Unknown,CSE2257,PT01
+Thursday,2:30 - 3:25,MAT2501,
+Thursday,3:25 - 4:15,CSE2253,PT01
+Thursday,3:25 - 4:15,CSE2251,PT01
+Friday,3:25 - 4:15,CSE2259,LGL02
+Friday,Unknown,CSE2257,PT01
+Friday,Unknown,CSE2257,PT01
+Friday,Unknown,CSE2257,PT01
+Friday,Unknown,CSE2257,PT01
+Friday,Unknown,CSE2257,PT01
+Friday,9:45 - 10:40,CSE2258,
+Friday,2:30 - 3:25,CSE2251,
+Friday,3:25 - 4:15,CSE1500,LGL02
+Friday,3:25 - 4:15,MAT2501,LGL02
+Monday,Unknown,CSE1500,PT02
+Monday,Unknown,CSE1500,PT02
+Monday,Unknown,CSE1500,PT02
+Monday,Unknown,CSE1500,PT02
+Monday,Unknown,CSE1500,PT02
+Monday,Unknown,CSE1500,PT02
+Monday,Unknown,CSE1500,PT02
+Monday,9:45 - 10:40,CSE2258,
+Monday,2:30 - 3:25,CSE2257,
+Monday,3:25 - 4:15,CSE2251,FIN1002
+Monday,3:25 - 4:15,CSE2253,FIN1002
+Monday,3:25 - 4:15,MAT2501,FIN1002
+Tuesday,Unknown,CSE2253,PT02
+Tuesday,Unknown,CSE2253,PT02
+Tuesday,Unknown,CSE2253,PT02
+Tuesday,Unknown,CSE2253,PT02
+Tuesday,Unknown,CSE2253,PT02
+Tuesday,9:45 - 10:40,CSE2251,
+Tuesday,2:30 - 3:25,CSE2258,
+Tuesday,3:25 - 4:15,MAT2501,FIN1002
+Tuesday,3:25 - 4:15,MAT2501,LSL01
+Wednesday,3:25 - 4:15,CSE2259,
+Wednesday,Unknown,CSE2258,PT02
+Wednesday,Unknown,CSE2258,PT02
+Wednesday,Unknown,CSE2258,PT02
+Wednesday,9:45 - 10:40,CSE2257,
+Wednesday,2:30 - 3:25,CSE2251,
+Thursday,9:45 - 10:40,CSE2252,DSL05
+Thursday,3:25 - 4:15,MAT2501,FIN1002
+Thursday,3:25 - 4:15,MAT2501,PT02
+Thursday,3:25 - 4:15,MAT2501,PT02
+Thursday,3:25 - 4:15,MAT2501,PT02
+Thursday,3:25 - 4:15,CSE1500,FIN1002
+Thursday,3:25 - 4:15,CSE1500,PT02
+Thursday,3:25 - 4:15,CSE1500,PT02
+Thursday,3:25 - 4:15,CSE1500,PT02
+Friday,3:25 - 4:15,CSE2254,LFL02
+Friday,3:25 - 4:15,CSE2254,PT02
+Friday,3:25 - 4:15,APT4002,LFL02
+Friday,3:25 - 4:15,APT4002,PT02
+Friday,Unknown,CSE2253,PT02
+Friday,Unknown,CSE2253,PT02
+Friday,Unknown,CSE2253,PT02
+Friday,9:45 - 10:40,MAT2501,
+Friday,2:30 - 3:25,CSE2257,
+Monday,9:45 - 10:40,CSE2254,LFL02
+Monday,3:25 - 4:15,APT4002,PT03
+Monday,3:25 - 4:15,CSE2259,PT03
+Monday,2:30 - 3:25,CSE2251,PT03
+Tuesday,3:25 - 4:15,CSE2252,FIN1002
+Tuesday,Unknown,MAT2501,PT03
+Tuesday,Unknown,MAT2501,PT03
+Tuesday,Unknown,MAT2501,PT03
+Tuesday,Unknown,MAT2501,PT03
+Tuesday,Unknown,MAT2501,PT03
+Tuesday,9:45 - 10:40,CSE2258,
+Tuesday,2:30 - 3:25,CSE2257,
+Tuesday,3:25 - 4:15,CSE2253,FIN1002
+Wednesday,Unknown,CSE2251,PT03
+Wednesday,Unknown,CSE2251,PT03
+Wednesday,Unknown,CSE2251,PT03
+Wednesday,Unknown,CSE2251,PT03
+Wednesday,Unknown,CSE2251,PT03
+Wednesday,9:45 - 10:40,MAT2501,
+Wednesday,2:30 - 3:25,CSE2258,
+Wednesday,3:25 - 4:15,CSE1500,
+Wednesday,3:25 - 4:15,CSE2253,
+Thursday,9:45 - 10:40,MAT2501,
+Thursday,2:30 - 3:25,CSE2257,
+Thursday,3:25 - 4:15,CSE2251,LGL02
+Thursday,3:25 - 4:15,CSE2253,LGL02
+Friday,Unknown,CSE1500,PT03
+Friday,Unknown,CSE1500,PT03
+Friday,Unknown,CSE1500,PT03
+Friday,Unknown,CSE1500,PT03
+Friday,Unknown,CSE1500,PT03
+Friday,3:25 - 4:15,MAT2501,FIN1002
+Friday,3:25 - 4:15,CSE2257,FIN1002
+Friday,3:25 - 4:15,CSE2258,FIN1002
+Monday,3:25 - 4:15,CSE2252,DFL04
+Monday,Unknown,CSE2258,PT03
+Monday,Unknown,CSE2258,PT03
+Monday,Unknown,CSE2258,PT03
+Monday,Unknown,CSE2258,PT03
+Monday,2:30 - 3:25,CSE2251,PT01
+Monday,3:25 - 4:15,MAT2501,DFL04
+Monday,3:25 - 4:15,CSE2257,DFL04
+Tuesday,3:25 - 4:15,CSE2259,PT03
+Tuesday,3:25 - 4:15,CSE2259,PT03
+Tuesday,2:30 - 3:25,CSE2253,PT01
+Tuesday,3:25 - 4:15,CSE2257,PT03
+Tuesday,3:25 - 4:15,CSE2257,PT03
+Tuesday,3:25 - 4:15,MAT2501,PT03
+Tuesday,3:25 - 4:15,MAT2501,PT03
+Wednesday,3:25 - 4:15,APT4002,PT01
+Wednesday,Unknown,CSE2253,PT01
+Wednesday,Unknown,CSE2253,PT01
+Wednesday,9:45 - 10:40,CSE2251,
+Thursday,3:25 - 4:15,CSE2254,LFL01
+Thursday,3:25 - 4:15,CSE2254,PT03
+Thursday,3:25 - 4:15,CSE2254,PT03
+Thursday,Unknown,CSE2258,PT02
+Thursday,Unknown,CSE2258,PT02
+Thursday,Unknown,CSE2258,PT02
+Thursday,2:30 - 3:25,CSE1500,
+Thursday,3:25 - 4:15,CSE2257,LFL01
+Thursday,3:25 - 4:15,CSE2257,PT03
+Thursday,3:25 - 4:15,CSE2257,PT03
+Thursday,3:25 - 4:15,MAT2501,LFL01
+Thursday,3:25 - 4:15,MAT2501,PT03
+Thursday,3:25 - 4:15,MAT2501,PT03
+Friday,9:45 - 10:40,CSE2251,PT03
+Friday,9:45 - 10:40,CSE2251,PT03
+Friday,2:30 - 3:25,CSE2258,
+Friday,3:25 - 4:15,CSE2253,FIN1002
+Friday,3:25 - 4:15,CSE2253,PT02
+Friday,3:25 - 4:15,CSE2253,PT02
+Friday,3:25 - 4:15,CSE2253,PT01
+Friday,3:25 - 4:15,CSE2253,PT01
+Friday,3:25 - 4:15,MAT2501,FIN1002
+Friday,3:25 - 4:15,MAT2501,PT02
+Friday,3:25 - 4:15,MAT2501,PT02
+Friday,3:25 - 4:15,MAT2501,PT01
+Friday,3:25 - 4:15,MAT2501,PT01
+Friday,3:25 - 4:15,CSE1500,FIN1002
+Friday,3:25 - 4:15,CSE1500,PT02
+Friday,3:25 - 4:15,CSE1500,PT02
+Friday,3:25 - 4:15,CSE1500,PT01
+Friday,3:25 - 4:15,CSE1500,PT01
+Monday,3:25 - 4:15,APT4002,Piv01
+Monday,9:45 - 10:40,CSE2253,
+Monday,2:30 - 3:25,CSE2257,
+Monday,3:25 - 4:15,CSE1500,Piv01
+Monday,3:25 - 4:15,CSE2258,Piv01
+Tuesday,3:25 - 4:15,CSE2252,LTL03
+Tuesday,Unknown,CSE2258,Piv01
+Tuesday,Unknown,CSE2258,Piv01
+Tuesday,Unknown,CSE2258,Piv01
+Tuesday,Unknown,CSE2258,Piv01
+Tuesday,2:30 - 3:25,CSE2253,
+Tuesday,3:25 - 4:15,CSE2251,LTL03
+Tuesday,3:25 - 4:15,MAT2501,LTL03
+Wednesday,Unknown,CSE2253,Piv01
+Wednesday,Unknown,CSE2253,Piv01
+Wednesday,Unknown,CSE2253,Piv01
+Wednesday,Unknown,CSE2253,Piv01
+Wednesday,Unknown,CSE2253,Piv01
+Wednesday,2:30 - 3:25,MAT2501,
+Wednesday,3:25 - 4:15,CSE1500,
+Wednesday,3:25 - 4:15,CSE2257,
+Thursday,3:25 - 4:15,CSE2254,LTL01
+Thursday,Unknown,CSE2251,Piv01
+Thursday,Unknown,CSE2251,Piv01
+Thursday,Unknown,CSE2251,Piv01
+Thursday,Unknown,CSE2251,Piv01
+Thursday,9:45 - 10:40,MAT2501,
+Thursday,3:25 - 4:15,CSE2258,LTL01
+Thursday,3:25 - 4:15,CSE2257,LTL01
+Friday,3:25 - 4:15,CSE2259,LTL01
+Friday,3:25 - 4:15,CSE2259,LTL04
+Friday,9:45 - 10:40,CSE2251,
+Friday,2:30 - 3:25,MAT2501,
+Monday,9:45 - 10:40,CSE2257,Piv02
+Monday,9:45 - 10:40,CSE2257,Piv02
+Monday,9:45 - 10:40,CSE2257,Piv02
+Monday,9:45 - 10:40,CSE2257,Piv02
+Monday,9:45 - 10:40,CSE2257,Piv02
+Monday,9:45 - 10:40,CSE2257,Piv02
+Monday,2:30 - 3:25,MAT2501,
+Monday,3:25 - 4:15,CSE2253,FIN1002
+Monday,3:25 - 4:15,CSE2251,FIN1002
+Monday,3:25 - 4:15,CSE2258,FIN1002
+Tuesday,Unknown,CSE2251,Piv02
+Tuesday,Unknown,CSE2251,Piv02
+Tuesday,Unknown,CSE2251,Piv02
+Tuesday,Unknown,CSE2251,Piv02
+Tuesday,Unknown,CSE2251,Piv02
+Tuesday,9:45 - 10:40,CSE2253,
+Tuesday,2:30 - 3:25,MAT2501,
+Tuesday,3:25 - 4:15,CSE2258,FIN1002
+Tuesday,3:25 - 4:15,CSE2258,LTL01
+Wednesday,9:45 - 10:40,APT4002,Piv02
+Wednesday,3:25 - 4:15,CSE2254,LTL01
+Wednesday,2:30 - 3:25,CSE2257,Piv02
+Thursday,3:25 - 4:15,CSE2252,FIN1002
+Thursday,3:25 - 4:15,CSE2252,LTL03
+Thursday,Unknown,MAT2501,Piv02
+Thursday,Unknown,MAT2501,Piv02
+Thursday,Unknown,MAT2501,Piv02
+Thursday,Unknown,MAT2501,Piv02
+Thursday,Unknown,MAT2501,Piv02
+Thursday,9:45 - 10:40,CSE2258,
+Thursday,2:30 - 3:25,CSE2253,
+Thursday,3:25 - 4:15,CSE1500,FIN1002
+Thursday,3:25 - 4:15,CSE1500,LTL03
+Friday,9:45 - 10:40,CSE2259,LTL04
+Friday,3:25 - 4:15,CSE2257,Piv02
+Friday,3:25 - 4:15,CSE2257,Piv02
+Friday,3:25 - 4:15,CSE2257,Piv02
+Friday,3:25 - 4:15,CSE2257,Piv02
+Friday,3:25 - 4:15,CSE1500,Piv02
+Friday,3:25 - 4:15,CSE1500,Piv02
+Friday,3:25 - 4:15,CSE1500,Piv02
+Friday,3:25 - 4:15,CSE1500,Piv02
+Friday,3:25 - 4:15,MAT2501,Piv02
+Friday,3:25 - 4:15,MAT2501,Piv02
+Friday,3:25 - 4:15,MAT2501,Piv02
+Friday,3:25 - 4:15,MAT2501,Piv02
+Friday,3:25 - 4:15,CSE2251,Piv02
+Friday,3:25 - 4:15,CSE2251,Piv02
+Friday,3:25 - 4:15,CSE2251,Piv02
+Friday,3:25 - 4:15,CSE2251,Piv02
+Monday,3:25 - 4:15,CSE2254,LTL01
+Monday,3:25 - 4:15,CSE2254,LTL01
+Monday,Unknown,CSE2251,Piv03
+Monday,Unknown,CSE2251,Piv03
+Monday,2:30 - 3:25,CSE2257,
+Tuesday,Unknown,CSE1500,Piv03
+Tuesday,Unknown,CSE1500,Piv03
+Tuesday,Unknown,CSE1500,Piv03
+Tuesday,Unknown,CSE1500,Piv03
+Tuesday,Unknown,CSE1500,Piv03
+Tuesday,Unknown,CSE1500,Piv03
+Tuesday,2:30 - 3:25,CSE2253,
+Tuesday,3:25 - 4:15,CSE2251,FIN1002
+Tuesday,3:25 - 4:15,MAT2501,FIN1002
+Tuesday,3:25 - 4:15,CSE2258,FIN1002
+Wednesday,Unknown,CSE2251,Piv03
+Wednesday,Unknown,CSE2251,Piv03
+Wednesday,Unknown,CSE2251,Piv03
+Wednesday,Unknown,CSE2251,Piv03
+Wednesday,Unknown,CSE2251,Piv03
+Wednesday,9:45 - 10:40,CSE2258,
+Wednesday,2:30 - 3:25,MAT2501,
+Wednesday,3:25 - 4:15,CSE2253,
+Wednesday,3:25 - 4:15,CSE2257,
+Thursday,3:25 - 4:15,CSE2259,FIN1002
+Thursday,3:25 - 4:15,CSE2259,LTL04
+Thursday,Unknown,CSE1500,Piv03
+Thursday,Unknown,CSE1500,Piv03
+Thursday,Unknown,CSE1500,Piv03
+Thursday,Unknown,CSE1500,Piv03
+Thursday,Unknown,CSE1500,Piv03
+Thursday,9:45 - 10:40,MAT2501,
+Thursday,2:30 - 3:25,CSE2257,
+Thursday,3:25 - 4:15,CSE2258,FIN1002
+Thursday,3:25 - 4:15,CSE2258,LTL04
+Friday,9:45 - 10:40,APT4002,Piv03
+Friday,3:25 - 4:15,CSE2252,FIN1002
+Friday,3:25 - 4:15,CSE2252,LTL03
+Friday,2:30 - 3:25,CSE2253,Piv03
+Friday,2:30 - 3:25,CSE2253,Piv03
+Friday,2:30 - 3:25,CSE2253,Piv03
+Friday,3:25 - 4:15,MAT2501,FIN1002
+Friday,3:25 - 4:15,MAT2501,LTL03
+Monday,9:45 - 10:40,APT4002,Piv04
+Monday,3:25 - 4:15,CSE2259,LFL05
+Monday,3:25 - 4:15,CSE2259,Piv04
+Monday,3:25 - 4:15,CSE2259,Piv04
+Monday,3:25 - 4:15,CSE1500,LFL05
+Monday,3:25 - 4:15,CSE1500,Piv04
+Monday,3:25 - 4:15,CSE1500,Piv04
+Monday,3:25 - 4:15,MAT2501,LFL05
+Monday,3:25 - 4:15,MAT2501,Piv04
+Monday,3:25 - 4:15,MAT2501,Piv04
+Tuesday,Unknown,CSE2258,Piv04
+Tuesday,Unknown,CSE2258,Piv04
+Tuesday,Unknown,CSE2258,Piv04
+Tuesday,Unknown,CSE2258,Piv04
+Tuesday,Unknown,CSE2258,Piv04
+Tuesday,Unknown,CSE2258,Piv04
+Tuesday,9:45 - 10:40,CSE2253,
+Tuesday,3:25 - 4:15,CSE2257,
+Tuesday,3:25 - 4:15,CSE2271,
+Tuesday,3:25 - 4:15,MAT2501,
+Tuesday,3:25 - 4:15,CSE2251,
+Wednesday,Unknown,CSE2257,Piv04
+Wednesday,Unknown,CSE2257,Piv04
+Wednesday,Unknown,CSE2257,Piv04
+Wednesday,Unknown,CSE2257,Piv04
+Wednesday,Unknown,CSE2257,Piv04
+Wednesday,9:45 - 10:40,CSE2271,
+Wednesday,2:30 - 3:25,CSE2251,
+Wednesday,3:25 - 4:15,CSE2253,
+Wednesday,3:25 - 4:15,CSE2258,
+Thursday,Unknown,CSE2257,Piv04
+Thursday,Unknown,CSE2257,Piv04
+Thursday,Unknown,CSE2257,Piv04
+Thursday,Unknown,CSE2257,Piv04
+Thursday,Unknown,CSE2257,Piv04
+Thursday,9:45 - 10:40,CSE2251,
+Thursday,2:30 - 3:25,MAT2501,
+Thursday,3:25 - 4:15,CSE2271,
+Thursday,3:25 - 4:15,CSE2258,
+Friday,3:25 - 4:15,CSE2252,DSL04
+Friday,3:25 - 4:15,CSE2252,LFL03
+Friday,3:25 - 4:15,CSE2254,DSL04
+Friday,3:25 - 4:15,CSE2254,LFL03
+Friday,Unknown,CSE1500,Piv04
+Friday,Unknown,CSE1500,Piv04
+Friday,Unknown,CSE1500,Piv04
+Friday,9:45 - 10:40,CSE2253,
+Friday,2:30 - 3:25,MAT2501,
+Monday,Unknown,CSE2271,Piv02
+Monday,9:45 - 10:40,CSE1500,Piv03
+Monday,9:45 - 10:40,CSE1500,Piv03
+Monday,9:45 - 10:40,CSE1500,Piv03
+Monday,2:30 - 3:25,MAT2501,Piv04
+Monday,2:30 - 3:25,MAT2501,Piv04
+Monday,2:30 - 3:25,MAT2501,Piv04
+Monday,3:25 - 4:15,CSE2258,
+Monday,3:25 - 4:15,CSE2253,
+Monday,3:25 - 4:15,CSE2257,
+Monday,3:25 - 4:15,CSE2251,
+Tuesday,3:25 - 4:15,CSE2252,DFL04
+Tuesday,9:45 - 10:40,CSE2271,Piv01
+Tuesday,9:45 - 10:40,CSE2271,Piv01
+Tuesday,9:45 - 10:40,CSE2271,Piv01
+Tuesday,2:30 - 3:25,CSE2257,Piv04
+Tuesday,3:25 - 4:15,CSE2258,DFL04
+Tuesday,3:25 - 4:15,MAT2501,DFL04
+Wednesday,9:45 - 10:40,CSE2259,LFL04
+Wednesday,3:25 - 4:15,CSE2251,Piv02
+Wednesday,3:25 - 4:15,CSE2251,Piv02
+Wednesday,3:25 - 4:15,MAT2501,Piv02
+Wednesday,3:25 - 4:15,MAT2501,Piv02
+Thursday,3:25 - 4:15,CSE2254,LFL03
+Thursday,3:25 - 4:15,CSE2254,Piv03
+Thursday,3:25 - 4:15,APT4002,LFL03
+Thursday,3:25 - 4:15,APT4002,Piv03
+Thursday,2:30 - 3:25,CSE2253,Piv01
+Friday,Unknown,CSE2271,Piv02
+Friday,Unknown,CSE2271,Piv02
+Friday,Unknown,CSE2271,Piv02
+Friday,9:45 - 10:40,CSE2258,
+Friday,2:30 - 3:25,MAT2501,
+Friday,3:25 - 4:15,CSE2253,Piv01
+Friday,3:25 - 4:15,CSE2253,Piv03
+Friday,3:25 - 4:15,CSE2253,Piv04
+Friday,3:25 - 4:15,CSE2253,Piv01
+Friday,3:25 - 4:15,CSE1500,Piv01
+Friday,3:25 - 4:15,CSE1500,Piv03
+Friday,3:25 - 4:15,CSE1500,Piv04
+Friday,3:25 - 4:15,CSE1500,Piv01
+Friday,3:25 - 4:15,CSE2251,Piv01
+Friday,3:25 - 4:15,CSE2251,Piv03
+Friday,3:25 - 4:15,CSE2251,Piv04
+Friday,3:25 - 4:15,CSE2251,Piv01
+Friday,3:25 - 4:15,CSE2257,Piv01
+Friday,3:25 - 4:15,CSE2257,Piv03
+Friday,3:25 - 4:15,CSE2257,Piv04
+Friday,3:25 - 4:15,CSE2257,Piv01
+Monday,Unknown,MAT2501,PT04
+Monday,Unknown,MAT2501,PT04
+Monday,Unknown,MAT2501,PT04
+Monday,Unknown,MAT2501,PT04
+Monday,Unknown,MAT2501,PT04
+Monday,Unknown,MAT2501,PT04
+Monday,9:45 - 10:40,CSE2258,
+Monday,2:30 - 3:25,CSE2253,
+Monday,3:25 - 4:15,CSE2257,
+Monday,3:25 - 4:15,CSE2251,
+Monday,3:25 - 4:15,CSE1500,
+Tuesday,3:25 - 4:15,CSE2265,
+Tuesday,Unknown,CSE2264,PT04
+Tuesday,Unknown,CSE2264,PT04
+Tuesday,Unknown,CSE2264,PT04
+Tuesday,9:45 - 10:40,CSE2253,
+Tuesday,2:30 - 3:25,CSE2258,
+Wednesday,3:25 - 4:15,CSE2252,DSL03
+Wednesday,Unknown,CSE2251,PT04
+Wednesday,Unknown,CSE2251,PT04
+Wednesday,Unknown,CSE2251,PT04
+Wednesday,Unknown,CSE2251,PT04
+Wednesday,9:45 - 10:40,CSE2264,
+Wednesday,2:30 - 3:25,CSE2253,
+Wednesday,3:25 - 4:15,MAT2501,DSL03
+Thursday,3:25 - 4:15,CSE2254,LFL03
+Thursday,Unknown,CSE2258,PT04
+Thursday,Unknown,CSE2258,PT04
+Thursday,Unknown,CSE2258,PT04
+Thursday,Unknown,CSE2258,PT04
+Thursday,Unknown,CSE2258,PT04
+Thursday,9:45 - 10:40,CSE2257,
+Thursday,2:30 - 3:25,MAT2501,
+Thursday,3:25 - 4:15,CSE2251,LFL03
+Thursday,3:25 - 4:15,CSE1500,LFL03
+Friday,9:45 - 10:40,APT4002,PT04
+Friday,3:25 - 4:15,CSE2259,
+Friday,2:30 - 3:25,CSE2257,PT04
+Friday,2:30 - 3:25,CSE2257,PT04
+Friday,2:30 - 3:25,CSE2257,PT04
+Friday,3:25 - 4:15,CSE2264,
+Friday,3:25 - 4:15,MAT2501,
+Monday,9:45 - 10:40,CSE2252,DSL03
+Monday,2:30 - 3:25,CSE2258,NF03
+Monday,3:25 - 4:15,CSE2253,LGL03
+Monday,3:25 - 4:15,CSE2253,NF04
+Monday,3:25 - 4:15,CSE2253,NF04
+Monday,3:25 - 4:15,MAT2501,LGL03
+Monday,3:25 - 4:15,MAT2501,NF04
+Monday,3:25 - 4:15,MAT2501,NF04
+Tuesday,9:45 - 10:40,CSE2259,LFL05
+Tuesday,3:25 - 4:15,CSE2265,
+Tuesday,2:30 - 3:25,CSE2251,NF04
+Tuesday,2:30 - 3:25,CSE2251,NF04
+Tuesday,2:30 - 3:25,CSE2251,NF04
+Tuesday,3:25 - 4:15,MAT2501,
+Tuesday,3:25 - 4:15,CSE2257,
+Wednesday,9:45 - 10:40,CSE2254,LFL01
+Wednesday,2:30 - 3:25,CSE2258,NF03
+Wednesday,3:25 - 4:15,CSE2253,NF04
+Wednesday,3:25 - 4:15,CSE2253,NF04
+Wednesday,3:25 - 4:15,CSE2253,NF04
+Wednesday,3:25 - 4:15,CSE2264,NF04
+Wednesday,3:25 - 4:15,CSE2264,NF04
+Wednesday,3:25 - 4:15,CSE2264,NF04
+Wednesday,3:25 - 4:15,MAT2501,NF04
+Wednesday,3:25 - 4:15,MAT2501,NF04
+Wednesday,3:25 - 4:15,MAT2501,NF04
+Thursday,Unknown,CSE2264,NF04
+Thursday,Unknown,CSE2264,NF04
+Thursday,Unknown,CSE2264,NF04
+Thursday,Unknown,CSE2264,NF04
+Thursday,Unknown,CSE2264,NF04
+Thursday,Unknown,CSE2264,NF04
+Thursday,9:45 - 10:40,CSE2251,
+Thursday,3:25 - 4:15,MAT2501,
+Thursday,3:25 - 4:15,CSE2257,
+Thursday,3:25 - 4:15,CSE2253,
+Thursday,3:25 - 4:15,CSE1500,
+Friday,3:25 - 4:15,APT4002,NF04
+Friday,Unknown,CSE2264,NF04
+Friday,Unknown,CSE2264,NF04
+Friday,Unknown,CSE2264,NF04
+Friday,Unknown,CSE2264,NF04
+Friday,9:45 - 10:40,CSE1500,
+Friday,2:30 - 3:25,CSE2258,NF03
+Friday,3:25 - 4:15,CSE2251,NF04
+Friday,3:25 - 4:15,CSE2257,NF04
+Monday,Unknown,CSE1500,PF04
+Monday,Unknown,CSE1500,PF04
+Monday,Unknown,CSE1500,PF04
+Monday,Unknown,CSE1500,PF04
+Monday,Unknown,CSE1500,PF04
+Monday,Unknown,CSE1500,PF04
+Monday,Unknown,CSE1500,PF04
+Monday,9:45 - 10:40,CSE2251,
+Monday,2:30 - 3:25,CSE2253,
+Monday,3:25 - 4:15,CSE2264,
+Monday,3:25 - 4:15,CSE2258,
+Monday,3:25 - 4:15,MAT2501,
+Monday,3:25 - 4:15,CSE2257,
+Tuesday,9:45 - 10:40,CSE2254,LFL01
+Tuesday,3:25 - 4:15,APT4002,PF04
+Tuesday,3:25 - 4:15,APT4002,PF04
+Tuesday,3:25 - 4:15,APT4002,PF04
+Tuesday,3:25 - 4:15,CSE2264,PF04
+Tuesday,3:25 - 4:15,CSE2264,PF04
+Tuesday,3:25 - 4:15,CSE2264,PF04
+Tuesday,3:25 - 4:15,CSE2257,PF04
+Tuesday,3:25 - 4:15,CSE2257,PF04
+Tuesday,3:25 - 4:15,CSE2257,PF04
+Wednesday,9:45 - 10:40,CSE2252,DSL04
+Wednesday,2:30 - 3:25,CSE2257,PF04
+Wednesday,2:30 - 3:25,CSE2257,PF04
+Wednesday,2:30 - 3:25,CSE2257,PF04
+Wednesday,2:30 - 3:25,CSE2257,PF04
+Wednesday,3:25 - 4:15,CSE2258,
+Wednesday,3:25 - 4:15,MAT2501,
+Wednesday,3:25 - 4:15,CSE2253,
+Thursday,3:25 - 4:15,CSE2265,
+Thursday,2:30 - 3:25,MAT2501,PF04
+Thursday,2:30 - 3:25,MAT2501,PF04
+Thursday,2:30 - 3:25,MAT2501,PF04
+Thursday,3:25 - 4:15,CSE2258,
+Thursday,3:25 - 4:15,CSE2251,
+Friday,3:25 - 4:15,CSE2259,LFL04
+Friday,Unknown,MAT2501,PF04
+Friday,Unknown,MAT2501,PF04
+Friday,Unknown,MAT2501,PF04
+Friday,Unknown,MAT2501,PF04
+Friday,Unknown,MAT2501,PF04
+Friday,9:45 - 10:40,CSE2253,
+Friday,2:30 - 3:25,CSE1500,
+Friday,3:25 - 4:15,CSE2264,LFL04
+Friday,3:25 - 4:15,CSE2251,LFL04
+Monday,3:25 - 4:15,APT4002,QF01
+Monday,Unknown,CSE2253,QF01
+Monday,Unknown,CSE2253,QF01
+Monday,Unknown,CSE2253,QF01
+Monday,Unknown,CSE2253,QF01
+Monday,Unknown,CSE2253,QF01
+Monday,9:45 - 10:40,MAT2501,
+Monday,2:30 - 3:25,CSE2264,
+Monday,3:25 - 4:15,CSE2251,QF01
+Monday,3:25 - 4:15,CSE1500,QF01
+Tuesday,3:25 - 4:15,CSE2259,
+Tuesday,Unknown,CSE2257,QF01
+Tuesday,Unknown,CSE2257,QF01
+Tuesday,Unknown,CSE2257,QF01
+Tuesday,Unknown,CSE2257,QF01
+Tuesday,Unknown,CSE2257,QF01
+Tuesday,9:45 - 10:40,CSE2258,
+Tuesday,2:30 - 3:25,CSE2253,
+Tuesday,3:25 - 4:15,MAT2501,
+Tuesday,3:25 - 4:15,CSE2251,
+Wednesday,3:25 - 4:15,CSE2252,DSL04
+Wednesday,Unknown,CSE2258,QF01
+Wednesday,Unknown,CSE2258,QF01
+Wednesday,Unknown,CSE2258,QF01
+Wednesday,Unknown,CSE2258,QF01
+Wednesday,9:45 - 10:40,CSE1500,
+Wednesday,2:30 - 3:25,CSE2264,
+Wednesday,3:25 - 4:15,CSE2257,DSL04
+Thursday,3:25 - 4:15,CSE2254,LFL04
+Thursday,3:25 - 4:15,CSE2254,LFL02
+Thursday,Unknown,MAT2501,QF01
+Thursday,Unknown,MAT2501,QF01
+Thursday,9:45 - 10:40,CSE2264,
+Friday,3:25 - 4:15,CSE2265,
+Friday,Unknown,CSE2251,QF01
+Friday,Unknown,CSE2251,QF01
+Friday,Unknown,CSE2251,QF01
+Friday,Unknown,CSE2251,QF01
+Friday,Unknown,CSE2251,QF01
+Friday,9:45 - 10:40,CSE2257,
+Friday,2:30 - 3:25,CSE2253,
+Friday,3:25 - 4:15,CSE2258,
+Friday,3:25 - 4:15,MAT2501,
+Monday,3:25 - 4:15,CSE2254,LFL02
+Monday,Unknown,CSE2257,NF04
+Monday,Unknown,CSE2257,NF04
+Monday,9:45 - 10:40,CSE2251,
+Tuesday,Unknown,CSE2251,PF04
+Tuesday,Unknown,CSE2251,PF04
+Tuesday,Unknown,CSE2251,PF04
+Tuesday,9:45 - 10:40,CSE2258,
+Tuesday,2:30 - 3:25,CSE2257,
+Tuesday,3:25 - 4:15,MAT2501,NF04
+Tuesday,3:25 - 4:15,MAT2501,QF01
+Tuesday,3:25 - 4:15,MAT2501,QF01
+Tuesday,3:25 - 4:15,CSE2253,NF04
+Tuesday,3:25 - 4:15,CSE2253,QF01
+Tuesday,3:25 - 4:15,CSE2253,QF01
+Tuesday,3:25 - 4:15,CSE2271,NF04
+Tuesday,3:25 - 4:15,CSE2271,QF01
+Tuesday,3:25 - 4:15,CSE2271,QF01
+Wednesday,3:25 - 4:15,APT4002,QF01
+Wednesday,Unknown,MAT2501,NF04
+Wednesday,Unknown,MAT2501,NF04
+Wednesday,9:45 - 10:40,CSE1500,PF04
+Wednesday,2:30 - 3:25,CSE2253,
+Thursday,Unknown,CSE2251,PF04
+Thursday,Unknown,CSE2251,PF04
+Thursday,Unknown,CSE2251,PF04
+Thursday,Unknown,CSE2251,PF04
+Thursday,9:45 - 10:40,CSE1500,
+Thursday,2:30 - 3:25,CSE2271,QF01
+Thursday,2:30 - 3:25,CSE2271,QF01
+Thursday,2:30 - 3:25,CSE2271,QF01
+Thursday,3:25 - 4:15,CSE2258,
+Thursday,3:25 - 4:15,MAT2501,
+Thursday,3:25 - 4:15,CSE2257,
+Thursday,3:25 - 4:15,CSE2253,
+Friday,9:45 - 10:40,CSE2252,DFL04
+Friday,3:25 - 4:15,CSE2259,PF04
+Friday,3:25 - 4:15,CSE2259,QF01
+Friday,2:30 - 3:25,CSE2271,NF04
+Friday,3:25 - 4:15,MAT2501,PF04
+Friday,3:25 - 4:15,MAT2501,QF01
+Friday,3:25 - 4:15,CSE2258,PF04
+Friday,3:25 - 4:15,CSE2258,QF01
+Monday,9:45 - 10:40,APT4002,QF02
+Monday,3:25 - 4:15,CSE2254,LFL03
+Monday,2:30 - 3:25,MAT2501,QF02
+Monday,2:30 - 3:25,MAT2501,QF02
+Monday,2:30 - 3:25,MAT2501,QF02
+Monday,3:25 - 4:15,CSE2271,LFL03
+Monday,3:25 - 4:15,CSE2258,LFL03
+Tuesday,Unknown,CSE1500,QF02
+Tuesday,Unknown,CSE1500,QF02
+Tuesday,Unknown,CSE1500,QF02
+Tuesday,Unknown,CSE1500,QF02
+Tuesday,Unknown,CSE1500,QF02
+Tuesday,Unknown,CSE1500,QF02
+Tuesday,9:45 - 10:40,CSE2253,
+Tuesday,3:25 - 4:15,CSE2257,
+Tuesday,3:25 - 4:15,CSE2271,
+Tuesday,3:25 - 4:15,CSE2258,
+Tuesday,3:25 - 4:15,CSE2251,
+Wednesday,Unknown,CSE2253,QF02
+Wednesday,Unknown,CSE2253,QF02
+Wednesday,Unknown,CSE2253,QF02
+Wednesday,Unknown,CSE2253,QF02
+Wednesday,9:45 - 10:40,CSE2251,
+Wednesday,3:25 - 4:15,CSE2257,
+Wednesday,3:25 - 4:15,MAT2501,
+Thursday,9:45 - 10:40,CSE2259,LSL05
+Thursday,3:25 - 4:15,CSE2252,DFL05
+Thursday,2:30 - 3:25,CSE2253,QF02
+Thursday,2:30 - 3:25,CSE2253,QF02
+Thursday,2:30 - 3:25,CSE2253,QF02
+Thursday,3:25 - 4:15,CSE1500,DFL05
+Thursday,3:25 - 4:15,MAT2501,DFL05
+Friday,2:30 - 3:25,MAT2501,QF02
+Friday,2:30 - 3:25,MAT2501,QF02
+Friday,2:30 - 3:25,MAT2501,QF02
+Friday,2:30 - 3:25,MAT2501,QF02
+Friday,2:30 - 3:25,MAT2501,QF02
+Friday,3:25 - 4:15,CSE2271,
+Friday,3:25 - 4:15,CSE2257,
+Friday,3:25 - 4:15,CSE2258,
+Friday,3:25 - 4:15,CSE2251,
+Monday,3:25 - 4:15,APT4002,QF02
+Monday,2:30 - 3:25,CSE2271,NF04
+Monday,2:30 - 3:25,CSE2271,NF04
+Monday,2:30 - 3:25,CSE2271,NF04
+Monday,3:25 - 4:15,CSE2253,QF02
+Monday,3:25 - 4:15,CSE2257,QF02
+Tuesday,3:25 - 4:15,CSE2252,DSL03
+Tuesday,Unknown,MAT2501,NF04
+Tuesday,Unknown,MAT2501,NF04
+Tuesday,Unknown,MAT2501,NF04
+Tuesday,9:45 - 10:40,CSE2258,
+Tuesday,2:30 - 3:25,CSE2257,QF02
+Tuesday,3:25 - 4:15,CSE2253,DSL03
+Wednesday,3:25 - 4:15,CSE2259,
+Wednesday,Unknown,MAT2501,PF04
+Wednesday,9:45 - 10:40,CSE2271,NF04
+Wednesday,2:30 - 3:25,CSE2251,QF02
+Thursday,Unknown,CSE2271,QF02
+Thursday,Unknown,CSE2271,QF02
+Thursday,Unknown,CSE2271,QF02
+Thursday,Unknown,CSE2271,QF02
+Thursday,9:45 - 10:40,CSE2258,
+Thursday,2:30 - 3:25,CSE2257,NF04
+Thursday,3:25 - 4:15,CSE2251,QF01
+Thursday,3:25 - 4:15,CSE2251,QF01
+Thursday,3:25 - 4:15,CSE1500,QF01
+Thursday,3:25 - 4:15,CSE1500,QF01
+Thursday,3:25 - 4:15,CSE2253,QF01
+Thursday,3:25 - 4:15,CSE2253,QF01
+Thursday,3:25 - 4:15,MAT2501,QF01
+Thursday,3:25 - 4:15,MAT2501,QF01
+Friday,3:25 - 4:15,CSE2254,LFL01
+Friday,3:25 - 4:15,CSE2254,QF01
+Friday,3:25 - 4:15,CSE2254,PF04
+Friday,Unknown,CSE2258,QF02
+Friday,Unknown,CSE2258,QF02
+Friday,9:45 - 10:40,CSE1500,
+Friday,3:25 - 4:15,MAT2501,LFL01
+Friday,3:25 - 4:15,MAT2501,QF01
+Friday,3:25 - 4:15,MAT2501,PF04
+Friday,3:25 - 4:15,CSE2251,LFL01
+Friday,3:25 - 4:15,CSE2251,QF01
+Friday,3:25 - 4:15,CSE2251,PF04
+Monday,3:25 - 4:15,CSE2506,CAI2503
+Monday,3:25 - 4:15,CSE2506,LSL01
+Monday,9:45 - 10:40,CSE2505,
+Monday,3:25 - 4:15,CSE2272,CAI2503
+Monday,3:25 - 4:15,CSE2272,LSL01
+Tuesday,9:45 - 10:40,CSE2273,LGL01
+Tuesday,3:25 - 4:15,CSE2266,ISE2505
+Tuesday,3:25 - 4:15,CSE2266,CCS2506
+Tuesday,3:25 - 4:15,CSE2266,ISE2504
+Tuesday,3:25 - 4:15,CSE2266,QS01
+Tuesday,3:25 - 4:15,CSE2266,QS01
+Tuesday,3:25 - 4:15,CSE2266,QS01
+Wednesday,3:25 - 4:15,APT4006,CAI2502
+Wednesday,3:25 - 4:15,APT4006,CAI3401
+Wednesday,3:25 - 4:15,APT4006,QS01
+Thursday,Unknown,CSE2266,QS01
+Thursday,Unknown,CSE2266,QS01
+Thursday,Unknown,CSE2266,QS01
+Thursday,Unknown,CSE2266,QS01
+Thursday,Unknown,CSE2266,QS01
+Thursday,9:45 - 10:40,CSE2272,
+Thursday,3:25 - 4:15,CSE2505,CAI2502
+Thursday,3:25 - 4:15,CSE2505,ISE2504
+Thursday,3:25 - 4:15,CSE2505,QS03
+Friday,3:25 - 4:15,CSE2506,CAI2503
+Friday,3:25 - 4:15,CSE2506,CAI3401
+Friday,3:25 - 4:15,CSE2506,LSL01
+Friday,Unknown,CSE2266,QS01
+Friday,Unknown,CSE2266,QS01
+Friday,Unknown,CSE2266,QS01
+Monday,2:30 - 3:25,CSE2272,QS02
+Monday,2:30 - 3:25,CSE2272,QS02
+Monday,2:30 - 3:25,CSE2272,QS02
+Tuesday,9:45 - 10:40,CSE2506,LSL01
+Tuesday,3:25 - 4:15,APT4006,ISE2504
+Tuesday,3:25 - 4:15,APT4006,CAI2502
+Tuesday,3:25 - 4:15,APT4006,QS02
+Tuesday,3:25 - 4:15,APT4006,QS02
+Tuesday,3:25 - 4:15,APT4006,QS02
+Tuesday,3:25 - 4:15,APT4006,QS02
+Tuesday,3:25 - 4:15,CSE2266,ISE2504
+Tuesday,3:25 - 4:15,CSE2266,CAI2502
+Tuesday,3:25 - 4:15,CSE2266,QS02
+Tuesday,3:25 - 4:15,CSE2266,QS02
+Tuesday,3:25 - 4:15,CSE2266,QS02
+Tuesday,3:25 - 4:15,CSE2266,QS02
+Wednesday,3:25 - 4:15,CSE2272,CAI3401
+Wednesday,3:25 - 4:15,CSE2505,CAI3401
+Thursday,2:30 - 3:25,CSE2266,QS02
+Thursday,2:30 - 3:25,CSE2266,QS02
+Thursday,2:30 - 3:25,CSE2266,QS02
+Friday,3:25 - 4:15,CSE2506,CAI2502
+Friday,3:25 - 4:15,CSE2506,LSL01
+Friday,3:25 - 4:15,CSE2506,LGL01
+Friday,3:25 - 4:15,CSE2273,CAI2502
+Friday,3:25 - 4:15,CSE2273,LSL01
+Friday,3:25 - 4:15,CSE2273,LGL01
+Friday,Unknown,CSE2266,QS02
+Friday,Unknown,CSE2266,QS02
+Friday,Unknown,CSE2266,QS02
+Friday,9:45 - 10:40,CSE2505,
+Monday,2:30 - 3:25,CSE2505,QS03
+Monday,2:30 - 3:25,CSE2505,QS03
+Monday,2:30 - 3:25,CSE2505,QS03
+Monday,2:30 - 3:25,CSE2505,QS03
+Monday,2:30 - 3:25,CSE2505,QS03
+Monday,3:25 - 4:15,CSE2266,ISE2504
+Monday,3:25 - 4:15,CSE2266,CAI3401
+Monday,3:25 - 4:15,CSE2266,CCS2506
+Tuesday,Unknown,CSE2272,QS03
+Tuesday,Unknown,CSE2272,QS03
+Tuesday,Unknown,CSE2272,QS03
+Tuesday,9:45 - 10:40,CSE2505,
+Wednesday,3:25 - 4:15,CSE2506,CCS2506
+Wednesday,3:25 - 4:15,CSE2506,CAI3401
+Wednesday,3:25 - 4:15,CSE2506,LSL03
+Wednesday,Unknown,CSE2266,QS03
+Wednesday,Unknown,CSE2266,QS03
+Wednesday,Unknown,CSE2266,QS03
+Wednesday,Unknown,CSE2266,QS03
+Thursday,9:45 - 10:40,APT4006,QS03
+Thursday,3:25 - 4:15,CSE2506,ISE2504
+Thursday,3:25 - 4:15,CSE2506,CCS2506
+Thursday,3:25 - 4:15,CSE2506,LSL03
+Thursday,3:25 - 4:15,CSE2506,QS03
+Thursday,3:25 - 4:15,CSE2506,QS03
+Thursday,3:25 - 4:15,CSE2506,QS03
+Thursday,3:25 - 4:15,CSE2266,ISE2504
+Thursday,3:25 - 4:15,CSE2266,CCS2506
+Thursday,3:25 - 4:15,CSE2266,LSL03
+Thursday,3:25 - 4:15,CSE2266,QS03
+Thursday,3:25 - 4:15,CSE2266,QS03
+Thursday,3:25 - 4:15,CSE2266,QS03
+Friday,3:25 - 4:15,CSE2273,ISE2504
+Friday,3:25 - 4:15,CSE2273,CAI2502
+Friday,3:25 - 4:15,CSE2273,LGL01
+Friday,3:25 - 4:15,CSE2273,QS03
+Friday,3:25 - 4:15,CSE2273,QS03
+Friday,3:25 - 4:15,CSE2273,QS03
+Friday,3:25 - 4:15,CSE2272,ISE2504
+Friday,3:25 - 4:15,CSE2272,CAI2502
+Friday,3:25 - 4:15,CSE2272,LGL01
+Friday,3:25 - 4:15,CSE2272,QS03
+Friday,3:25 - 4:15,CSE2272,QS03
+Friday,3:25 - 4:15,CSE2272,QS03
+Monday,Unknown,CSE2500,QS03
+Monday,Unknown,CSE2500,QS03
+Monday,3:25 - 4:15,CSE2266,CBC2503
+Monday,3:25 - 4:15,CSE2266,CBC3406
+Monday,3:25 - 4:15,CSE2266,DFL05
+Monday,3:25 - 4:15,CSE2266,QS02
+Monday,3:25 - 4:15,CSE2266,QS01
+Tuesday,3:25 - 4:15,CSE2501,CBC2502
+Tuesday,3:25 - 4:15,CSE2501,DTL01
+Tuesday,3:25 - 4:15,CSE2501,QT01
+Tuesday,2:30 - 3:25,CSE2264,QS03
+Tuesday,3:25 - 4:15,CSE2266,CBC2502
+Tuesday,3:25 - 4:15,CSE2266,DTL01
+Tuesday,3:25 - 4:15,CSE2266,QT01
+Wednesday,9:45 - 10:40,CSE2265,
+Thursday,Unknown,CSE2264,QS02
+Thursday,Unknown,CSE2264,QS02
+Thursday,2:30 - 3:25,CSE2266,QS01
+Thursday,2:30 - 3:25,CSE2266,QS01
+Thursday,3:25 - 4:15,CSE2500,CBC2501
+Thursday,3:25 - 4:15,CSE2500,DSL03
+Friday,3:25 - 4:15,APT4006,CBC2500
+Friday,3:25 - 4:15,APT4006,CBC2502
+Friday,3:25 - 4:15,APT4006,QS01
+Friday,3:25 - 4:15,APT4006,QT01
+Friday,9:45 - 10:40,CSE2264,
+Monday,9:45 - 10:40,CSE2266,
+Tuesday,Unknown,CSE2264,QT01
+Tuesday,Unknown,CSE2264,QT01
+Tuesday,Unknown,CSE2264,QT01
+Tuesday,Unknown,CSE2264,QT01
+Wednesday,3:25 - 4:15,CSE2265,
+Wednesday,3:25 - 4:15,CSE2266,
+Thursday,3:25 - 4:15,CSE2264,CBD2509
+Thursday,3:25 - 4:15,CSE2264,CBD2508
+Thursday,3:25 - 4:15,CSE2264,LSL04
+Thursday,3:25 - 4:15,CSE2264,QT01
+Thursday,3:25 - 4:15,CSE2264,QT01
+Friday,3:25 - 4:15,APT4006,QT01
+Friday,3:25 - 4:15,CSE2264,QT01
+Friday,3:25 - 4:15,CSE2266,QT01
+Monday,Unknown,CSE2258,QT02
+Monday,Unknown,CSE2258,QT02
+Monday,Unknown,CSE2258,QT02
+Monday,Unknown,CSE2258,QT02
+Monday,Unknown,CSE2258,QT02
+Monday,2:30 - 3:25,CSE2264,
+Monday,3:25 - 4:15,CSE2266,CCS2505
+Monday,3:25 - 4:15,CSE2266,CCS2503
+Monday,3:25 - 4:15,CSE2266,DSL01
+Tuesday,9:45 - 10:40,CSE2259,DTL02
+Tuesday,3:25 - 4:15,APT4006,CCS2503
+Tuesday,3:25 - 4:15,APT4006,CCS3412
+Tuesday,3:25 - 4:15,APT4006,QT02
+Wednesday,Unknown,CSE2258,QT02
+Wednesday,Unknown,CSE2258,QT02
+Wednesday,Unknown,CSE2258,QT02
+Wednesday,Unknown,CSE2258,QT02
+Wednesday,2:30 - 3:25,CSE2266,
+Thursday,3:25 - 4:15,CSE2265,CCS2505
+Thursday,3:25 - 4:15,CSE2265,DSL01
+Thursday,9:45 - 10:40,CSE2264,
+Thursday,3:25 - 4:15,CSE2266,CCS2505
+Thursday,3:25 - 4:15,CSE2266,DSL01
+Friday,Unknown,CSE2264,QT02
+Friday,Unknown,CSE2264,QT02
+Friday,Unknown,CSE2264,QT02
+Friday,Unknown,CSE2264,QT02
+Friday,3:25 - 4:15,CSE2258,CCS2501
+Friday,3:25 - 4:15,CSE2258,CCS2503
+Friday,3:25 - 4:15,CSE2258,LSL04
+Monday,3:25 - 4:15,CSE2265,LFL04
+Monday,3:25 - 4:15,CSE2259,LFL04
+Monday,9:45 - 10:40,CSE2266,
+Tuesday,2:30 - 3:25,CSE2266,
+Tuesday,3:25 - 4:15,CSE2258,CCS2501
+Tuesday,3:25 - 4:15,CSE2258,LSL04
+Wednesday,Unknown,CSE2264,QT03
+Wednesday,Unknown,CSE2264,QT03
+Wednesday,Unknown,CSE2264,QT03
+Wednesday,Unknown,CSE2264,QT03
+Wednesday,Unknown,CSE2264,QT03
+Thursday,3:25 - 4:15,APT4006,CCS2505
+Thursday,3:25 - 4:15,APT4006,QT03
+Thursday,3:25 - 4:15,APT4006,DSL01
+Thursday,9:45 - 10:40,CSE2258,
+Thursday,3:25 - 4:15,CSE2264,CCS2505
+Thursday,3:25 - 4:15,CSE2264,QT03
+Thursday,3:25 - 4:15,CSE2264,DSL01
+Friday,9:45 - 10:40,CSE2258,
+Friday,3:25 - 4:15,CSE2266,CCS2505
+Friday,3:25 - 4:15,CSE2266,CCS3412
+Friday,3:25 - 4:15,CSE2266,DSL01
+Friday,3:25 - 4:15,CSE2264,CCS2505
+Friday,3:25 - 4:15,CSE2264,CCS3412
+Friday,3:25 - 4:15,CSE2264,DSL01
+Monday,2:30 - 3:25,CSE2264,QT01
+Monday,2:30 - 3:25,CSE2264,QT01
+Monday,3:25 - 4:15,CSE2266,CCS2501
+Monday,3:25 - 4:15,CSE2266,CCS3412
+Monday,3:25 - 4:15,CSE2266,LSL04
+Monday,3:25 - 4:15,CSE2266,QT03
+Tuesday,3:25 - 4:15,CSE2265,CCS3412
+Tuesday,3:25 - 4:15,CSE2265,QT03
+Tuesday,3:25 - 4:15,CSE2265,QT03
+Tuesday,3:25 - 4:15,CSE2265,QT03
+Tuesday,Unknown,CSE2264,QT02
+Tuesday,Unknown,CSE2264,QT02
+Tuesday,3:25 - 4:15,CSE2266,CCS3412
+Tuesday,3:25 - 4:15,CSE2266,QT03
+Tuesday,3:25 - 4:15,CSE2266,QT03
+Tuesday,3:25 - 4:15,CSE2266,QT03
+Tuesday,3:25 - 4:15,CSE2258,CCS3412
+Tuesday,3:25 - 4:15,CSE2258,QT03
+Tuesday,3:25 - 4:15,CSE2258,QT03
+Tuesday,3:25 - 4:15,CSE2258,QT03
+Wednesday,9:45 - 10:40,CSE2259,DTL02
+Wednesday,3:25 - 4:15,CSE2258,CCS2505
+Wednesday,3:25 - 4:15,CSE2258,QT02
+Thursday,3:25 - 4:15,APT4006,CCS3412
+Thursday,3:25 - 4:15,APT4006,QT02
+Thursday,3:25 - 4:15,CSE2264,CCS3412
+Thursday,3:25 - 4:15,CSE2264,QT02
+Friday,3:25 - 4:15,CSE2258,CCS2500
+Friday,3:25 - 4:15,CSE2266,CCS2500
+Monday,3:25 - 4:15,APT4006,CDV2504
+Monday,3:25 - 4:15,APT4006,CDV2001
+Monday,3:25 - 4:15,APT4006,DSL02
+Monday,3:25 - 4:15,APT4006,Qiv01
+Tuesday,Unknown,CSE2264,Qiv01
+Tuesday,Unknown,CSE2264,Qiv01
+Tuesday,Unknown,CSE2264,Qiv01
+Tuesday,Unknown,CSE2264,Qiv01
+Tuesday,Unknown,CSE2264,Qiv01
+Tuesday,Unknown,CSE2264,Qiv01
+Tuesday,9:45 - 10:40,CSE2266,
+Wednesday,Unknown,CSE2266,Qiv01
+Wednesday,Unknown,CSE2266,Qiv01
+Wednesday,Unknown,CSE2266,Qiv01
+Wednesday,Unknown,CSE2266,Qiv01
+Wednesday,9:45 - 10:40,CSE2264,
+Thursday,3:25 - 4:15,CSE2264,CDV2501
+Thursday,3:25 - 4:15,CSE2264,CDV2001
+Friday,3:25 - 4:15,CSE2265,CDV2502
+Friday,3:25 - 4:15,CSE2265,CDV2501
+Friday,3:25 - 4:15,CSE2265,DSL01
+Friday,Unknown,CSE2266,Qiv01
+Friday,Unknown,CSE2266,Qiv01
+Friday,Unknown,CSE2266,Qiv01
+Monday,Unknown,CSE2266,Qiv02
+Monday,Unknown,CSE2266,Qiv02
+Monday,Unknown,CSE2266,Qiv02
+Monday,Unknown,CSE2266,Qiv02
+Monday,Unknown,CSE2266,Qiv02
+Tuesday,3:25 - 4:15,APT4006,CIT3400
+Tuesday,3:25 - 4:15,APT4006,CIT2503
+Tuesday,3:25 - 4:15,APT4006,Qiv02
+Tuesday,3:25 - 4:15,CSE2264,CIT3400
+Tuesday,3:25 - 4:15,CSE2264,CIT2503
+Tuesday,3:25 - 4:15,CSE2264,Qiv02
+Wednesday,Unknown,CSE2264,Qiv02
+Wednesday,Unknown,CSE2264,Qiv02
+Wednesday,Unknown,CSE2264,Qiv02
+Wednesday,Unknown,CSE2264,Qiv02
+Wednesday,Unknown,CSE2264,Qiv02
+Wednesday,9:45 - 10:40,CSE2266,
+Wednesday,2:30 - 3:25,CSE2258,
+Thursday,3:25 - 4:15,CSE2265,CIT2501
+Thursday,3:25 - 4:15,CSE2265,CIT3400
+Thursday,3:25 - 4:15,CSE2258,CIT2501
+Thursday,3:25 - 4:15,CSE2258,CIT3400
+Friday,3:25 - 4:15,CSE2259,LGL03
+Friday,9:45 - 10:40,CSE2258,
+Friday,3:25 - 4:15,CSE2266,LGL03
+Friday,3:25 - 4:15,CSE2264,LGL03
+Monday,3:25 - 4:15,CSE2265,
+Monday,9:45 - 10:40,CSE2258,
+Monday,3:25 - 4:15,CSE2266,
+Monday,3:25 - 4:15,CSE2264,
+Tuesday,9:45 - 10:40,CSE2259,
+Tuesday,3:25 - 4:15,CSE2264,CIT2500
+Tuesday,3:25 - 4:15,CSE2264,CIT2501
+Tuesday,3:25 - 4:15,CSE2264,CIT3400
+Wednesday,2:30 - 3:25,CSE2264,
+Wednesday,3:25 - 4:15,CSE2266,CIT2503
+Thursday,2:30 - 3:25,CSE2258,
+Thursday,3:25 - 4:15,CSE2266,CIT2501
+Thursday,3:25 - 4:15,CSE2266,CIT2502
+Thursday,3:25 - 4:15,CSE2266,CIT2503
+Friday,3:25 - 4:15,APT4006,CIT2501
+Friday,3:25 - 4:15,APT4006,CIT3400
+Friday,3:25 - 4:15,APT4006,Qiv03
+Friday,9:45 - 10:40,CSE2258,Qiv03
+Friday,9:45 - 10:40,CSE2258,Qiv03
+Friday,9:45 - 10:40,CSE2258,Qiv03
+Monday,3:25 - 4:15,CSE2259,CIT2503
+Monday,3:25 - 4:15,CSE2259,CIT2500
+Monday,3:25 - 4:15,CSE2259,LFL04
+Monday,3:25 - 4:15,CSE2264,CIT2503
+Monday,3:25 - 4:15,CSE2264,CIT2500
+Monday,3:25 - 4:15,CSE2264,LFL04
+Tuesday,9:45 - 10:40,CSE2266,
+Tuesday,3:25 - 4:15,CSE2258,CIT3400
+Tuesday,3:25 - 4:15,CSE2258,CIT2500
+Tuesday,3:25 - 4:15,CSE2258,CIT2502
+Wednesday,3:25 - 4:15,APT4006,CIT2501
+Wednesday,3:25 - 4:15,APT4006,NS07
+Wednesday,9:45 - 10:40,CSE2258,NS07
+Wednesday,9:45 - 10:40,CSE2258,NS07
+Thursday,3:25 - 4:15,CSE2265,CIT3400
+Thursday,Unknown,CSE2264,NS07
+Thursday,Unknown,CSE2264,NS07
+Thursday,Unknown,CSE2264,NS07
+Thursday,Unknown,CSE2264,NS07
+Thursday,3:25 - 4:15,CSE2266,CIT3400
+Friday,9:45 - 10:40,CSE2266,NS07
+Friday,9:45 - 10:40,CSE2266,NS07
+Friday,9:45 - 10:40,CSE2266,NS07
+Friday,9:45 - 10:40,CSE2266,NS07
+Friday,9:45 - 10:40,CSE2266,NS07
+Friday,9:45 - 10:40,CSE2266,NS07
+Friday,2:30 - 3:25,CSE2264,
+Friday,3:25 - 4:15,CSE2258,CIT3400
+Friday,3:25 - 4:15,CSE2258,CIT2500
+Friday,3:25 - 4:15,CSE2258,CIT2502
+Monday,3:25 - 4:15,CSE2258,COM2504
+Monday,3:25 - 4:15,CSE2258,Qiv03
+Monday,3:25 - 4:15,CSE2258,Qiv03
+Monday,3:25 - 4:15,CSE2276,COM2504
+Monday,3:25 - 4:15,CSE2276,Qiv03
+Monday,3:25 - 4:15,CSE2276,Qiv03
+Monday,3:25 - 4:15,CSE2266,COM2504
+Monday,3:25 - 4:15,CSE2266,Qiv03
+Monday,3:25 - 4:15,CSE2266,Qiv03
+Tuesday,3:25 - 4:15,CSE2277,COM2505
+Tuesday,3:25 - 4:15,CSE2277,DSL02
+Tuesday,3:25 - 4:15,CSE2277,Qiv01
+Tuesday,Unknown,CSE2276,Qiv03
+Tuesday,Unknown,CSE2276,Qiv03
+Tuesday,9:45 - 10:40,CSE2500,
+Tuesday,3:25 - 4:15,CSE2266,COM2505
+Tuesday,3:25 - 4:15,CSE2266,DSL02
+Tuesday,3:25 - 4:15,CSE2266,Qiv01
+Wednesday,3:25 - 4:15,CSE2501,DTL03
+Wednesday,3:25 - 4:15,CSE2501,Qiv01
+Wednesday,3:25 - 4:15,CSE2276,DTL03
+Wednesday,3:25 - 4:15,CSE2276,Qiv01
+Thursday,3:25 - 4:15,CSE2259,COM2504
+Thursday,3:25 - 4:15,CSE2259,CCS2503
+Thursday,3:25 - 4:15,CSE2259,DTL03
+Thursday,3:25 - 4:15,CSE2259,Qiv01
+Thursday,Unknown,CSE2258,Qiv03
+Thursday,2:30 - 3:25,CSE2266,
+Friday,3:25 - 4:15,APT4006,CAI2512
+Friday,3:25 - 4:15,APT4006,Qiv02
+Friday,2:30 - 3:25,CSE2500,Qiv01
+Friday,2:30 - 3:25,CSE2500,Qiv01
+Friday,3:25 - 4:15,CSE2258,CAI2512
+Friday,3:25 - 4:15,CSE2258,Qiv02
+Monday,9:45 - 10:40,CSE2266,
+Monday,3:25 - 4:15,CSE2500,COM2505
+Monday,3:25 - 4:15,CSE2500,CAI2512
+Monday,3:25 - 4:15,CSE2258,COM2505
+Monday,3:25 - 4:15,CSE2258,CAI2512
+Tuesday,3:25 - 4:15,CSE2501,CCS2503
+Tuesday,3:25 - 4:15,CSE2501,DTL03
+Tuesday,2:30 - 3:25,CSE2266,
+Wednesday,Unknown,CSE2500,Nv01
+Wednesday,Unknown,CSE2500,Nv01
+Wednesday,Unknown,CSE2500,Nv01
+Wednesday,Unknown,CSE2500,Nv01
+Wednesday,Unknown,CSE2500,Nv01
+Wednesday,9:45 - 10:40,CSE2276,
+Wednesday,3:25 - 4:15,CSE2258,CAI2512
+Thursday,3:25 - 4:15,CSE2277,CCS2503
+Thursday,3:25 - 4:15,CSE2277,DSL02
+Thursday,3:25 - 4:15,CSE2277,Nv01
+Thursday,3:25 - 4:15,APT4006,CCS2503
+Thursday,3:25 - 4:15,APT4006,DSL02
+Thursday,3:25 - 4:15,APT4006,Nv01
+Thursday,Unknown,CSE2276,Nv01
+Thursday,Unknown,CSE2276,Nv01
+Friday,3:25 - 4:15,CSE2259,LFL04
+Friday,9:45 - 10:40,CSE2276,
+Friday,3:25 - 4:15,CSE2266,LFL04
+Friday,3:25 - 4:15,CSE2258,LFL04
+Monday,3:25 - 4:15,CSE2501,COM2504
+Monday,3:25 - 4:15,CSE2501,DTL01
+Monday,2:30 - 3:25,CSE2066,Nv02
+Monday,2:30 - 3:25,CSE2066,Nv02
+Monday,2:30 - 3:25,CSE2066,Nv02
+Monday,3:25 - 4:15,CSE2258,COM2504
+Monday,3:25 - 4:15,CSE2258,DTL01
+Tuesday,3:25 - 4:15,APT4006,Nv02
+Tuesday,2:30 - 3:25,CSE2276,
+Tuesday,3:25 - 4:15,CSE2258,Nv02
+Tuesday,3:25 - 4:15,CSE2066,Nv02
+Wednesday,3:25 - 4:15,CSE2277,CAI2512
+Wednesday,3:25 - 4:15,CSE2277,DSL02
+Wednesday,Unknown,CSE2276,Nv02
+Wednesday,Unknown,CSE2276,Nv02
+Wednesday,Unknown,CSE2276,Nv02
+Wednesday,9:45 - 10:40,CSE2266,
+Thursday,3:25 - 4:15,CSE2259,LFL04
+Thursday,Unknown,CSE2266,Nv02
+Thursday,Unknown,CSE2266,Nv02
+Thursday,Unknown,CSE2266,Nv02
+Thursday,Unknown,CSE2266,Nv02
+Thursday,9:45 - 10:40,CSE2276,
+Thursday,2:30 - 3:25,CSE2500,
+Thursday,3:25 - 4:15,CSE2066,LFL04
+Friday,Unknown,CSE2266,Nv02
+Friday,Unknown,CSE2266,Nv02
+Friday,Unknown,CSE2266,Nv02
+Friday,Unknown,CSE2266,Nv02
+Friday,Unknown,CSE2266,Nv02
+Friday,9:45 - 10:40,CSE2258,
+Friday,3:25 - 4:15,CSE2500,COM2505
+Friday,3:25 - 4:15,CSE2500,CAI2512
+Friday,3:25 - 4:15,CSE2500,COM2504
+Monday,Unknown,CSE2276,Nv03
+Monday,Unknown,CSE2276,Nv03
+Monday,Unknown,CSE2276,Nv03
+Monday,Unknown,CSE2276,Nv03
+Monday,Unknown,CSE2276,Nv03
+Monday,Unknown,CSE2276,Nv03
+Monday,Unknown,CSE2276,Nv03
+Monday,9:45 - 10:40,CSE2500,
+Monday,2:30 - 3:25,CSE2266,
+Monday,3:25 - 4:15,CSE2258,COM2504
+Monday,3:25 - 4:15,CSE2258,CAI2512
+Monday,3:25 - 4:15,CSE2066,COM2504
+Monday,3:25 - 4:15,CSE2066,CAI2512
+Tuesday,Unknown,CSE2266,Nv03
+Tuesday,Unknown,CSE2266,Nv03
+Tuesday,Unknown,CSE2266,Nv03
+Tuesday,Unknown,CSE2266,Nv03
+Tuesday,Unknown,CSE2266,Nv03
+Tuesday,9:45 - 10:40,CSE2258,
+Tuesday,3:25 - 4:15,CSE2276,COM2505
+Tuesday,3:25 - 4:15,CSE2276,CAI2512
+Tuesday,3:25 - 4:15,CSE2066,COM2505
+Tuesday,3:25 - 4:15,CSE2066,CAI2512
+Wednesday,3:25 - 4:15,CSE2259,DTL02
+Wednesday,3:25 - 4:15,CSE2259,Nv03
+Wednesday,3:25 - 4:15,CSE2066,DTL02
+Wednesday,3:25 - 4:15,CSE2066,Nv03
+Thursday,3:25 - 4:15,APT4006,Nv03
+Thursday,3:25 - 4:15,APT4006,DTL01
+Thursday,3:25 - 4:15,CSE2501,Nv03
+Thursday,3:25 - 4:15,CSE2501,DTL01
+Thursday,Unknown,CSE2500,Nv03
+Thursday,Unknown,CSE2500,Nv03
+Thursday,Unknown,CSE2500,Nv03
+Thursday,3:25 - 4:15,CSE2276,Nv03
+Thursday,3:25 - 4:15,CSE2276,DTL01
+Friday,3:25 - 4:15,CSE2277,DSL02
+Friday,2:30 - 3:25,CSE2266,
+Friday,3:25 - 4:15,CSE2258,DSL02
+Monday,9:45 - 10:40,APT4006,Nv02
+Monday,2:30 - 3:25,CSE3512,Nv01
+Monday,2:30 - 3:25,CSE3512,Nv01
+Tuesday,9:45 - 10:40,CSE3512,Nv02
+Friday,3:25 - 4:15,CSE3512,ADS2004
+Friday,3:25 - 4:15,CSE3512,CSD1712
+Monday,3:25 - 4:15,APT4006,CSD3424
+Monday,3:25 - 4:15,APT4006,ADS2007
+Monday,3:25 - 4:15,APT4006,Nv04
+Monday,3:25 - 4:15,CSE3512,CSD3424
+Monday,3:25 - 4:15,CSE3512,ADS2007
+Monday,3:25 - 4:15,CSE3512,Nv04
+Wednesday,3:25 - 4:15,CSE3512,
+Friday,3:25 - 4:15,CSE3512,CSD2016
+Friday,3:25 - 4:15,CSE3512,Nv06
+Tuesday,3:25 - 4:15,APT4006,ADS2004
+Tuesday,3:25 - 4:15,APT4006,Nv05
+Tuesday,3:25 - 4:15,CSE3512,ADS2004
+Tuesday,3:25 - 4:15,CSE3512,Nv05
+Thursday,3:25 - 4:15,CSE3512,CSD1712
+Thursday,3:25 - 4:15,CSE3512,CSD2016
+Friday,3:25 - 4:15,CSE3512,ADS2008
+Friday,3:25 - 4:15,CSE3512,ADS2007
+Monday,3:25 - 4:15,CSE2506,LSL02
+Monday,3:25 - 4:15,CSE2506,Pv01
+Monday,3:25 - 4:15,CSE2506,Nv06
+Monday,Unknown,CSE2269,Nv06
+Monday,Unknown,CSE2269,Nv06
+Monday,Unknown,CSE2269,Nv06
+Monday,Unknown,CSE2269,Nv06
+Monday,9:45 - 10:40,CSE2505,
+Monday,2:30 - 3:25,CSE2266,
+Monday,3:25 - 4:15,CSE2279,LSL02
+Monday,3:25 - 4:15,CSE2279,Pv01
+Monday,3:25 - 4:15,CSE2279,Nv06
+Monday,3:25 - 4:15,CSE3515,LSL02
+Monday,3:25 - 4:15,CSE3515,Pv01
+Monday,3:25 - 4:15,CSE3515,Nv06
+Monday,3:25 - 4:15,CSE3509,LSL02
+Monday,3:25 - 4:15,CSE3509,Pv01
+Monday,3:25 - 4:15,CSE3509,Nv06
+Tuesday,3:25 - 4:15,CSE2270,DFL05
+Tuesday,Unknown,CSE2269,Nv06
+Tuesday,Unknown,CSE2269,Nv06
+Tuesday,Unknown,CSE2269,Nv06
+Tuesday,Unknown,CSE2269,Nv06
+Tuesday,9:45 - 10:40,CSE2505,
+Tuesday,3:25 - 4:15,CSE2264,DFL05
+Tuesday,3:25 - 4:15,CSE2279,DFL05
+Wednesday,Unknown,CSE3507,Nv06
+Wednesday,Unknown,CSE3507,Nv06
+Wednesday,Unknown,CSE3507,Nv06
+Wednesday,9:45 - 10:40,CSE2264,
+Wednesday,3:25 - 4:15,CSE2269,
+Thursday,3:25 - 4:15,CSE2506,LSL02
+Thursday,3:25 - 4:15,CSE2506,Nv06
+Thursday,3:25 - 4:15,CSE2506,Nv06
+Thursday,3:25 - 4:15,APT4006,LSL02
+Thursday,3:25 - 4:15,APT4006,Nv06
+Thursday,3:25 - 4:15,APT4006,Nv06
+Thursday,Unknown,CSE3507,Nv06
+Thursday,Unknown,CSE3507,Nv06
+Thursday,9:45 - 10:40,CSE2266,
+Thursday,3:25 - 4:15,CSE3515,LSL02
+Thursday,3:25 - 4:15,CSE3515,Nv06
+Thursday,3:25 - 4:15,CSE3515,Nv06
+Friday,3:25 - 4:15,CSE2265,
+Friday,2:30 - 3:25,CSE2264,Nv06
+Friday,2:30 - 3:25,CSE2264,Nv06
+Friday,2:30 - 3:25,CSE2264,Nv06
+Friday,3:25 - 4:15,CSE2279,
+Friday,3:25 - 4:15,CSE2266,
+Monday,9:45 - 10:40,CSE2506,LSL02
+Monday,3:25 - 4:15,CSE2270,DSL04
+Monday,3:25 - 4:15,CSE2270,Nv05
+Monday,3:25 - 4:15,CSE2270,Nv05
+Monday,3:25 - 4:15,CSE2270,Nv05
+Monday,3:25 - 4:15,CSE2270,LSL05
+Monday,3:25 - 4:15,CSE2266,DSL04
+Monday,3:25 - 4:15,CSE2266,Nv05
+Monday,3:25 - 4:15,CSE2266,Nv05
+Monday,3:25 - 4:15,CSE2266,Nv05
+Monday,3:25 - 4:15,CSE2266,LSL05
+Monday,3:25 - 4:15,CSE3507,DSL04
+Monday,3:25 - 4:15,CSE3507,Nv05
+Monday,3:25 - 4:15,CSE3507,Nv05
+Monday,3:25 - 4:15,CSE3507,Nv05
+Monday,3:25 - 4:15,CSE3507,LSL05
+Monday,3:25 - 4:15,CSE2269,DSL04
+Monday,3:25 - 4:15,CSE2269,Nv05
+Monday,3:25 - 4:15,CSE2269,Nv05
+Monday,3:25 - 4:15,CSE2269,Nv05
+Monday,3:25 - 4:15,CSE2269,LSL05
+Tuesday,3:25 - 4:15,CSE2265,LGL01
+Tuesday,Unknown,CSE2505,Nv04
+Tuesday,Unknown,CSE2505,Nv04
+Tuesday,Unknown,CSE2505,Nv04
+Tuesday,9:45 - 10:40,CSE2264,
+Tuesday,3:25 - 4:15,CSE2266,LGL01
+Wednesday,3:25 - 4:15,APT4006,Nv06
+Wednesday,3:25 - 4:15,APT4006,Nv04
+Wednesday,9:45 - 10:40,CSE2279,Nv05
+Wednesday,9:45 - 10:40,CSE2279,Pv02
+Wednesday,3:25 - 4:15,CSE2264,Nv06
+Wednesday,3:25 - 4:15,CSE2264,Nv04
+Wednesday,Unknown,CSE3509,
+Thursday,9:45 - 10:40,CSE2269,Nv05
+Thursday,9:45 - 10:40,CSE2269,Nv05
+Thursday,9:45 - 10:40,CSE2269,Nv04
+Thursday,3:25 - 4:15,CSE3507,Nv04
+Thursday,3:25 - 4:15,CSE3507,Nv04
+Thursday,3:25 - 4:15,CSE2279,Nv04
+Thursday,3:25 - 4:15,CSE2279,Nv04
+Thursday,3:25 - 4:15,CSE2266,Nv04
+Thursday,3:25 - 4:15,CSE2266,Nv04
+Thursday,Unknown,CSE3515,
+Thursday,3:25 - 4:15,CSE3509,Nv04
+Thursday,3:25 - 4:15,CSE3509,Nv04
+Friday,3:25 - 4:15,CSE2506,LSL02
+Friday,3:25 - 4:15,CSE2506,Nv05
+Friday,3:25 - 4:15,CSE2506,Nv04
+Friday,Unknown,CSE2264,Nv06
+Friday,Unknown,CSE2264,Nv06
+Friday,9:45 - 10:40,CSE2279,
+Friday,3:25 - 4:15,CSE2505,LSL02
+Friday,3:25 - 4:15,CSE2505,Nv05
+Friday,3:25 - 4:15,CSE2505,Nv04
+Friday,3:25 - 4:15,CSE2269,LSL02
+Friday,3:25 - 4:15,CSE2269,Nv05
+Friday,3:25 - 4:15,CSE2269,Nv04
+Friday,3:25 - 4:15,CSE3515,LSL02
+Friday,3:25 - 4:15,CSE3515,Nv05
+Friday,3:25 - 4:15,CSE3515,Nv04
+Monday,3:25 - 4:15,CSE2506,LSL03
+Monday,3:25 - 4:15,CSE2506,Pv01
+Monday,3:25 - 4:15,CSE2506,Nv06
+Monday,Unknown,CSE2505,Pv01
+Monday,Unknown,CSE2505,Pv01
+Monday,Unknown,CSE2505,Pv01
+Monday,Unknown,CSE2505,Pv01
+Monday,9:45 - 10:40,CSE2266,
+Monday,3:25 - 4:15,CSE2264,LSL03
+Monday,3:25 - 4:15,CSE2264,Pv01
+Monday,3:25 - 4:15,CSE2264,Nv06
+Monday,3:25 - 4:15,CSE3513,LSL03
+Monday,3:25 - 4:15,CSE3513,Pv01
+Monday,3:25 - 4:15,CSE3513,Nv06
+Monday,3:25 - 4:15,CSE3515,LSL03
+Monday,3:25 - 4:15,CSE3515,Pv01
+Monday,3:25 - 4:15,CSE3515,Nv06
+Monday,3:25 - 4:15,CSE3509,LSL03
+Monday,3:25 - 4:15,CSE3509,Pv01
+Monday,3:25 - 4:15,CSE3509,Nv06
+Tuesday,3:25 - 4:15,APT4006,Pv01
+Tuesday,3:25 - 4:15,APT4006,DFL05
+Tuesday,3:25 - 4:15,CSE2270,Pv01
+Tuesday,3:25 - 4:15,CSE2270,DFL05
+Tuesday,Unknown,CSE2279,Pv01
+Tuesday,Unknown,CSE2279,Pv01
+Tuesday,9:45 - 10:40,CSE2269,
+Wednesday,3:25 - 4:15,CSE2265,
+Wednesday,Unknown,CSE2266,Pv01
+Wednesday,Unknown,CSE2266,Pv01
+Wednesday,Unknown,CSE2266,Pv01
+Wednesday,9:45 - 10:40,CSE2505,
+Wednesday,3:25 - 4:15,CSE3513,
+Thursday,Unknown,CSE2266,Pv01
+Thursday,Unknown,CSE2266,Pv01
+Thursday,Unknown,CSE2266,Pv01
+Thursday,Unknown,CSE2266,Pv01
+Thursday,9:45 - 10:40,CSE2269,
+Thursday,2:30 - 3:25,CSE2264,LSL05
+Thursday,3:25 - 4:15,CSE2279,RF01
+Thursday,3:25 - 4:15,CSE2279,Nv06
+Thursday,3:25 - 4:15,CSE3515,RF01
+Thursday,3:25 - 4:15,CSE3515,Nv06
+Friday,3:25 - 4:15,CSE2506,LSL03
+Friday,3:25 - 4:15,CSE2506,Pv01
+Friday,3:25 - 4:15,CSE2506,Pv01
+Friday,3:25 - 4:15,CSE2506,Pv01
+Friday,3:25 - 4:15,CSE2264,LSL03
+Friday,3:25 - 4:15,CSE2264,Pv01
+Friday,3:25 - 4:15,CSE2264,Pv01
+Friday,3:25 - 4:15,CSE2264,Pv01
+Friday,3:25 - 4:15,CSE2279,LSL03
+Friday,3:25 - 4:15,CSE2279,Pv01
+Friday,3:25 - 4:15,CSE2279,Pv01
+Friday,3:25 - 4:15,CSE2279,Pv01
+Friday,3:25 - 4:15,CSE2269,LSL03
+Friday,3:25 - 4:15,CSE2269,Pv01
+Friday,3:25 - 4:15,CSE2269,Pv01
+Friday,3:25 - 4:15,CSE2269,Pv01
+Monday,9:45 - 10:40,CSE2265,
+Monday,3:25 - 4:15,CSE2270,Pv02
+Monday,3:25 - 4:15,CSE2270,Pv02
+Monday,3:25 - 4:15,CSE2270,Pv02
+Monday,3:25 - 4:15,CSE2270,LSL05
+Monday,3:25 - 4:15,CSE2279,Pv02
+Monday,3:25 - 4:15,CSE2279,Pv02
+Monday,3:25 - 4:15,CSE2279,Pv02
+Monday,3:25 - 4:15,CSE2279,LSL05
+Monday,3:25 - 4:15,CSE2269,Pv02
+Monday,3:25 - 4:15,CSE2269,Pv02
+Monday,3:25 - 4:15,CSE2269,Pv02
+Monday,3:25 - 4:15,CSE2269,LSL05
+Monday,3:25 - 4:15,CSE2266,Pv02
+Monday,3:25 - 4:15,CSE2266,Pv02
+Monday,3:25 - 4:15,CSE2266,Pv02
+Monday,3:25 - 4:15,CSE2266,LSL05
+Tuesday,Unknown,CSE2266,Pv02
+Tuesday,Unknown,CSE2266,Pv02
+Tuesday,Unknown,CSE2266,Pv02
+Tuesday,9:45 - 10:40,CSE2264,
+Tuesday,3:25 - 4:15,CSE2279,Pv03
+Tuesday,3:25 - 4:15,CSE2279,LGL01
+Wednesday,3:25 - 4:15,CSE2506,LSL01
+Wednesday,Unknown,CSE3513,Pv02
+Wednesday,Unknown,CSE3513,Pv02
+Wednesday,9:45 - 10:40,CSE2269,Pv02
+Wednesday,Unknown,CSE3509,Pv02
+Wednesday,Unknown,CSE3509,Pv02
+Thursday,3:25 - 4:15,CSE2506,LSL01
+Thursday,9:45 - 10:40,CSE2266,Pv02
+Thursday,9:45 - 10:40,CSE2266,Pv02
+Thursday,9:45 - 10:40,CSE2266,Pv02
+Thursday,9:45 - 10:40,CSE2266,Pv02
+Thursday,9:45 - 10:40,CSE2266,Nv04
+Thursday,3:25 - 4:15,CSE2269,LSL01
+Thursday,3:25 - 4:15,CSE2264,LSL01
+Thursday,3:25 - 4:15,CSE2505,LSL01
+Thursday,Unknown,CSE3515,
+Thursday,3:25 - 4:15,CSE3509,LSL01
+Friday,3:25 - 4:15,APT4006,Pv02
+Friday,Unknown,CSE2279,Pv02
+Friday,Unknown,CSE2279,Pv02
+Friday,Unknown,CSE2279,Pv02
+Friday,Unknown,CSE2279,Pv02
+Friday,9:45 - 10:40,CSE2264,
+Friday,3:25 - 4:15,CSE2505,Pv02
+Friday,3:25 - 4:15,CSE3513,Pv02
+Friday,3:25 - 4:15,CSE3515,Pv02
+Monday,3:25 - 4:15,CSE2265,
+Monday,Unknown,CSE2279,Pv03
+Monday,Unknown,CSE2279,Pv03
+Monday,Unknown,CSE2279,Pv03
+Monday,Unknown,CSE2279,Pv03
+Monday,Unknown,CSE2279,Pv03
+Monday,9:45 - 10:40,CSE2269,
+Monday,2:30 - 3:25,CSE2266,
+Monday,3:25 - 4:15,CSE3509,
+Monday,3:25 - 4:15,CSE2505,
+Tuesday,9:45 - 10:40,CSE2270,DSL04
+Tuesday,3:25 - 4:15,CSE2506,RF03
+Tuesday,3:25 - 4:15,CSE2506,LSL02
+Tuesday,3:25 - 4:15,CSE2506,Pv03
+Tuesday,3:25 - 4:15,CSE2264,RF03
+Tuesday,3:25 - 4:15,CSE2264,LSL02
+Tuesday,3:25 - 4:15,CSE2264,Pv03
+Wednesday,3:25 - 4:15,CSE2506,LSL02
+Wednesday,3:25 - 4:15,CSE2506,Pv03
+Wednesday,3:25 - 4:15,CSE2264,LSL02
+Wednesday,3:25 - 4:15,CSE2264,Pv03
+Thursday,3:25 - 4:15,APT4006,Pv03
+Thursday,Unknown,CSE2279,Pv03
+Thursday,Unknown,CSE2279,Pv03
+Thursday,Unknown,CSE2279,Pv03
+Thursday,Unknown,CSE2279,Pv03
+Thursday,Unknown,CSE2279,Pv03
+Thursday,9:45 - 10:40,CSE3513,
+Thursday,3:25 - 4:15,CSE2266,Pv03
+Thursday,3:25 - 4:15,CSE2505,Pv03
+Thursday,3:25 - 4:15,CSE2269,Pv03
+Friday,Unknown,CSE3513,Pv03
+Friday,Unknown,CSE3513,Pv03
+Friday,Unknown,CSE3513,Pv03
+Friday,Unknown,CSE3513,Pv03
+Friday,Unknown,CSE3513,Pv03
+Friday,Unknown,CSE3513,Pv03
+Friday,9:45 - 10:40,CSE2266,
+Friday,2:30 - 3:25,CSE3509,
+Friday,3:25 - 4:15,CSE2269,
+Friday,3:25 - 4:15,CSE2264,
+Friday,3:25 - 4:15,CSE2279,
+Monday,3:25 - 4:15,APT4006,Pv01
+Monday,3:25 - 4:15,APT4006,LSL05
+Monday,Unknown,CSE2505,Pv02
+Monday,Unknown,CSE2505,Pv02
+Monday,9:45 - 10:40,CSE2279,
+Tuesday,9:45 - 10:40,CSE2265,
+Tuesday,3:25 - 4:15,CSE2506,LSL02
+Tuesday,3:25 - 4:15,CSE2506,Pv01
+Tuesday,3:25 - 4:15,CSE2506,Pv02
+Tuesday,3:25 - 4:15,CSE2506,Pv02
+Tuesday,3:25 - 4:15,CSE3513,LSL02
+Tuesday,3:25 - 4:15,CSE3513,Pv01
+Tuesday,3:25 - 4:15,CSE3513,Pv02
+Tuesday,3:25 - 4:15,CSE3513,Pv02
+Tuesday,3:25 - 4:15,CSE2264,LSL02
+Tuesday,3:25 - 4:15,CSE2264,Pv01
+Tuesday,3:25 - 4:15,CSE2264,Pv02
+Tuesday,3:25 - 4:15,CSE2264,Pv02
+Tuesday,3:25 - 4:15,CSE2269,LSL02
+Tuesday,3:25 - 4:15,CSE2269,Pv01
+Tuesday,3:25 - 4:15,CSE2269,Pv02
+Tuesday,3:25 - 4:15,CSE2269,Pv02
+Wednesday,Unknown,CSE2279,Pv03
+Wednesday,Unknown,CSE2279,Pv03
+Wednesday,9:45 - 10:40,CSE3513,
+Wednesday,2:30 - 3:25,CSE2269,Pv01
+Wednesday,2:30 - 3:25,CSE2269,Pv01
+Wednesday,3:25 - 4:15,CSE2264,Pv02
+Wednesday,3:25 - 4:15,CSE2266,Pv02
+Thursday,9:45 - 10:40,CSE2270,DFL04
+Thursday,2:30 - 3:25,CSE2264,Pv02
+Thursday,2:30 - 3:25,CSE2264,Pv02
+Thursday,3:25 - 4:15,CSE2266,Pv01
+Thursday,3:25 - 4:15,CSE3509,Pv01
+Friday,3:25 - 4:15,CSE2506,LSL02
+Friday,3:25 - 4:15,CSE2506,Pv03
+Friday,Unknown,CSE2279,Pv01
+Friday,Unknown,CSE2279,Pv01
+Friday,Unknown,CSE2279,Pv01
+Friday,Unknown,CSE2279,Pv01
+Friday,9:45 - 10:40,CSE3509,
+Friday,2:30 - 3:25,CSE2505,
+Friday,3:25 - 4:15,CSE2266,LSL02
+Friday,3:25 - 4:15,CSE2266,Pv03
+Friday,3:25 - 4:15,CSE2269,LSL02
+Friday,3:25 - 4:15,CSE2269,Pv03
+Monday,3:25 - 4:15,CSE2506,LSL02
+Monday,3:25 - 4:15,CSE2506,RF01
+Monday,3:25 - 4:15,APT4006,LSL02
+Monday,3:25 - 4:15,APT4006,RF01
+Monday,Unknown,CSE3509,RF01
+Monday,Unknown,CSE3509,RF01
+Monday,Unknown,CSE3509,RF01
+Monday,9:45 - 10:40,CSE2264,
+Monday,3:25 - 4:15,CSE2266,LSL02
+Monday,3:25 - 4:15,CSE2266,RF01
+Tuesday,9:45 - 10:40,CSE2506,LSL02
+Tuesday,3:25 - 4:15,CSE2265,RF01
+Tuesday,3:25 - 4:15,CSE2265,RF01
+Tuesday,3:25 - 4:15,CSE2265,RF01
+Tuesday,3:25 - 4:15,CSE2279,RF01
+Tuesday,3:25 - 4:15,CSE2279,RF01
+Tuesday,3:25 - 4:15,CSE2279,RF01
+Tuesday,3:25 - 4:15,CSE2266,RF01
+Tuesday,3:25 - 4:15,CSE2266,RF01
+Tuesday,3:25 - 4:15,CSE2266,RF01
+Tuesday,3:25 - 4:15,CSE3513,RF01
+Tuesday,3:25 - 4:15,CSE3513,RF01
+Tuesday,3:25 - 4:15,CSE3513,RF01
+Wednesday,Unknown,CSE2264,RF01
+Wednesday,Unknown,CSE2264,RF01
+Wednesday,Unknown,CSE2264,RF01
+Wednesday,Unknown,CSE2264,RF01
+Wednesday,2:30 - 3:25,CSE2279,
+Wednesday,3:25 - 4:15,CSE2269,
+Wednesday,3:25 - 4:15,CSE3509,
+Thursday,Unknown,CSE2279,RF01
+Thursday,Unknown,CSE2279,RF01
+Thursday,Unknown,CSE2279,RF01
+Thursday,9:45 - 10:40,CSE2269,
+Thursday,3:25 - 4:15,CSE2505,LSL05
+Friday,3:25 - 4:15,CSE2270,DFL05
+Friday,Unknown,CSE2505,RF01
+Friday,Unknown,CSE2505,RF01
+Friday,Unknown,CSE2505,RF01
+Friday,Unknown,CSE2505,RF01
+Friday,Unknown,CSE2505,RF01
+Friday,9:45 - 10:40,CSE3513,
+Friday,3:25 - 4:15,CSE2266,DFL05
+Friday,3:25 - 4:15,CSE2269,DFL05
+Friday,3:25 - 4:15,CSE2264,DFL05
+Monday,9:45 - 10:40,CSE2270,DSL05
+Monday,3:25 - 4:15,CSE2265,
+Monday,2:30 - 3:25,CSE3509,RF02
+Monday,2:30 - 3:25,CSE3509,RF02
+Monday,2:30 - 3:25,CSE3509,RF02
+Monday,3:25 - 4:15,CSE3513,
+Monday,3:25 - 4:15,CSE2269,
+Tuesday,2:30 - 3:25,CSE2279,RF02
+Tuesday,2:30 - 3:25,CSE2279,RF02
+Tuesday,2:30 - 3:25,CSE2279,RF02
+Tuesday,3:25 - 4:15,CSE2505,LSL05
+Tuesday,3:25 - 4:15,CSE2266,LSL05
+Wednesday,3:25 - 4:15,CSE2506,LSL02
+Wednesday,Unknown,CSE2505,RF02
+Wednesday,Unknown,CSE2505,RF02
+Wednesday,Unknown,CSE2505,RF02
+Wednesday,Unknown,CSE2505,RF02
+Wednesday,Unknown,CSE2505,RF02
+Wednesday,9:45 - 10:40,CSE2269,
+Wednesday,2:30 - 3:25,CSE2266,
+Wednesday,3:25 - 4:15,CSE3513,LSL02
+Wednesday,3:25 - 4:15,CSE2264,LSL02
+Thursday,9:45 - 10:40,CSE2506,LSL02
+Thursday,3:25 - 4:15,CSE2264,RF02
+Thursday,3:25 - 4:15,CSE2264,RF02
+Thursday,3:25 - 4:15,CSE2264,RF02
+Thursday,3:25 - 4:15,CSE2279,RF02
+Thursday,3:25 - 4:15,CSE2279,RF02
+Thursday,3:25 - 4:15,CSE2279,RF02
+Thursday,3:25 - 4:15,CSE2269,RF02
+Thursday,3:25 - 4:15,CSE2269,RF02
+Thursday,3:25 - 4:15,CSE2269,RF02
+Friday,3:25 - 4:15,APT4006,RF02
+Friday,Unknown,CSE3509,RF02
+Friday,Unknown,CSE3509,RF02
+Friday,Unknown,CSE3509,RF02
+Friday,Unknown,CSE3509,RF02
+Friday,2:30 - 3:25,CSE2264,
+Friday,3:25 - 4:15,CSE2266,RF02
+Friday,3:25 - 4:15,CSE2279,RF02
+Monday,2:30 - 3:25,CSE2264,RF03
+Monday,2:30 - 3:25,CSE2264,RF03
+Monday,2:30 - 3:25,CSE2264,RF03
+Monday,2:30 - 3:25,CSE2264,RF03
+Monday,2:30 - 3:25,CSE2264,RF03
+Monday,3:25 - 4:15,CSE3509,
+Monday,3:25 - 4:15,CSE2269,
+Monday,3:25 - 4:15,CSE2279,
+Monday,3:25 - 4:15,CSE3513,
+Tuesday,Unknown,CSE2266,RF03
+Tuesday,Unknown,CSE2266,RF03
+Tuesday,Unknown,CSE2266,RF03
+Tuesday,Unknown,CSE2266,RF03
+Tuesday,9:45 - 10:40,CSE2279,
+Tuesday,3:25 - 4:15,CSE2269,LSL05
+Tuesday,3:25 - 4:15,CSE2264,LSL05
+Wednesday,3:25 - 4:15,CSE2506,LSL02
+Wednesday,Unknown,CSE2269,RF03
+Wednesday,Unknown,CSE2269,RF03
+Wednesday,Unknown,CSE2269,RF03
+Wednesday,2:30 - 3:25,CSE2266,
+Wednesday,3:25 - 4:15,CSE2279,LSL02
+Thursday,9:45 - 10:40,APT4006,RF03
+Thursday,3:25 - 4:15,CSE2506,LSL02
+Thursday,2:30 - 3:25,CSE2505,RF03
+Thursday,2:30 - 3:25,CSE2505,RF03
+Thursday,2:30 - 3:25,CSE2505,RF03
+Thursday,3:25 - 4:15,CSE2264,LSL02
+Thursday,3:25 - 4:15,CSE3509,LSL02
+Friday,9:45 - 10:40,CSE2270,DFL05
+Friday,3:25 - 4:15,CSE2265,
+Friday,2:30 - 3:25,CSE3513,RF03
+Friday,2:30 - 3:25,CSE3513,RF03
+Friday,2:30 - 3:25,CSE3513,RF03
+Friday,3:25 - 4:15,CSE2266,
+Friday,3:25 - 4:15,CSE2505,
+Monday,3:25 - 4:15,CSE2506,LSL02
+Monday,3:25 - 4:15,CSE2265,LSL02
+Monday,Unknown,CSE2269,RF02
+Monday,Unknown,CSE2269,RF02
+Monday,9:45 - 10:40,CSE3515,
+Monday,2:30 - 3:25,CSE2264,RF01
+Tuesday,3:25 - 4:15,APT4006,RF03
+Tuesday,3:25 - 4:15,APT4006,RF02
+Tuesday,Unknown,CSE2279,RF01
+Tuesday,Unknown,CSE2279,RF01
+Tuesday,Unknown,CSE2279,RF01
+Tuesday,Unknown,CSE2279,RF01
+Tuesday,9:45 - 10:40,CSE2269,
+Tuesday,2:30 - 3:25,CSE3515,
+Tuesday,3:25 - 4:15,CSE3513,RF03
+Tuesday,3:25 - 4:15,CSE3513,RF02
+Tuesday,3:25 - 4:15,CSE2505,RF03
+Tuesday,3:25 - 4:15,CSE2505,RF02
+Wednesday,9:45 - 10:40,CSE2279,RF03
+Wednesday,3:25 - 4:15,CSE2266,LGL01
+Wednesday,3:25 - 4:15,CSE2266,RF01
+Thursday,3:25 - 4:15,CSE2506,LSL02
+Thursday,3:25 - 4:15,CSE2506,RF03
+Thursday,3:25 - 4:15,CSE2506,RF03
+Thursday,Unknown,CSE2505,RF02
+Thursday,Unknown,CSE2505,RF02
+Thursday,Unknown,CSE2505,RF02
+Thursday,9:45 - 10:40,CSE2264,
+Thursday,2:30 - 3:25,CSE2266,
+Thursday,3:25 - 4:15,CSE2269,LSL02
+Thursday,3:25 - 4:15,CSE2269,RF03
+Thursday,3:25 - 4:15,CSE2269,RF03
+Thursday,3:25 - 4:15,CSE2279,LSL02
+Thursday,3:25 - 4:15,CSE2279,RF03
+Thursday,3:25 - 4:15,CSE2279,RF03
+Friday,3:25 - 4:15,CSE2270,RS04
+Friday,3:25 - 4:15,CSE2270,DSL03
+Friday,Unknown,CSE2264,RF03
+Friday,9:45 - 10:40,CSE3513,RF02
+Friday,2:30 - 3:25,CSE2266,RF01
+Monday,9:45 - 10:40,CSE2506,LSL03
+Monday,2:30 - 3:25,CSE2266,RS03
+Monday,2:30 - 3:25,CSE2266,RS03
+Monday,2:30 - 3:25,CSE2266,RS03
+Monday,2:30 - 3:25,CSE2266,RS03
+Monday,2:30 - 3:25,CSE2266,RS03
+Monday,3:25 - 4:15,CSE3513,
+Monday,3:25 - 4:15,CSE2269,
+Monday,3:25 - 4:15,CSE2505,
+Monday,3:25 - 4:15,CSE2264,
+Tuesday,Unknown,CSE2264,RS03
+Tuesday,Unknown,CSE2264,RS03
+Tuesday,Unknown,CSE2264,RS03
+Tuesday,Unknown,CSE2264,RS03
+Tuesday,Unknown,CSE2264,RS03
+Tuesday,Unknown,CSE2264,RS03
+Tuesday,9:45 - 10:40,CSE2266,
+Tuesday,3:25 - 4:15,CSE2279,
+Tuesday,3:25 - 4:15,CSE3515,
+Tuesday,3:25 - 4:15,CSE2269,
+Tuesday,3:25 - 4:15,CSE3513,
+Wednesday,9:45 - 10:40,CSE2270,DSL03
+Wednesday,2:30 - 3:25,CSE2264,RS03
+Wednesday,2:30 - 3:25,CSE2264,RS03
+Wednesday,3:25 - 4:15,CSE3515,
+Thursday,3:25 - 4:15,APT4006,RS03
+Thursday,3:25 - 4:15,APT4006,LSL03
+Thursday,3:25 - 4:15,CSE2506,RS03
+Thursday,3:25 - 4:15,CSE2506,LSL03
+Thursday,2:30 - 3:25,CSE2279,RS03
+Friday,3:25 - 4:15,CSE2265,
+Friday,Unknown,CSE2279,RS03
+Friday,Unknown,CSE2279,RS03
+Friday,Unknown,CSE2279,RS03
+Friday,Unknown,CSE2279,RS03
+Friday,2:30 - 3:25,CSE2505,
+Friday,3:25 - 4:15,CSE2269,
+Friday,3:25 - 4:15,CSE2266,
+Monday,Unknown,CSE2269,RS04
+Monday,Unknown,CSE2269,RS04
+Monday,Unknown,CSE2269,RS04
+Monday,Unknown,CSE2269,RS04
+Monday,Unknown,CSE2269,RS04
+Monday,9:45 - 10:40,CSE3515,
+Monday,2:30 - 3:25,CSE3513,
+Monday,3:25 - 4:15,CSE2279,LGL01
+Monday,3:25 - 4:15,CSE2266,LGL01
+Tuesday,9:45 - 10:40,CSE2506,LSL03
+Tuesday,2:30 - 3:25,CSE3513,RS04
+Tuesday,2:30 - 3:25,CSE3513,RS04
+Tuesday,2:30 - 3:25,CSE3513,RS04
+Tuesday,2:30 - 3:25,CSE3513,RS04
+Tuesday,2:30 - 3:25,CSE3513,RS04
+Tuesday,3:25 - 4:15,CSE2279,
+Tuesday,3:25 - 4:15,CSE2505,
+Tuesday,3:25 - 4:15,CSE2264,
+Tuesday,3:25 - 4:15,CSE2269,
+Wednesday,3:25 - 4:15,CSE2506,LSL03
+Wednesday,Unknown,CSE2264,RS04
+Wednesday,Unknown,CSE2264,RS04
+Wednesday,Unknown,CSE2264,RS04
+Wednesday,9:45 - 10:40,CSE2505,
+Wednesday,3:25 - 4:15,CSE2279,LSL03
+Thursday,3:25 - 4:15,CSE2270,
+Thursday,Unknown,CSE2266,RS04
+Thursday,Unknown,CSE2266,RS04
+Thursday,9:45 - 10:40,CSE2269,
+Friday,3:25 - 4:15,CSE2265,RS04
+Friday,3:25 - 4:15,APT4006,RS04
+Friday,Unknown,CSE3515,RS04
+Friday,Unknown,CSE3515,RS04
+Friday,Unknown,CSE3515,RS04
+Friday,9:45 - 10:40,CSE2264,
+Friday,2:30 - 3:25,CSE2266,
+Monday,Unknown,CSE2279,QS04
+Monday,Unknown,CSE2279,QS04
+Monday,Unknown,CSE2279,QS04
+Monday,Unknown,CSE2279,QS04
+Monday,9:45 - 10:40,CSE3513,
+Monday,3:25 - 4:15,CSE2266,
+Monday,3:25 - 4:15,CSE2264,
+Tuesday,9:45 - 10:40,APT4006,QS04
+Tuesday,3:25 - 4:15,CSE2506,LSL03
+Tuesday,2:30 - 3:25,CSE2279,QS04
+Tuesday,2:30 - 3:25,CSE2279,QS04
+Tuesday,2:30 - 3:25,CSE2279,QS04
+Tuesday,3:25 - 4:15,CSE2266,LSL03
+Tuesday,3:25 - 4:15,CSE3515,LSL03
+Wednesday,3:25 - 4:15,CSE2265,
+Wednesday,Unknown,CSE3515,QS04
+Wednesday,Unknown,CSE3515,QS04
+Wednesday,Unknown,CSE3515,QS04
+Wednesday,Unknown,CSE3515,QS04
+Wednesday,9:45 - 10:40,CSE2266,
+Wednesday,2:30 - 3:25,CSE2264,
+Wednesday,3:25 - 4:15,CSE2269,
+Thursday,Unknown,CSE2505,QS04
+Thursday,Unknown,CSE2505,QS04
+Thursday,Unknown,CSE2505,QS04
+Thursday,Unknown,CSE2505,QS04
+Thursday,Unknown,CSE2505,QS04
+Thursday,9:45 - 10:40,CSE3513,
+Thursday,2:30 - 3:25,CSE2269,
+Thursday,3:25 - 4:15,CSE2264,LGL01
+Thursday,3:25 - 4:15,CSE2279,LGL01
+Friday,3:25 - 4:15,CSE2270,DFL04
+Friday,3:25 - 4:15,CSE2270,LSL03
+Friday,3:25 - 4:15,CSE2506,DFL04
+Friday,3:25 - 4:15,CSE2506,LSL03
+Friday,Unknown,CSE2505,QS04
+Friday,Unknown,CSE2505,QS04
+Friday,9:45 - 10:40,CSE2269,
+Monday,3:25 - 4:15,CSE2506,LSL03
+Monday,3:25 - 4:15,CSE2506,QS04
+Monday,3:25 - 4:15,APT4006,LSL03
+Monday,3:25 - 4:15,APT4006,QS04
+Monday,2:30 - 3:25,CSE3515,QS04
+Tuesday,3:25 - 4:15,CSE2270,DSL05
+Tuesday,3:25 - 4:15,CSE2265,DSL05
+Tuesday,Unknown,CSE2505,RS04
+Tuesday,Unknown,CSE2505,RS04
+Tuesday,9:45 - 10:40,CSE2266,
+Tuesday,2:30 - 3:25,CSE2264,RS03
+Wednesday,Unknown,CSE2264,RS03
+Wednesday,Unknown,CSE2264,RS03
+Wednesday,Unknown,CSE2264,RS03
+Wednesday,9:45 - 10:40,CSE2279,
+Wednesday,2:30 - 3:25,CSE2269,RS04
+Wednesday,3:25 - 4:15,CSE3515,QS04
+Wednesday,3:25 - 4:15,CSE2266,QS04
+Thursday,3:25 - 4:15,CSE2506,LSL03
+Thursday,Unknown,CSE2269,RS03
+Thursday,Unknown,CSE2269,RS03
+Thursday,Unknown,CSE2269,RS03
+Thursday,9:45 - 10:40,CSE2264,
+Thursday,2:30 - 3:25,CSE3513,RS04
+Thursday,2:30 - 3:25,CSE3513,RS04
+Thursday,3:25 - 4:15,CSE2279,LSL03
+Thursday,3:25 - 4:15,CSE2505,LSL03
+Friday,9:45 - 10:40,CSE2279,RS03
+Friday,9:45 - 10:40,CSE2279,RS03
+Friday,2:30 - 3:25,CSE3513,QS04
+Friday,2:30 - 3:25,CSE3513,QS04
+Friday,3:25 - 4:15,CSE2266,LGL01
+Friday,3:25 - 4:15,CSE2269,LGL01
+Monday,3:25 - 4:15,CSE2260,CSD2004
+Monday,3:25 - 4:15,CSE2260,CSD2017
+Monday,3:25 - 4:15,CSE2258,CSD2004
+Monday,3:25 - 4:15,CSE2258,CSD2017
+Tuesday,3:25 - 4:15,CSE2261,CBC2000
+Tuesday,3:25 - 4:15,CSE2261,CSD2017
+Tuesday,3:25 - 4:15,CSE2261,LGL02
+Tuesday,Unknown,CSE2260,QF03
+Tuesday,Unknown,CSE2260,QF03
+Tuesday,Unknown,CSE2260,QF03
+Tuesday,Unknown,CSE2260,QF03
+Tuesday,Unknown,CSE2260,QF03
+Wednesday,3:25 - 4:15,APT4006,QF03
+Thursday,3:25 - 4:15,CSE2259,CSD2017
+Thursday,3:25 - 4:15,CSE2259,CSD3424
+Thursday,3:25 - 4:15,CSE2259,CSD3413
+Thursday,Unknown,CSE2258,QF03
+Thursday,Unknown,CSE2258,QF03
+Thursday,Unknown,CSE2258,QF03
+Thursday,Unknown,CSE2258,QF03
+Thursday,Unknown,CSE2258,QF03
+Friday,9:45 - 10:40,CSE2258,
+Friday,3:25 - 4:15,CSE2260,CSD3424
+Friday,3:25 - 4:15,CSE2260,CSD2004
+Friday,3:25 - 4:15,CSE2260,LSL04
+Monday,3:25 - 4:15,CSE2261,LSL05
+Monday,3:25 - 4:15,CSE2261,LGL03
+Tuesday,9:45 - 10:40,CSE2260,
+Tuesday,2:30 - 3:25,CSE2258,
+Wednesday,3:25 - 4:15,CSE2259,CSD2004
+Wednesday,3:25 - 4:15,CSE2259,LFL05
+Thursday,Unknown,CSE2260,QF04
+Thursday,Unknown,CSE2260,QF04
+Thursday,Unknown,CSE2260,QF04
+Thursday,Unknown,CSE2260,QF04
+Thursday,Unknown,CSE2260,QF04
+Thursday,Unknown,CSE2260,QF04
+Thursday,Unknown,CSE2260,QF04
+Thursday,3:25 - 4:15,CSE2258,CSD2017
+Thursday,3:25 - 4:15,CSE2258,CBC2000
+Thursday,3:25 - 4:15,CSE2258,CSD3413
+Friday,3:25 - 4:15,APT4006,CBC2000
+Friday,3:25 - 4:15,APT4006,CSD3424
+Friday,3:25 - 4:15,APT4006,QF04
+Friday,9:45 - 10:40,CSE2260,
+Friday,3:25 - 4:15,CSE2258,CBC2000
+Friday,3:25 - 4:15,CSE2258,CSD3424
+Friday,3:25 - 4:15,CSE2258,QF04
+Monday,3:25 - 4:15,APT4006,CBC2000
+Monday,3:25 - 4:15,APT4006,CSD2004
+Monday,3:25 - 4:15,APT4006,CSD3424
+Monday,3:25 - 4:15,APT4006,RF04
+Monday,9:45 - 10:40,CSE2258,
+Tuesday,3:25 - 4:15,CSE2260,CSD2004
+Tuesday,3:25 - 4:15,CSE2260,CSD2017
+Tuesday,3:25 - 4:15,CSE2260,LSL03
+Wednesday,2:30 - 3:25,CSE2260,
+Thursday,3:25 - 4:15,CSE2261,CSD2017
+Thursday,3:25 - 4:15,CSE2261,LGL04
+Thursday,Unknown,CSE2258,RF04
+Thursday,Unknown,CSE2258,RF04
+Thursday,Unknown,CSE2258,RF04
+Thursday,Unknown,CSE2258,RF04
+Thursday,3:25 - 4:15,CSE2260,CSD2017
+Thursday,3:25 - 4:15,CSE2260,LGL04
+Friday,9:45 - 10:40,CSE2259,LFL04
+Friday,3:25 - 4:15,CSE2258,CSD2004
+Friday,3:25 - 4:15,CSE2258,CSD2002
+Friday,3:25 - 4:15,CSE2258,CSD3413
+Monday,9:45 - 10:40,CSE2259,LSL05
+Monday,3:25 - 4:15,CSE2506,CCS2503
+Monday,3:25 - 4:15,CSE2506,LSL03
+Monday,3:25 - 4:15,CSE2506,QS02
+Monday,3:25 - 4:15,CSE2266,CCS2503
+Monday,3:25 - 4:15,CSE2266,LSL03
+Monday,3:25 - 4:15,CSE2266,QS02
+Tuesday,Unknown,CSE2264,QS02
+Tuesday,Unknown,CSE2264,QS02
+Tuesday,Unknown,CSE2264,QS02
+Tuesday,3:25 - 4:15,CSE2266,QF04
+Tuesday,3:25 - 4:15,CSE2266,QF03
+Tuesday,3:25 - 4:15,CSE2505,QF04
+Tuesday,3:25 - 4:15,CSE2505,QF03
+Tuesday,3:25 - 4:15,CSE2258,QF04
+Tuesday,3:25 - 4:15,CSE2258,QF03
+Wednesday,3:25 - 4:15,APT4006,QF03
+Wednesday,2:30 - 3:25,CSE2264,QF04
+Thursday,9:45 - 10:40,CSE2506,LSL03
+Thursday,3:25 - 4:15,CSE2258,CBC2000
+Thursday,3:25 - 4:15,CSE2258,RF04
+Thursday,3:25 - 4:15,CSE2258,QS02
+Thursday,3:25 - 4:15,CSE2258,QS02
+Thursday,3:25 - 4:15,CSE2266,CBC2000
+Thursday,3:25 - 4:15,CSE2266,RF04
+Thursday,3:25 - 4:15,CSE2266,QS02
+Thursday,3:25 - 4:15,CSE2266,QS02
+Thursday,3:25 - 4:15,CSE2505,CBC2000
+Thursday,3:25 - 4:15,CSE2505,RF04
+Thursday,3:25 - 4:15,CSE2505,QS02
+Thursday,3:25 - 4:15,CSE2505,QS02
+Friday,3:25 - 4:15,CSE2265,
+Friday,9:45 - 10:40,CSE2258,
+Friday,2:30 - 3:25,CSE2264,QF03
+Monday,3:25 - 4:15,CSE2259,LSL05
+Monday,3:25 - 4:15,CSE2264,LSL05
+Tuesday,3:25 - 4:15,CSE2258,CSN2500
+Tuesday,3:25 - 4:15,CSE2264,CSN2500
+Wednesday,3:25 - 4:15,CSE2265,
+Wednesday,Unknown,CSE2258,QT04
+Wednesday,Unknown,CSE2258,QT04
+Thursday,3:25 - 4:15,APT4006,QT04
+Thursday,3:25 - 4:15,CSE2264,QT04
+Friday,3:25 - 4:15,CSE2258,CCS2503
+Friday,3:25 - 4:15,CSE2258,CSN2500
+Monday,3:25 - 4:15,CSE2502,RAI2001
+Monday,3:25 - 4:15,CSE2502,RAI2000
+Monday,3:25 - 4:15,CSE2502,DTL02
+Tuesday,3:25 - 4:15,APT4006,CAI3400
+Tuesday,3:25 - 4:15,APT4006,PS04
+Tuesday,3:25 - 4:15,CSE2272,CAI3400
+Tuesday,3:25 - 4:15,CSE2272,PS04
+Wednesday,9:45 - 10:40,CSE2272,
+Thursday,3:25 - 4:15,CSE2273,CCS2506
+Thursday,3:25 - 4:15,CSE2273,ISE2500
+Thursday,3:25 - 4:15,CSE2273,LGL01
+Thursday,9:45 - 10:40,CSE2502,
+Friday,3:25 - 4:15,CSE2502,ISE2501
+Friday,3:25 - 4:15,CSE2502,CAI3400
+Friday,3:25 - 4:15,CSE2502,DSL02
+Monday,2:30 - 3:25,CSE2502,NT01
+Monday,2:30 - 3:25,CSE2502,NT01
+Monday,2:30 - 3:25,CSE2502,NT01
+Monday,2:30 - 3:25,CSE2502,NT01
+Monday,2:30 - 3:25,CSE2502,NT01
+Monday,2:30 - 3:25,CSE2502,CAI3400
+Tuesday,3:25 - 4:15,CSE2273,RAI2001
+Tuesday,3:25 - 4:15,CSE2273,LGL01
+Tuesday,3:25 - 4:15,CSE2273,DTL02
+Tuesday,3:25 - 4:15,CSE2273,CAI3400
+Tuesday,3:25 - 4:15,CSE2273,PS04
+Wednesday,3:25 - 4:15,CSE2502,MEC3074
+Wednesday,3:25 - 4:15,CSE2502,NT01
+Thursday,9:45 - 10:40,APT4006,NT01
+Thursday,3:25 - 4:15,CSE2272,ISE2500
+Thursday,3:25 - 4:15,CSE2272,ISE2502
+Thursday,3:25 - 4:15,CSE2272,MEC3074
+Thursday,3:25 - 4:15,CSE2272,NT01
+Thursday,3:25 - 4:15,CSE2272,Nv01
+Friday,Unknown,CSE2272,NT01
+Friday,Unknown,CSE2272,NT01
+Friday,Unknown,CSE2272,NT01
+Friday,Unknown,CSE2272,NT01
+Friday,2:30 - 3:25,CSE2502,
+Monday,9:45 - 10:40,CSE2273,LGL01
+Monday,3:25 - 4:15,APT4006,ISE2500
+Monday,3:25 - 4:15,APT4006,CCS2506
+Monday,3:25 - 4:15,APT4006,PS04
+Monday,3:25 - 4:15,APT4006,QT04
+Monday,3:25 - 4:15,APT4006,QT04
+Tuesday,3:25 - 4:15,CSE2502,ISE2502
+Tuesday,3:25 - 4:15,CSE2502,MEC3074
+Tuesday,3:25 - 4:15,CSE2502,CCS2506
+Tuesday,3:25 - 4:15,CSE2502,NT01
+Tuesday,3:25 - 4:15,CSE2502,NT01
+Tuesday,3:25 - 4:15,CSE2502,NT01
+Tuesday,3:25 - 4:15,CSE2502,NT01
+Wednesday,9:45 - 10:40,CSE2272,
+Thursday,2:30 - 3:25,CSE2272,PS04
+Thursday,2:30 - 3:25,CSE2272,PS04
+Thursday,2:30 - 3:25,CSE2272,PS04
+Thursday,3:25 - 4:15,CSE2502,RAI2000
+Friday,Unknown,CSE2502,QT04
+Monday,3:25 - 4:15,APT4006,IST2503
+Monday,3:25 - 4:15,APT4006,IST2000
+Monday,3:25 - 4:15,APT4006,Qiv04
+Monday,3:25 - 4:15,APT4006,Qiv04
+Monday,Unknown,CSE2258,Qiv04
+Monday,Unknown,CSE2258,Qiv04
+Monday,Unknown,CSE2258,Qiv04
+Monday,Unknown,CSE2258,Qiv04
+Monday,9:45 - 10:40,CSE2266,
+Tuesday,9:45 - 10:40,CSE2259,LGL03
+Tuesday,2:30 - 3:25,CSE2266,Qiv04
+Tuesday,2:30 - 3:25,CSE2266,Qiv04
+Tuesday,2:30 - 3:25,CSE2266,Qiv04
+Tuesday,2:30 - 3:25,CSE2266,CCS2503
+Tuesday,3:25 - 4:15,CSE2505,IST2503
+Tuesday,3:25 - 4:15,CSE2505,Pv02
+Wednesday,9:45 - 10:40,CSE2506,LSL02
+Wednesday,9:45 - 10:40,CSE2506,Qiv04
+Wednesday,3:25 - 4:15,CSE2505,IST2500
+Wednesday,3:25 - 4:15,CSE2505,Qiv04
+Wednesday,3:25 - 4:15,CSE2505,Qiv04
+Wednesday,3:25 - 4:15,CSE2505,Pv04
+Thursday,2:30 - 3:25,CSE2258,
+Thursday,3:25 - 4:15,CSE2266,IST2000
+Thursday,3:25 - 4:15,CSE2266,IST2500
+Friday,9:45 - 10:40,CSE2506,LSL02
+Friday,3:25 - 4:15,CSE2258,IST2000
+Monday,Unknown,CSE2266,Pv04
+Monday,Unknown,CSE2266,Pv04
+Monday,Unknown,CSE2266,Pv04
+Monday,Unknown,CSE2266,Pv04
+Monday,9:45 - 10:40,CSE2505,
+Tuesday,9:45 - 10:40,APT4006,Pv04
+Tuesday,3:25 - 4:15,CSE2506,IST2000
+Tuesday,3:25 - 4:15,CSE2506,LSL02
+Tuesday,3:25 - 4:15,CSE2506,Pv02
+Tuesday,3:25 - 4:15,CSE2258,IST2000
+Tuesday,3:25 - 4:15,CSE2258,LSL02
+Tuesday,3:25 - 4:15,CSE2258,Pv02
+Wednesday,9:45 - 10:40,CSE2258,Qiv04
+Wednesday,3:25 - 4:15,CSE2266,Pv04
+Wednesday,3:25 - 4:15,CSE2505,Pv04
+Thursday,3:25 - 4:15,CSE2259,
+Friday,3:25 - 4:15,CSE2506,IST2500
+Friday,3:25 - 4:15,CSE2506,LSL02
+Friday,Unknown,CSE2266,Pv04
+Friday,Unknown,CSE2266,Pv04
+Friday,Unknown,CSE2266,Pv04
+Friday,Unknown,CSE2266,Pv04
+Friday,2:30 - 3:25,CSE2258,
